@@ -11,6 +11,7 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 # Currently working on
 
 I'm currently working on adding new ships, and my plan is to add:
+
 MILITARY SHIPS:
 - 2 Heavy Warships; One will be the primary battleship (very rarely seen to escort a big civilian fleet), the other will be even stronger and will be their "flagship". 
 - 1 Medium Warship (the Derogam Assassin); Meant to be their main warship, and will often lead small fleets. Sometimes used to defend their civilians.
