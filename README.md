@@ -14,7 +14,7 @@ I'm currently working on adding new ships, and my plan is to add:
 
 MILITARY SHIPS:
 - 2 Heavy Warships; One will be the primary battleship (very rarely seen to escort a big civilian fleet), the other will be even stronger and will be their "flagship". 
-- 1 Medium Warship (the Derogam Assassin); Meant to be their main warship, and will often lead small fleets. Sometimes used to defend their civilians.
+- 1 Medium Warship (the Derogam Assassin); Meant to be the main warship, it will often lead small fleets. Sometimes used to defend their civilians.
 - 1 Light Warship; A smaller ship meant to accompany bigger ships as escorts or lead very small fleets. Often used to defend their civilians.
 - 1 "Gunship"; More guns, no turrets, agile, fragile, and will have 1-2 Fighters. Will be classified as Light or Medium Warship. Often used to defend their civilians.
 - 1 "Light Carrier"; It will be very weak on it's own, which means low survivability, being slow and low armament. It'll be able to carry about 6-8 Fighters under 2 side "clamps", meaning the ship will be quite long and look fragile. Will be classified as Light or Medium Warship. To keep the Derogam from relying a lot on huge Fighter fleets, this ship will be relatively rare.
@@ -32,4 +32,4 @@ CIVILIAN SHIPS:
 
 # Feedback
 
-Please take a look and enjoy what I make, and give feedback even about the tiniest things like a typo, or an outfit/weapon that may seem too stromg.
+Please take a look and enjoy what I make, and give feedback even about the tiniest things like a typo, or an outfit/weapon that may seem too strong.
