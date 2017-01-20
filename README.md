@@ -33,3 +33,7 @@ CIVILIAN SHIPS:
 # Feedback
 
 Please take a look and enjoy what I make, and give feedback even about the tiniest things like a typo, or an outfit/weapon that may seem too strong.
+
+# License
+
+GNU General Public License v3
