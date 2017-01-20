@@ -2,7 +2,7 @@
 This is my first actual Endless Sky project, and the goal is to add an entire new species to the game with this plugin. I hope that when I'm fully done with it it could actually be added to the game itself.
 
 
-# The species
+# Who/what the Derogam are
 
 Since I couldn't really come up with a good name, I decided to go with an alien-ish name; the Derogam. They're dragon-like aliens (which you can see from the first ship I made: the Derogam Assassin). They'll be very advanced aliens, balanced around the Heliarch, Wanderers and Korath Automatons, with interesting, new, and hopefully original distinctions.
 
