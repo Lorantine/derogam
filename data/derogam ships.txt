@@ -36,15 +36,15 @@ ship "Derogam Assassin"
 		"A520 Atomic Thruster"
 		"Large Heat Shunt"
 		"Antimatter Core"
-	engine -34 113 .75
-	engine 0 123 .9
-	engine 34 113 .75
-	gun -75 -78
-	gun -64 -78
-	gun 64 -78
-	gun 75 -78
-	turret -70 -38
-	turret 70 -38
-	turret -70 16
-	turret 70 16
+	engine -34 110 .75
+	engine 0 120 .9
+	engine 34 110 .75
+	gun -20 -144
+	gun -12 -150
+	gun 12 -150
+	gun 20 -140
+	turret -45 -88
+	turret 45 -88
+	turret -45 12
+	turret 45 12
 	description "Don't mind the outfits etc. it's WIP."
