@@ -37,3 +37,7 @@ Please take a look and enjoy what I make, and give feedback even about the tinie
 # License
 
 GNU General Public License v3
+
+# Special thanks to
+
+@Wrzlprnft (https://github.com/Wrzlprnft) for teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
