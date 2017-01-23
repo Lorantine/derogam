@@ -22,7 +22,7 @@ ship "Derogam Assassin"
 		"heat dissipation" .7
 		"fuel capacity" 800
 		"cargo space" 64
-		"outfit space" 634
+		"outfit space" 679
 		"weapon capacity" 316
 		"engine capacity" 131
 		weapon
@@ -39,10 +39,10 @@ ship "Derogam Assassin"
 	engine -34 120 .75
 	engine 0 130 .9
 	engine 34 120 .75
-	gun -20 -144
-	gun -12 -150
-	gun 12 -150
-	gun 20 -140
+	gun -20 -145
+	gun -12 -151
+	gun 12 -151
+	gun 20 -145
 	turret -45 -88
 	turret 45 -88
 	turret -45 12
