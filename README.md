@@ -32,7 +32,7 @@ CIVILIAN SHIPS:
 
 # Feedback
 
-Please take a look and enjoy what I make, and give feedback even about the tiniest things like a typo, or an outfit/weapon that may seem too strong.
+Please take a look and enjoy what I make, and give feedback about anything, even about the tiniest things like a typo, or an outfit/weapon that may seem too weak/strong. And feel free to ask something or sharing an idea by creating an issue.
 
 # License
 
@@ -40,4 +40,6 @@ GNU General Public License v3
 
 # Special thanks to
 
-@Wrzlprnft (https://github.com/Wrzlprnft) for teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
+@Wrzlprnft (https://github.com/Wrzlprnft) for
+- teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
+- helping me learn some Blender features (some hotkeys etc.)
