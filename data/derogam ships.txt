@@ -13,8 +13,8 @@ ship "Derogam Assassin"
 	attributes
 		category "Medium Warship"
 		"cost" 38653000
-		"shields" 57800
-		"hull" 44200
+		"shields" 52800
+		"hull" 34200
 		"required crew" 34
 		"bunks" 65
 		"mass" 610
