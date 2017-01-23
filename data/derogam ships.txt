@@ -20,31 +20,35 @@ ship "Derogam Assassin"
 		"mass" 610
 		"drag" 8.6
 		"heat dissipation" .7
-		"fuel capacity" 800
+		"fuel capacity" 700
 		"cargo space" 64
 		"outfit space" 679
 		"weapon capacity" 316
 		"engine capacity" 131
 		weapon
 			"blast radius" 200
-			"shield damage" 2500
-			"hull damage" 1250
+			"shield damage" 4000
+			"hull damage" 2000
 			"hit force" 3500
 	outfits
+		"Finisher Pod" 4
+		"Finisher Torpedo" 160
+		"Bombardment Turret" 4
 		Hyperdrive
-		"A375 Atomic Steering"
-		"A520 Atomic Thruster"
-		"Large Heat Shunt"
-		"Antimatter Core"
+		"Steering (Planetary Class)"
+		"Small Heat Shunt"
+		"Thruster (Planetary Class)"
+		"Systems Core (Medium)"
+		"Blue Sun Reactor"
 	engine -34 120 .75
 	engine 0 130 .9
 	engine 34 120 .75
-	gun -20 -145
-	gun -12 -151
-	gun 12 -151
-	gun 20 -145
-	turret -45 -88
-	turret 45 -88
-	turret -45 12
-	turret 45 12
+	gun -20 -145 "Finisher Pod"
+	gun -12 -151 "Finisher Pod"
+	gun 12 -151 "Finisher Pod"
+	gun 20 -145 "Finisher Pod"
+	turret -45 -88 "Bombardment Turret"
+	turret 45 -88 "Bombardment Turret"
+	turret -45 12 "Bombardment Turret"
+	turret 45 12 "Bombardment Turret"
 	description "Don't mind the outfits etc. it's WIP."
