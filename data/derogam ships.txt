@@ -19,7 +19,7 @@ ship "Derogam Assassin"
 		"bunks" 65
 		"mass" 610
 		"drag" 8.6
-		"heat dissipation" .7
+		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 64
 		"outfit space" 679
