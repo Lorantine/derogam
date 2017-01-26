@@ -19,12 +19,18 @@ ship "Derogam Assassin"
 		"bunks" 65
 		"mass" 610
 		"drag" 8.6
-		"heat dissipation" 1
+		"heat dissipation" .9
 		"fuel capacity" 700
 		"cargo space" 64
 		"outfit space" 679
 		"weapon capacity" 316
 		"engine capacity" 131
+		"energy generation" 1
+		"energy capacity" 800
+		"shield generation" .4
+		"shield energy" .4
+		"hull repair rate" .3
+		"hull energy" .3
 		weapon
 			"blast radius" 200
 			"shield damage" 4000
@@ -51,4 +57,4 @@ ship "Derogam Assassin"
 	turret 45 -88 "Bombardment Turret"
 	turret -45 12 "Bombardment Turret"
 	turret 45 12 "Bombardment Turret"
-	description "Don't mind the outfits etc. it's WIP."
+	description `The Assassin is the Derogam's main medium warship, although it has an unusual style; it's meant to be a fast ship with high firepower to take out priority targets. The Assassin was also the first ship to test a new so-called 'vein' technology which distributes various substances around the ship in the tubes around its hull. This gives the ship some extra utility in the form of a little hull and shield regeneration, converting some heat to energy, and unusually efficient heat dissipation, enabling it to take a very large amount of heat.`
