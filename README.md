@@ -13,7 +13,7 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 I'm currently working on adding new ships, and my plan is to add:
 
 MILITARY SHIPS:
-- 2 Heavy Warships; One will be the primary battleship (very rarely seen to escort a big civilian fleet) (CURRENTLY WORKING ON), the other will be even stronger and will be their "flagship". 
+- 2 Heavy Warships (the Derogam Warrior and Derogam Guardian); One will be the primary battleship (very rarely seen to escort a big civilian fleet), the other will be even stronger and will be their "flagship". 
 - 1 Medium Warship (the Derogam Assassin); Meant to be the main warship, it will often lead small fleets. Sometimes used to defend their civilians.
 - 1 Light Warship; A smaller ship meant to accompany bigger ships as escorts or lead very small fleets. Often used to defend their civilians.
 - 1 "Gunship"; More guns, no turrets, agile, fragile, and will have 1-2 Fighters. Will be classified as Light or Medium Warship. Often used to defend their civilians.
