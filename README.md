@@ -43,3 +43,4 @@ GNU General Public License v3
 @Wrzlprnft (https://github.com/Wrzlprnft) for
 - teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
 - helping me learn some Blender features (some hotkeys etc.)
+- some feedback on things (like the Warrior's wings that were too bright)
