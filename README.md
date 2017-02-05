@@ -27,7 +27,7 @@ CIVILIAN SHIPS:
 - 1 Medium Transport; A more advanced transport ship designed to take larger groups of civilians to multiple destinations at once. Medium civilian ships will have decent armament to protect itself or support other ships when needed.
 - 1 Large Transport; The biggest transport ship, used to carry either a lot of civilians or a few special ones (in which case they will be accompanied by a strong military fleet). Large civilian ships will have good armament similar to a Medium Warship.
 - 2 Small Freighters; One will be a hybrid (Transport+Freighter) that can take both cargo and passenger transport missions, the other will be a small cargo ship meant for quick specific transport missions.
-- 2 Medium Freighters; One will be a hybrid that is commonly used to transport both cargo and passengers to destinations close to each other, the other will be a medium cargo ship commonly used to make multiple deliveries to destinations close to each other.
+- 2 Medium Freighters; One will be a hybrid that is commonly used to transport both cargo and passengers to destinations close to each other, the other (CURRENTLY WORKING ON) will be a medium cargo ship commonly used to make multiple deliveries to destinations close to each other.
 - 2 Large Freighters; One will be a hybrid designed to take on lots of different missions to all kinds of places, the other is used to transport large amounts of cargo, and is even used by the military when needed to bring supplies to the front line.
 
 # Feedback
