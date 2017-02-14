@@ -8,6 +8,14 @@ Since I couldn't really come up with a good name, I decided to go with an alien-
 
 For example, the first weapon I made: the Pestillence Turret, it's meant to be a greenish (no projectile sprite yet) laser beam that does not do any damage, but it gives the ship it hits several disadvantages. To keep it fun to fight them (or basically balanced as I only have a vague idea for the story) it'll be quite big and it will drain a lot of energy, meaning only big ships can actually utilize one. Some ships may even get small integrated bonus stats, like a little energy generation, shield regeneration, hull repair or whatever.
 
+# Schedule
+
+I'm gonna try and finish the Medium Freighter before 19 February and make the Small & Large versions before end February (took way longer due to some real life stuff). And hooray got one person to star this page! \( ͡° ͜ʖ ͡°)/
+
+End March I want all Transports done as well (I'll try and get all 9 civilian ships by then, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is).
+
+After that I want to make some outfits to start replacing all temporary outfits.
+
 # What I'm currently working on (a little fancy description for each ship)
 
 I'm currently working on adding new ships, and my plan is to add:
