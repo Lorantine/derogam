@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Derogam Pestillence"
+outfit "Derogam Pestilence"
 	category "Turrets"
 	cost 1386000
 	thumbnail "outfit/unknown"
@@ -18,18 +18,18 @@ outfit "Derogam Pestillence"
 	"required crew" 1
 	"turret mounts" -1
 	weapon
-		sprite "projectile/pestillence"
-			"frame rate" 10
+		sprite "projectile/pestilence"
+			"frame rate" 1
 		sound "heavy laser"
-		"hit effect" "pestillence"
+		"hit effect" "pestilence"
 		"inaccuracy" 5
 		"velocity" 520
-		"lifetime" 80
-		"reload" 40
+		"lifetime" 1
+		"reload" .5
 		"firing energy" 11.4
-		"firing heat" 2.9
+		"firing heat" 7.2
 		"disruption damage" .27
 		"ion damage" .14
 		"heat damage" 7.9
 		"slowing damage" .12
-	description `The Derogam Pestillence is meant solely as a support weapon to give enemy ships a disadvantage in combat. Not only does it disrupt the target's shields, it also drains it's batteries doing so. This proces leaves a considerable amount of heat behind and even slows the target. It's only downside is that it does no damage, but when paired with strong weapons it's a deadly combination.`
+	description `The Derogam Pestilence is designed solely as a support weapon to give enemy ships a disadvantage in combat. Not only does it disrupt the target's shields, it also drains it's batteries doing so. This proces leaves a considerable amount of heat behind and even slows the target. It's only downside is that it does no damage, but when paired with strong weapons it's a deadly combination.`

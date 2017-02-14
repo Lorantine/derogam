@@ -8,6 +8,8 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+# Military ships.
+
 ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
 	attributes
@@ -19,12 +21,12 @@ ship "Derogam Assassin"
 		"bunks" 65
 		"mass" 610
 		"drag" 8.6
-		"heat dissipation" .9
+		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 64
 		"outfit space" 679
 		"weapon capacity" 316
-		"engine capacity" 131
+		"engine capacity" 126
 		"energy generation" 1
 		"energy capacity" 800
 		"shield generation" .4
@@ -59,6 +61,11 @@ ship "Derogam Assassin"
 	turret 45 -88 "Bombardment Turret"
 	turret -45 12 "Bombardment Turret"
 	turret 45 12 "Bombardment Turret"
+	explode "small explosion" 50
+	explode "medium explosion" 35
+	explode "large explosion" 20
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
 	description `The Assassin is the Derogam's main medium warship, although it has an unusual style; it's meant to be a fast ship with high firepower to take out priority targets. The Assassin was also the first ship to test a new so-called 'vein' technology which distributes various substances around the ship in the tubes around its hull. This gives the ship some extra utility in the form of a little hull and shield regeneration, converting some heat to energy, and unusually efficient heat dissipation, enabling it to take a very large amount of heat.`
 
 ship "Derogam Warrior"
@@ -72,12 +79,12 @@ ship "Derogam Warrior"
 		"bunks" 146
 		"mass" 980
 		"drag" 14.6
-		"heat dissipation" .9
+		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 97
 		"outfit space" 992
 		"weapon capacity" 432
-		"engine capacity" 184
+		"engine capacity" 157
 		"energy generation" 2
 		"energy capacity" 1600
 		"shield generation" .8
@@ -120,4 +127,36 @@ ship "Derogam Warrior"
 	turret 67 -82 "Bombardment Turret"
 	turret 67 -115 "Bombardment Turret"
 	turret 67 -148 "Bombardment Turret"
+	explode "small explosion" 80
+	explode "medium explosion" 60
+	explode "large explosion" 40
+	explode "huge explosion" 20
+	"final explode" "final explosion large"
 	description `The Warrior's design is, as its look suggests, based on the Assassin; it was even the second ship to test the 'vein' technology for its successor, the Guardian. Because it is primarily serving as the Derogam's offensive heavy warship, the Warrior has a lot of weapon hardpoints, intended to enable a wide variety when outfitting it instead of filling all hardpoints at once. This means some are outfitted as torpedo ships while others use the turrets for raw damage instead.`
+
+# Civilian ships.
+
+ship "Derogam Python"
+	sprite "ship/derogam python"
+	attributes
+		category "Heavy Freighter"
+		"cost" 12398000
+		"shields" 14300
+		"hull" 10600
+		"required crew" 12
+		"bunks" 26
+		"mass" 360
+		"drag" 9.4
+		"heat dissipation" .8
+		"fuel capacity" 700
+		"cargo space" 329
+		"outfit space" 437
+		"weapon capacity" 157
+		"engine capacity" 102
+		weapon
+			"blast radius" 100
+			"shield damage" 2000
+			"hull damage" 1000
+			"hit force" 1500
+	outfits
+	description ``
