@@ -10,7 +10,7 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-I'm gonna try and finish the Medium Freighter before 19 February and make the Small & Large versions before end February (took way longer due to some real life stuff). And hooray got one person to star this page! \( ͡° ͜ʖ ͡°)/
+I'm gonna try and finish the Medium Freighter before 19 February and make the Small & Large versions before end February (took way longer due to some real life stuff). And hooray got one person to star this page! \\( ͡° ͜ʖ ͡°)/
 
 End March I want all Transports done as well (I'll try and get all 9 civilian ships by then, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is).
 
