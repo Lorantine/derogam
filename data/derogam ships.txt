@@ -145,18 +145,41 @@ ship "Derogam Python"
 		"hull" 10600
 		"required crew" 12
 		"bunks" 26
-		"mass" 360
+		"mass" 520
 		"drag" 9.4
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 329
-		"outfit space" 437
-		"weapon capacity" 157
-		"engine capacity" 102
+		"outfit space" 481
+		"weapon capacity" 186
+		"engine capacity" 104
 		weapon
 			"blast radius" 100
 			"shield damage" 2000
 			"hull damage" 1000
 			"hit force" 1500
 	outfits
-	description ``
+		"Finisher Pod" 2
+		"Finisher Torpedo" 80
+		"Bombardment Turret" 2
+		"Korath Warder"
+
+		"Blue Sun Reactor"
+		"Systems Core (Small)"
+
+		"Steering (Planetary Class)"
+		"Thruster (Lunar Class)"
+		Hyperdrive
+	engine 0 141 1.4
+	gun -14 -123
+	gun 14 -123
+	turret -27 -13
+	turret 0 -43
+	turret 27 -13
+	explode "tiny explosion" 20
+	explode "small explosion" 30
+	explode "medium explosion" 20
+	explode "large explosion" 10
+	explode "huge explosion" 5
+	"final explode" "final explosion large"
+	description `Coming soon.`
