@@ -8,7 +8,8 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-# Military ships.
+# Military ships
+# Base ships
 
 ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
@@ -134,7 +135,8 @@ ship "Derogam Warrior"
 	"final explode" "final explosion large"
 	description `The Warrior's design is, as its look suggests, based on the Assassin; it was even the second ship to test the 'vein' technology for its successor, the Guardian. Because it is primarily serving as the Derogam's offensive heavy warship, the Warrior has a lot of weapon hardpoints, intended to enable a wide variety when outfitting it instead of filling all hardpoints at once. This means some are outfitted as torpedo ships while others use the turrets for raw damage instead.`
 
-# Civilian ships.
+# Civilian ships
+# Freighters
 
 ship "Derogam Collector"
 	sprite "ship/derogam collector"
