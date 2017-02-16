@@ -10,11 +10,11 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-I'm gonna try and finish the Medium Freighter before 19 February and make the Small & Large versions before end February (took way longer due to some real life stuff). And hooray got one person to star this page! \\( ͡° ͜ʖ ͡°)/
+Finished the Derogam Collector (Medium Freighter), HOORAY! Now I'll make the Small & Large versions and try to be done end March (took way longer due to some real life stuff).
 
-End March I want all Transports done as well (I'll try and get all 9 civilian ships by then, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is).
+End March I want all Transports done as well (I'll try and get all 9 civilian ships by then, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is). I hope the civilian ships are all done before May, but I really don't know, but be happy; quality takes time.
 
-After that I want to make some outfits to start replacing all temporary outfits.
+After that I want to make some outfits to start replacing all temporary outfits. I'll work a bit all-round when I feel like it.
 
 # What I'm currently working on (a little fancy description for each ship)
 
@@ -35,7 +35,7 @@ CIVILIAN SHIPS:
 - 1 Medium Transport; A more advanced transport ship designed to take larger groups of civilians to multiple destinations at once. Medium civilian ships will have decent armament to protect itself or support other ships when needed.
 - 1 Large Transport; The biggest transport ship, used to carry either a lot of civilians or a few special ones (in which case they will be accompanied by a strong military fleet). Large civilian ships will have good armament similar to a Medium Warship.
 - 2 Small Freighters; One will be a hybrid (Transport+Freighter) that can take both cargo and passenger transport missions, the other will be a small cargo ship meant for quick specific transport missions.
-- 2 Medium Freighters; One will be a hybrid that is commonly used to transport both cargo and passengers to destinations close to each other, the other (CURRENTLY WORKING ON) will be a medium cargo ship commonly used to make multiple deliveries to destinations close to each other.
+- 2 Medium Freighters; One will be a hybrid that is commonly used to transport both cargo and passengers to destinations close to each other, the other (the Derogam Collector) will be a medium cargo ship commonly used to make multiple deliveries to destinations close to each other.
 - 2 Large Freighters; One will be a hybrid designed to take on lots of different missions to all kinds of places, the other is used to transport large amounts of cargo, and is even used by the military when needed to bring supplies to the front line.
 
 # Feedback
@@ -48,7 +48,9 @@ GNU General Public License v3
 
 # Special thanks to
 
-@Wrzlprnft (https://github.com/Wrzlprnft) for
+@Wrzlprnft (https://github.com/Wrzlprnft) for:
 - teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
 - helping me learn some Blender features (some hotkeys etc.)
 - some feedback on things (like the Warrior's wings that were too bright)
+
+EVERYONE that starred, watched, downloaded my project (whatever, I love all support, thanks for even bothering reading this).
