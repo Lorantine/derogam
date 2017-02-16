@@ -34,10 +34,10 @@ ship "Derogam Assassin"
 		"hull repair rate" .3
 		"hull energy" .3
 		weapon
-			"blast radius" 200
+			"blast radius" 350
 			"shield damage" 4000
 			"hull damage" 2000
-			"hit force" 3500
+			"hit force" 6000
 	outfits
 		"Finisher Pod" 4
 		"Finisher Torpedo" 160
@@ -92,10 +92,10 @@ ship "Derogam Warrior"
 		"hull repair rate" .6
 		"hull energy" .6
 		weapon
-			"blast radius" 300
+			"blast radius" 450
 			"shield damage" 7000
 			"hull damage" 3500
-			"hit force" 6000
+			"hit force" 8500
 	outfits
 		"Finisher Pod" 4
 		"Finisher Torpedo" 160
@@ -136,17 +136,17 @@ ship "Derogam Warrior"
 
 # Civilian ships.
 
-ship "Derogam collector"
+ship "Derogam Collector"
 	sprite "ship/derogam collector"
 	attributes
 		category "Heavy Freighter"
 		"cost" 12398000
-		"shields" 14300
-		"hull" 10600
+		"shields" 29300
+		"hull" 23600
 		"required crew" 12
 		"bunks" 26
 		"mass" 520
-		"drag" 9.4
+		"drag" 8.5
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 329
@@ -154,10 +154,10 @@ ship "Derogam collector"
 		"weapon capacity" 186
 		"engine capacity" 104
 		weapon
-			"blast radius" 100
+			"blast radius" 200
 			"shield damage" 2000
 			"hull damage" 1000
-			"hit force" 1500
+			"hit force" 2500
 	outfits
 		"Finisher Pod" 2
 		"Finisher Torpedo" 80
@@ -180,6 +180,5 @@ ship "Derogam collector"
 	explode "small explosion" 30
 	explode "medium explosion" 20
 	explode "large explosion" 10
-	explode "huge explosion" 5
-	"final explode" "final explosion large"
-	description `Coming soon.`
+	"final explode" "final explosion medium"
+	description `The Derogam Collector is designed with reinforced detachable cargo pods to quickly load and unload cargo. It also has good mobility for a freighter its size, improving its survivability and making it such a popular freighter. It's even commonly used in their military, as the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields. The armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
