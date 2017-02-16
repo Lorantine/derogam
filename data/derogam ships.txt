@@ -136,8 +136,8 @@ ship "Derogam Warrior"
 
 # Civilian ships.
 
-ship "Derogam Python"
-	sprite "ship/derogam python"
+ship "Derogam collector"
+	sprite "ship/derogam collector"
 	attributes
 		category "Heavy Freighter"
 		"cost" 12398000
