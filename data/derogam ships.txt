@@ -171,11 +171,11 @@ ship "Derogam Python"
 		"Thruster (Lunar Class)"
 		Hyperdrive
 	engine 0 141 1.4
-	gun -14 -123
-	gun 14 -123
-	turret -27 -13
-	turret 0 -43
-	turret 27 -13
+	gun -14 -123 "Finisher Pod"
+	gun 14 -123 "Finisher Pod"
+	turret -27 -13 "Bombardment Turret"
+	turret 0 -43 "Korath Warder"
+	turret 27 -13 "Bombardment Turret"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 20
