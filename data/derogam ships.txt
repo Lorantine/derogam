@@ -148,7 +148,7 @@ ship "Derogam Collector"
 		"required crew" 12
 		"bunks" 26
 		"mass" 520
-		"drag" 8.5
+		"drag" 6.8
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 329
