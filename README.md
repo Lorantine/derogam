@@ -1,3 +1,6 @@
+# Important
+All outfits are placeholders until I make MY OWN. Enjoy not reading the rest. :3
+
 # The Derogam
 This is my first actual Endless Sky project, and the goal is to add an entire new species to the game with this plugin. I hope that when I'm fully done with it it could actually be added to the game itself.
 
