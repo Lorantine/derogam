@@ -8,8 +8,8 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-# The Pestilence currently has NO projectile (I need to learn a bit to make them), in progress
-# though, hope to finish it soon.
+# The Pestilence currently has a "filler" projectile that is being worked on (it's ugly/unfinished
+# at the moment, I just added it for testing).
 
 outfit "Derogam Pestilence"
 	category "Turrets"
@@ -25,7 +25,7 @@ outfit "Derogam Pestilence"
 			"frame rate" 1
 		sound "heavy laser"
 		"hit effect" "pestilence"
-		"inaccuracy" 5
+		"inaccuracy" .5
 		"velocity" 520
 		"lifetime" 1
 		"reload" .5
