@@ -115,19 +115,19 @@ ship "Derogam Warrior"
 	engine 0 132 .45
 	engine 67 145 .95
 	gun -89 -168 "Finisher Pod"
+	gun 89 -168 "Finisher Pod"
 	gun -80 -175
+	gun 80 -175
 	gun -54 -175
+	gun 54 -175
 	gun -45 -168 "Finisher Pod"
 	gun 45 -168 "Finisher Pod"
-	gun 54 -175
-	gun 80 -175
-	gun 89 -168 "Finisher Pod"
 	turret -67 -148 "Bombardment Turret"
+	turret 67 -148 "Bombardment Turret"
 	turret -67 -115 "Bombardment Turret"
+	turret 67 -115 "Bombardment Turret"
 	turret -67 -82 "Bombardment Turret"
 	turret 67 -82 "Bombardment Turret"
-	turret 67 -115 "Bombardment Turret"
-	turret 67 -148 "Bombardment Turret"
 	explode "small explosion" 80
 	explode "medium explosion" 60
 	explode "large explosion" 40
