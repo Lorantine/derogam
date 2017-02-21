@@ -8,13 +8,28 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-government "Derogam"
-	swizzle 0
+government "Derogam Alliance"
+	swizzle 4
 	color .9 .4 .15
 	language "Derogam"
 
 	"attitude toward"
+		"Derogam Armada" 1
 
  	"player reputation" 1
-	"friendly hail" "friendly 
-	"hostile hail" "hostile
+	"friendly hail" "derogam untranslated"
+	"hostile hail" "derogam untranslated"
+
+government "Derogam Armada"
+	swizzle 0
+	color .9 .4 .15
+	language "Derogam"
+
+	"player reputation" 1
+
+	"attitude toward"
+		"Derogam Alliance" 1
+
+	"player reputation" 1
+	"friendly hail" "derogam untranslated"
+	"hostile hail" "derogam untranslated"
