@@ -51,9 +51,9 @@ ship "Derogam Assassin"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
-	engine -34 120 .75
-	engine 0 130 .9
-	engine 34 120 .75
+	engine -34 126 .75
+	engine 0 132 .9
+	engine 34 126 .75
 	gun -20 -145 "Finisher Pod"
 	gun -12 -151 "Finisher Pod"
 	gun 12 -151 "Finisher Pod"
@@ -111,9 +111,9 @@ ship "Derogam Warrior"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
-	engine -67 145 .95
-	engine 0 132 .45
-	engine 67 145 .95
+	engine -67 141 .95
+	engine 0 131 .45
+	engine 67 141 .95
 	gun -89 -168 "Finisher Pod"
 	gun 89 -168 "Finisher Pod"
 	gun -80 -175
@@ -138,20 +138,61 @@ ship "Derogam Warrior"
 # Civilian ships
 # Freighters
 
+ship "Derogam Gatherer"
+	sprite "ship/derogam gatherer"
+	attributes
+		category "Light Freighter"
+		"cost" 4629000
+		"shields" 18700
+		"hull" 11400
+		"required crew" 5
+		"bunks" 12
+		"mass" 310
+		"drag" 5.2
+		"heat dissipation" .8
+		"fuel capacity" 600
+		"cargo space" 231
+		"outfit space" 326
+		"weapon capacity" 94
+		"engine capacity" 63
+		weapon
+			"blast radius" 120
+			"shield damage" 1200
+			"hull damage" 600
+			"hit force" 1500
+	outfits
+		"Bombardment Turret" 2
+
+		"White Sun Reactor"
+		"Systems Core (Small)"
+
+		"Steering (Lunar Class)"
+		"Thruster (Comet Class)"
+		Hyperdrive
+	engine 0 108 1.4
+	turret -31 -11 "Bombardment Turret"
+	turret 31 -11 "Bombardment Turret"
+	explode "tiny explosion" 20
+	explode "small explosion" 30
+	explode "medium explosion" 10
+	explode "large explosion" 5
+	"final explode" "final explosion small"
+	description `The Gatherer is designed to have high cargo capacity in reinforced pods that are quickly replaceable. This unusual design gives it a relatively weak hull and makes it quite slow, but for a small freighter it has a great amount of cargo space. Its armament consists of two small turrets intended to use two anti-missile systems.`
+
 ship "Derogam Collector"
 	sprite "ship/derogam collector"
 	attributes
 		category "Heavy Freighter"
 		"cost" 12398000
 		"shields" 29300
-		"hull" 23600
+		"hull" 26700
 		"required crew" 12
 		"bunks" 26
 		"mass" 520
 		"drag" 6.8
 		"heat dissipation" .8
 		"fuel capacity" 700
-		"cargo space" 329
+		"cargo space" 359
 		"outfit space" 481
 		"weapon capacity" 186
 		"engine capacity" 104
@@ -183,4 +224,4 @@ ship "Derogam Collector"
 	explode "medium explosion" 20
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
-	description `The Derogam Collector is designed with reinforced detachable cargo pods to quickly load and unload cargo. It also has good mobility for a freighter its size, improving its survivability and making it such a popular freighter. It's even commonly used in their military, as the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields. The armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
+	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. It also has good mobility for a freighter its size, improving its survivability and making it such a popular freighter. It's even commonly used in their military; the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields, and the Gatherer is an easy target due to low survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
