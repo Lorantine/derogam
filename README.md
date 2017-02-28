@@ -13,9 +13,11 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-Finished the Derogam Collector (Medium Freighter), HOORAY! Now I'll make the Small & Large versions and try to be done end March (took way longer due to some real life stuff).
+Kinda messed up/delayed due to real-life issues
 
-End March I want all Transports done as well (I'll try and get all 9 civilian ships by then, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is). I hope the civilian ships are all done before May, but I really don't know, but be happy; quality takes time.
+Finished the Derogam Gatherer (Small Freighter), HOORAY! Now I'll make the Large version and try to be done with the freighters mid March (took way longer due to some real life stuff).
+
+End March I want all Transports done as well (I'll try and get all 9 civilian ships end April, it depends how good I am at "changing" the Medium versions of the ships to make Light & Heavy ships, and how busy school is). I hope the civilian ships are all done before May, I really don't know, but be happy; quality takes time.
 
 After that I want to make some outfits to start replacing all temporary outfits. I'll work a bit all-round when I feel like it.
 
