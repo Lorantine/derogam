@@ -77,7 +77,7 @@ ship "Derogam Warrior"
 		"shields" 79300
 		"hull" 56800
 		"required crew" 83
-		"bunks" 146
+		"bunks" 126
 		"mass" 980
 		"drag" 14.6
 		"heat dissipation" 1
@@ -145,8 +145,8 @@ ship "Derogam Gatherer"
 		"cost" 4629000
 		"shields" 18700
 		"hull" 11400
-		"required crew" 5
-		"bunks" 12
+		"required crew" 3
+		"bunks" 8
 		"mass" 310
 		"drag" 5.2
 		"heat dissipation" .8
@@ -186,8 +186,8 @@ ship "Derogam Collector"
 		"cost" 12398000
 		"shields" 29300
 		"hull" 26700
-		"required crew" 12
-		"bunks" 26
+		"required crew" 5
+		"bunks" 14
 		"mass" 520
 		"drag" 6.8
 		"heat dissipation" .8

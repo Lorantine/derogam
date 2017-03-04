@@ -13,6 +13,8 @@ government "Derogam Alliance"
 	color .9 .4 .15
 	language "Derogam"
 
+	"player reputation" 1
+
 	"attitude toward"
 		"Derogam Armada" 1
 
