@@ -113,12 +113,12 @@ ship "Derogam Warrior"
 	engine 67 141 .95
 	gun -89 -168 "Finisher Pod"
 	gun 89 -168 "Finisher Pod"
+	gun -45 -168 "Finisher Pod"
+	gun 45 -168 "Finisher Pod"
 	gun -80 -175
 	gun 80 -175
 	gun -54 -175
 	gun 54 -175
-	gun -45 -168 "Finisher Pod"
-	gun 45 -168 "Finisher Pod"
 	turret -67 -148 "Bombardment Turret"
 	turret 67 -148 "Bombardment Turret"
 	turret -67 -115 "Bombardment Turret"
@@ -222,3 +222,54 @@ ship "Derogam Collector"
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
 	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. It also has good mobility for a freighter its size, improving its survivability and making it such a popular freighter. It's even commonly used in their military; the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields, and the Gatherer is an easy target due to low survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
+
+
+ship "Derogam Hoarder"
+	sprite "ship/derogam hoarder"
+	attributes
+		category "Heavy Freighter"
+		"cost" 17347000
+		"shields" 29300
+		"hull" 26700
+		"required crew" 9
+		"bunks" 20
+		"mass" 860
+		"drag" 13.4
+		"heat dissipation" .8
+		"fuel capacity" 800
+		"cargo space" 734
+		"outfit space" 714
+		"weapon capacity" 302
+		"engine capacity" 163
+		weapon
+			"blast radius" 350
+			"shield damage" 3600
+			"hull damage" 1800
+			"hit force" 5000
+	outfits
+		"Finisher Pod" 4
+		"Finisher Torpedo" 160
+		"Bombardment Turret" 3
+		"Korath Warder"
+
+		"Blue Sun Reactor"
+		"Systems Core (Medium)"
+
+		"Steering (Planetary Class)"
+		"Thruster (Planetary Class)"
+		Hyperdrive
+	engine 0 255 1.4
+	gun -20 -238 "Finisher Pod"
+	gun 20 -238 "Finisher Pod"
+	gun -15 -251 "Finisher Pod"
+	gun 15 -251 "Finisher Pod"
+	turret 0 -67 "Bombardment Turret"
+	turret 0 -117 "Korath Warder"
+	turret -59 84 "Bombardment Turret"
+	turret 59 -84 "Bombardment Turret"
+	explode "small explosion" 20
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	explode "huge explosion" 10
+	"final explode" "final explosion large"
+	description ``
