@@ -180,7 +180,7 @@ ship "Derogam Collector"
 	sprite "ship/derogam collector"
 	attributes
 		category "Heavy Freighter"
-		"cost" 12398000
+		"cost" 8398000
 		"shields" 29300
 		"hull" 26700
 		"required crew" 5
