@@ -142,7 +142,7 @@ ship "Derogam Gatherer"
 		"cost" 4629000
 		"shields" 18700
 		"hull" 11400
-		"required crew" 3
+		"required crew" 2
 		"bunks" 8
 		"mass" 210
 		"drag" 5.3
@@ -183,14 +183,14 @@ ship "Derogam Collector"
 		"cost" 8398000
 		"shields" 29300
 		"hull" 26700
-		"required crew" 5
-		"bunks" 14
+		"required crew" 6
+		"bunks" 15
 		"mass" 330
 		"drag" 7.9
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 359
-		"outfit space" 487
+		"outfit space" 469
 		"weapon capacity" 186
 		"engine capacity" 79
 		weapon
@@ -231,8 +231,8 @@ ship "Derogam Hoarder"
 		"cost" 17347000
 		"shields" 56400
 		"hull" 50300
-		"required crew" 11
-		"bunks" 20
+		"required crew" 12
+		"bunks" 23
 		"mass" 860
 		"drag" 16.8
 		"heat dissipation" .8
@@ -259,10 +259,10 @@ ship "Derogam Hoarder"
 		"Steering (Planetary Class)"
 		Hyperdrive
 	engine 0 255 1.4
-	gun -20 -238 "Finisher Pod"
-	gun 20 -238 "Finisher Pod"
-	gun -15 -251
-	gun 15 -251
+	gun -20 -237 "Finisher Pod"
+	gun 20 -237 "Finisher Pod"
+	gun -15 -250
+	gun 15 -250
 	turret 0 -117 "Bombardment Turret"
 	turret 0 -67 "Korath Warder"
 	turret -59 84 "Bombardment Turret"
