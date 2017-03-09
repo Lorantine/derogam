@@ -144,14 +144,14 @@ ship "Derogam Gatherer"
 		"hull" 11400
 		"required crew" 3
 		"bunks" 8
-		"mass" 310
-		"drag" 5.2
+		"mass" 210
+		"drag" 5.3
 		"heat dissipation" .8
 		"fuel capacity" 600
 		"cargo space" 231
-		"outfit space" 279
-		"weapon capacity" 94
-		"engine capacity" 63
+		"outfit space" 265
+		"weapon capacity" 98
+		"engine capacity" 44
 		weapon
 			"blast radius" 120
 			"shield damage" 1200
@@ -163,8 +163,8 @@ ship "Derogam Gatherer"
 		"Yellow Sun Reactor"
 		"Systems Core (Small)"
 
-		"Steering (Lunar Class)"
 		"Thruster (Comet Class)"
+		"Steering (Comet Class)"
 		Hyperdrive
 	engine 0 108 1.4
 	turret -31 -11 "Bombardment Turret"
@@ -174,7 +174,7 @@ ship "Derogam Gatherer"
 	explode "medium explosion" 10
 	explode "large explosion" 5
 	"final explode" "final explosion small"
-	description `The Gatherer is designed to have high cargo capacity in reinforced pods that are quickly replaceable. This unusual design gives it a relatively weak hull and makes it quite slow, but for a small freighter it has a great amount of cargo space. Its armament consists of two small turrets intended to use two anti-missile systems.`
+	description `The Gatherer is designed to have high cargo capacity in reinforced pods that are quickly replaceable. This unusual design gives it a relatively weak hull and makes it quite slow, but for a small freighter it has a great amount of cargo space. Its armament consists of two turrets intended to use two anti-missile systems, but it can also use stronger weapons.`
 
 ship "Derogam Collector"
 	sprite "ship/derogam collector"
@@ -185,14 +185,14 @@ ship "Derogam Collector"
 		"hull" 26700
 		"required crew" 5
 		"bunks" 14
-		"mass" 520
-		"drag" 6.8
+		"mass" 330
+		"drag" 7.9
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 359
 		"outfit space" 487
 		"weapon capacity" 186
-		"engine capacity" 104
+		"engine capacity" 79
 		weapon
 			"blast radius" 200
 			"shield damage" 2000
@@ -204,11 +204,11 @@ ship "Derogam Collector"
 		"Bombardment Turret" 2
 		"Korath Warder"
 
-		"Blue Sun Reactor"
-		"Systems Core (Small)"
+		"White Sun Reactor"
+		"Systems Core (Medium)"
 
-		"Steering (Planetary Class)"
 		"Thruster (Lunar Class)"
+		"Steering (Lunar Class)"
 		Hyperdrive
 	engine 0 141 1.4
 	gun -14 -123 "Finisher Pod"
@@ -229,44 +229,44 @@ ship "Derogam Hoarder"
 	attributes
 		category "Heavy Freighter"
 		"cost" 17347000
-		"shields" 29300
-		"hull" 26700
-		"required crew" 9
+		"shields" 56400
+		"hull" 50300
+		"required crew" 11
 		"bunks" 20
 		"mass" 860
-		"drag" 13.4
+		"drag" 16.8
 		"heat dissipation" .8
 		"fuel capacity" 800
-		"cargo space" 734
-		"outfit space" 714
-		"weapon capacity" 302
-		"engine capacity" 163
+		"cargo space" 684
+		"outfit space" 609
+		"weapon capacity" 274
+		"engine capacity" 107
 		weapon
 			"blast radius" 350
 			"shield damage" 3600
 			"hull damage" 1800
 			"hit force" 5000
 	outfits
-		"Finisher Pod" 4
-		"Finisher Torpedo" 160
+		"Finisher Pod" 2
+		"Finisher Torpedo" 80
 		"Bombardment Turret" 3
 		"Korath Warder"
 
 		"Blue Sun Reactor"
-		"Systems Core (Medium)"
+		"Systems Core (Large)"
 
+		"Thruster (Lunar Class)"
 		"Steering (Planetary Class)"
-		"Thruster (Planetary Class)"
 		Hyperdrive
 	engine 0 255 1.4
 	gun -20 -238 "Finisher Pod"
 	gun 20 -238 "Finisher Pod"
-	gun -15 -251 "Finisher Pod"
-	gun 15 -251 "Finisher Pod"
-	turret 0 -67 "Bombardment Turret"
-	turret 0 -117 "Korath Warder"
+	gun -15 -251
+	gun 15 -251
+	turret 0 -117 "Bombardment Turret"
+	turret 0 -67 "Korath Warder"
 	turret -59 84 "Bombardment Turret"
-	turret 59 -84 "Bombardment Turret"
+	turret 59 84 "Bombardment Turret"
 	explode "small explosion" 20
 	explode "medium explosion" 30
 	explode "large explosion" 20
