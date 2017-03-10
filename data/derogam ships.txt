@@ -34,6 +34,7 @@ ship "Derogam Assassin"
 		"shield energy" .4
 		"hull repair rate" .3
 		"hull energy" .3
+		"heat generation" 20
 		weapon
 			"blast radius" 350
 			"shield damage" 4000
@@ -91,6 +92,7 @@ ship "Derogam Warrior"
 		"shield energy" .8
 		"hull repair rate" .6
 		"hull energy" .6
+		"heat generation" 48
 		weapon
 			"blast radius" 450
 			"shield damage" 7000
@@ -149,9 +151,10 @@ ship "Derogam Gatherer"
 		"heat dissipation" .8
 		"fuel capacity" 600
 		"cargo space" 231
-		"outfit space" 265
+		"outfit space" 268
 		"weapon capacity" 98
 		"engine capacity" 44
+		"heat generation" 6
 		weapon
 			"blast radius" 120
 			"shield damage" 1200
@@ -162,6 +165,7 @@ ship "Derogam Gatherer"
 
 		"Yellow Sun Reactor"
 		"Systems Core (Small)"
+		"Small Heat Shunt"
 
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
@@ -190,9 +194,10 @@ ship "Derogam Collector"
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 359
-		"outfit space" 469
+		"outfit space" 473
 		"weapon capacity" 186
 		"engine capacity" 79
+		"heat generation" 18
 		weapon
 			"blast radius" 200
 			"shield damage" 2000
@@ -206,6 +211,7 @@ ship "Derogam Collector"
 
 		"White Sun Reactor"
 		"Systems Core (Medium)"
+		"Small Heat Shunt" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -241,6 +247,7 @@ ship "Derogam Hoarder"
 		"outfit space" 609
 		"weapon capacity" 274
 		"engine capacity" 107
+		"heat generation" 54
 		weapon
 			"blast radius" 350
 			"shield damage" 3600
@@ -254,6 +261,7 @@ ship "Derogam Hoarder"
 
 		"Blue Sun Reactor"
 		"Systems Core (Large)"
+		"Small Heat Shunt" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Planetary Class)"
