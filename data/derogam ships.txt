@@ -196,7 +196,7 @@ ship "Derogam Collector"
 		"cargo space" 359
 		"outfit space" 473
 		"weapon capacity" 186
-		"engine capacity" 79
+		"engine capacity" 72
 		"heat generation" 18
 		weapon
 			"blast radius" 200
@@ -246,7 +246,7 @@ ship "Derogam Hoarder"
 		"cargo space" 684
 		"outfit space" 609
 		"weapon capacity" 274
-		"engine capacity" 107
+		"engine capacity" 97
 		"heat generation" 54
 		weapon
 			"blast radius" 350

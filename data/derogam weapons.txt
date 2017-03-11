@@ -30,7 +30,7 @@ outfit "Derogam Pestilence"
 		"lifetime" 1
 		"reload" .5
 		"firing energy" 11.4
-		"firing heat" 7.2
+		"firing heat" 12.8
 		"disruption damage" .138
 		"ion damage" .14
 		"heat damage" 7.9
