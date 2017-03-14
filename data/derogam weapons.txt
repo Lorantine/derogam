@@ -28,11 +28,13 @@ outfit "Derogam Pestilence"
 		"inaccuracy" .5
 		"velocity" 520
 		"lifetime" 1
-		"reload" .5
-		"firing energy" 11.4
-		"firing heat" 12.8
-		"disruption damage" .138
-		"ion damage" .14
-		"heat damage" 7.9
-		"slowing damage" .12
+		"reload" 1.84
+		"burst reload" 1.22
+		"burst count" 11
+		"firing energy" 20.9
+		"firing heat" 23.5
+		"disruption damage" .25
+		"ion damage" .26
+		"heat damage" 14.54
+		"slowing damage" .23
 	description `The Derogam Pestilence is designed solely as a support weapon to give enemy ships a disadvantage in combat. Not only does it disrupt the target's shields, it also drains it's batteries doing so. This proces leaves a considerable amount of heat behind and even slows the target. It's only downside is that it does no damage, but when paired with strong weapons it's a deadly combination.`
