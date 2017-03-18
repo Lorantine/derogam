@@ -79,13 +79,13 @@ ship "Derogam Warrior"
 		"required crew" 83
 		"bunks" 126
 		"mass" 980
-		"drag" 14.6
+		"drag" 15.6
 		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 97
 		"outfit space" 873
-		"weapon capacity" 432
-		"engine capacity" 157
+		"weapon capacity" 405
+		"engine capacity" 133
 		"energy generation" 2
 		"energy capacity" 1600
 		"shield generation" .8
