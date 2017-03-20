@@ -280,4 +280,4 @@ ship "Derogam Hoarder"
 	explode "large explosion" 35
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description `The Hoarder is the last of the freighter line. Designed to be resilient enough so it can fly without escorts, and even enabling it to be retrofitted. Its main downside is the extremely slow speed, but it has enough armament to fight off small fleets until an allied fleet arrives.`
+	description `The Hoarder is the last of the freighter line, designed to be resilient enough so it can fly without escorts, and even enabling it to be retrofitted. Its main downside is the extremely slow speed, but it has enough armament to fight off small fleets until an allied fleet arrives.`
