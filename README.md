@@ -46,7 +46,7 @@ CIVILIAN SHIPS:
 - 1 Large Hybrid (Derogam Amalgam)
 - 1 Small Freighter (Derogam Gatherer (implemented))
 - 1 Medium Freighter (Derogam Collector (implemented))
-- 1 Large Freighter (Derogam Hoarder (currently working on)
+- 1 Large Freighter (Derogam Hoarder (implemented))
 
 # License
 
