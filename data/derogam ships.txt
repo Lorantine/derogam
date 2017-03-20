@@ -142,18 +142,18 @@ ship "Derogam Gatherer"
 	attributes
 		category "Light Freighter"
 		"cost" 4629000
-		"shields" 18700
-		"hull" 11400
+		"shields" 11700
+		"hull" 9400
 		"required crew" 2
 		"bunks" 8
 		"mass" 210
 		"drag" 5.3
 		"heat dissipation" .8
 		"fuel capacity" 600
-		"cargo space" 231
-		"outfit space" 268
-		"weapon capacity" 98
-		"engine capacity" 44
+		"cargo space" 196
+		"outfit space" 208
+		"weapon capacity" 62
+		"engine capacity" 52
 		"heat generation" 6
 		weapon
 			"blast radius" 120
@@ -161,9 +161,9 @@ ship "Derogam Gatherer"
 			"hull damage" 600
 			"hit force" 1500
 	outfits
-		"Bombardment Turret" 2
+		"Korath Warder" 2
 
-		"Yellow Sun Reactor"
+		"Red Sun Reactor"
 		"Systems Core (Small)"
 		"Small Heat Shunt"
 
@@ -171,8 +171,8 @@ ship "Derogam Gatherer"
 		"Steering (Comet Class)"
 		Hyperdrive
 	engine 0 108 1.4
-	turret -31 -11 "Bombardment Turret"
-	turret 31 -11 "Bombardment Turret"
+	turret -31 -11 "Korath Warder"
+	turret 31 -11 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 10
@@ -185,17 +185,17 @@ ship "Derogam Collector"
 	attributes
 		category "Heavy Freighter"
 		"cost" 8398000
-		"shields" 29300
-		"hull" 26700
+		"shields" 20300
+		"hull" 16700
 		"required crew" 6
 		"bunks" 15
 		"mass" 330
 		"drag" 7.9
 		"heat dissipation" .8
 		"fuel capacity" 700
-		"cargo space" 359
-		"outfit space" 473
-		"weapon capacity" 186
+		"cargo space" 328
+		"outfit space" 362
+		"weapon capacity" 152
 		"engine capacity" 72
 		"heat generation" 18
 		weapon
@@ -204,30 +204,30 @@ ship "Derogam Collector"
 			"hull damage" 1000
 			"hit force" 2500
 	outfits
-		"Finisher Pod" 2
-		"Finisher Torpedo" 80
-		"Bombardment Turret" 2
-		"Korath Warder"
+		"Thunderhead Launcher" 2
+		"Thunderhead Missile" 80
+		"Bombardment Turret"
+		"Korath Warder" 2
 
-		"White Sun Reactor"
-		"Systems Core (Medium)"
-		"Small Heat Shunt" 2
+		"Yellow Sun Reactor"
+		"Systems Core (Small)"
+		"Small Heat Shunt"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
 		Hyperdrive
 	engine 0 141 1.4
-	gun -14 -123 "Finisher Pod"
-	gun 14 -123 "Finisher Pod"
-	turret -27 -13 "Bombardment Turret"
-	turret 0 -43 "Korath Warder"
-	turret 27 -13 "Bombardment Turret"
+	gun -14 -123 "Thunderhead Launcher"
+	gun 14 -123 "Thunderhead Launcher"
+	turret -27 -13 "Korath Warder"
+	turret 0 -43 "Bombardment Turret"
+	turret 27 -13 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 20
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
-	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. It also has good mobility for a freighter its size, improving its survivability and making it such a popular freighter. It's even commonly used in their military; the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields, and the Gatherer is an easy target due to low survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
+	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. Its high mobility improves its survivability and makes it a popular freighter even amongst the military; the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields, and the Gatherer simply lacks survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
 
 
 ship "Derogam Hoarder"
@@ -235,18 +235,18 @@ ship "Derogam Hoarder"
 	attributes
 		category "Heavy Freighter"
 		"cost" 17347000
-		"shields" 56400
-		"hull" 50300
-		"required crew" 12
+		"shields" 37400
+		"hull" 34300
+		"required crew" 14
 		"bunks" 23
 		"mass" 940
 		"drag" 18.8
 		"heat dissipation" .8
 		"fuel capacity" 800
-		"cargo space" 684
-		"outfit space" 609
-		"weapon capacity" 274
-		"engine capacity" 97
+		"cargo space" 678
+		"outfit space" 545
+		"weapon capacity" 246
+		"engine capacity" 93
 		"heat generation" 54
 		weapon
 			"blast radius" 350
@@ -254,30 +254,30 @@ ship "Derogam Hoarder"
 			"hull damage" 1800
 			"hit force" 5000
 	outfits
-		"Finisher Pod" 2
-		"Finisher Torpedo" 80
-		"Bombardment Turret" 3
-		"Korath Warder"
+		"Thunderhead Launcher" 4
+		"Thunderhead Missile" 160
+		"Bombardment Turret" 2
+		"Korath Warder" 2
 
-		"Blue Sun Reactor"
-		"Systems Core (Large)"
-		"Small Heat Shunt" 2
+		"White Sun Reactor"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
 
 		"Thruster (Lunar Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
 	engine 0 255 1.4
-	gun -20 -237 "Finisher Pod"
-	gun 20 -237 "Finisher Pod"
-	gun -15 -250
-	gun 15 -250
+	gun -20 -237 "Thunderhead Launcher"
+	gun 20 -237 "Thunderhead Launcher"
+	gun -15 -250 "Thunderhead Launcher"
+	gun 15 -250 "Thunderhead Launcher"
 	turret 0 -117 "Bombardment Turret"
-	turret 0 -67 "Korath Warder"
-	turret -59 84 "Bombardment Turret"
-	turret 59 84 "Bombardment Turret"
+	turret 0 -67 "Bombardment Turret"
+	turret -59 84 "Korath Warder"
+	turret 59 84 "Korath Warder"
 	explode "small explosion" 40
 	explode "medium explosion" 60
 	explode "large explosion" 35
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description ``
+	description `The Hoarder is the last of the freighter line. Designed to be resilient enough so it can fly without escorts, and even enabling it to be retrofitted. Its main downside is the extremely slow speed, but it has enough armament to fight off small fleets until an allied fleet arrives.`
