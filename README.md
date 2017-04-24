@@ -13,13 +13,13 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-Kinda messed up/delayed due to real-life issues
+SLOW DUE TO EXAMS COMING UP IN REAL-LIFE
 
-Freighter line is done, planning the Transport line, but I've been working on the Pestilence outfit. School stuff delayed my schedule so not sure when the 1st transport will be done
+At the moment I nearly finished my Medium Transport (Itinerant), after which I'll make the Small/Large Transports based on the Medium one
 
-Around mid April I want all Transports done as well (I'll try and get all 9 civilian ships end April, it depends how busy school is). I hope the civilian ships are all done before May, I really don't know, but be happy; quality takes time. I have exams in May so might not do much then either
+I try to finish my Transports as soon as possible (when I feel like working on them), I'd want them done mid-May but early May my exams start, so don't expect the Transports before end May
 
-Then of course the remaining military ships.
+After I finished the Transports I will attempt to make the Hybrids, and then I will focus on the military ships (no order planned, I will make whatever I want).
 
 After that I want to make some outfits to start replacing all temporary outfits. I'll work a bit all-round when I feel like it.
 
@@ -38,9 +38,9 @@ MILITARY SHIPS:
 - 1 Interceptor (Derogam Stalker)
 
 CIVILIAN SHIPS:
-- 1 Small Transport (Derogam Disciple)
-- 1 Medium Transport (Derogam Itinerant)
-- 1 Large Transport (Derogam Wayfarer)
+- 1 Small Transport (Derogam Disciple) (next on schedule
+- 1 Medium Transport (Derogam Itinerant) (in progress, nearly done)
+- 1 Large Transport (Derogam Wayfarer) (next on schedule)
 - 1 Small Hybrid (Derogam Mingling); Hybrids are Transports & Freighters in one
 - 1 Medium Hybrid (Derogam Hybrid)
 - 1 Large Hybrid (Derogam Amalgam)
