@@ -16,8 +16,8 @@ ship "Derogam Assassin"
 	attributes
 		category "Medium Warship"
 		"cost" 38653000
-		"shields" 52800
-		"hull" 34200
+		"shields" 38800
+		"hull" 31200
 		"required crew" 34
 		"bunks" 65
 		"mass" 610
@@ -51,17 +51,17 @@ ship "Derogam Assassin"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
-	engine -34 126 .75
-	engine 0 132 .9
-	engine 34 126 .75
-	gun -20 -145 "Finisher Pod"
-	gun -12 -151 "Finisher Pod"
-	gun 12 -151 "Finisher Pod"
-	gun 20 -145 "Finisher Pod"
-	turret -45 -88 "Bombardment Turret"
-	turret 45 -88 "Bombardment Turret"
-	turret -45 12 "Bombardment Turret"
-	turret 45 12 "Bombardment Turret"
+	engine -35 122 .75
+	engine 0 128 .9
+	engine 35 122 .75
+	gun -20 -146 "Finisher Pod"
+	gun -12 -152 "Finisher Pod"
+	gun 12 -152 "Finisher Pod"
+	gun 20 -146 "Finisher Pod"
+	turret -43 -90 "Bombardment Turret"
+	turret 43 -90 "Bombardment Turret"
+	turret -43 12 "Bombardment Turret"
+	turret 43 12 "Bombardment Turret"
 	explode "small explosion" 50
 	explode "medium explosion" 35
 	explode "large explosion" 20
@@ -74,8 +74,8 @@ ship "Derogam Warrior"
 	attributes
 		category "Heavy Warship"
 		"cost" 61825000
-		"shields" 79300
-		"hull" 56800
+		"shields" 59300
+		"hull" 41600
 		"required crew" 83
 		"bunks" 126
 		"mass" 980
@@ -110,23 +110,23 @@ ship "Derogam Warrior"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
-	engine -67 141 .95
-	engine 0 131 .45
-	engine 67 141 .95
-	gun -89 -168 "Finisher Pod"
-	gun 89 -168 "Finisher Pod"
-	gun -45 -168 "Finisher Pod"
-	gun 45 -168 "Finisher Pod"
-	gun -80 -175
-	gun 80 -175
-	gun -54 -175
-	gun 54 -175
-	turret -67 -148 "Bombardment Turret"
-	turret 67 -148 "Bombardment Turret"
-	turret -67 -115 "Bombardment Turret"
-	turret 67 -115 "Bombardment Turret"
-	turret -67 -82 "Bombardment Turret"
-	turret 67 -82 "Bombardment Turret"
+	engine -66 137 .95
+	engine 0 126 .45
+	engine 66 137 .95
+	gun -88 -168 "Finisher Pod"
+	gun 88 -168 "Finisher Pod"
+	gun -44 -168 "Finisher Pod"
+	gun 44 -168 "Finisher Pod"
+	gun -79 -175
+	gun 79 -175
+	gun -53 -175
+	gun 53 -175
+	turret -66 -148 "Bombardment Turret"
+	turret 66 -148 "Bombardment Turret"
+	turret -66 -115 "Bombardment Turret"
+	turret 66 -115 "Bombardment Turret"
+	turret -66 -82 "Bombardment Turret"
+	turret 66 -82 "Bombardment Turret"
 	explode "small explosion" 80
 	explode "medium explosion" 60
 	explode "large explosion" 40
@@ -142,8 +142,8 @@ ship "Derogam Gatherer"
 	attributes
 		category "Light Freighter"
 		"cost" 4629000
-		"shields" 11700
-		"hull" 9400
+		"shields" 9700
+		"hull" 7400
 		"required crew" 2
 		"bunks" 8
 		"mass" 210
@@ -185,8 +185,8 @@ ship "Derogam Collector"
 	attributes
 		category "Heavy Freighter"
 		"cost" 8398000
-		"shields" 20300
-		"hull" 16700
+		"shields" 14300
+		"hull" 11700
 		"required crew" 6
 		"bunks" 15
 		"mass" 330
@@ -216,12 +216,12 @@ ship "Derogam Collector"
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
 		Hyperdrive
-	engine 0 141 1.4
-	gun -14 -123 "Thunderhead Launcher"
-	gun 14 -123 "Thunderhead Launcher"
-	turret -27 -13 "Korath Warder"
-	turret 0 -43 "Bombardment Turret"
-	turret 27 -13 "Korath Warder"
+	engine 0 137 1.4
+	gun -14 -121 "Thunderhead Launcher"
+	gun 14 -121 "Thunderhead Launcher"
+	turret -27 -11 "Korath Warder"
+	turret 0 -41 "Bombardment Turret"
+	turret 27 -11 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 20
@@ -235,8 +235,8 @@ ship "Derogam Hoarder"
 	attributes
 		category "Heavy Freighter"
 		"cost" 17347000
-		"shields" 37400
-		"hull" 34300
+		"shields" 24400
+		"hull" 19300
 		"required crew" 14
 		"bunks" 23
 		"mass" 940
@@ -281,3 +281,44 @@ ship "Derogam Hoarder"
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
 	description `The Hoarder is the last of the freighter line, designed to be resilient enough so it can fly without escorts, and even enabling it to be retrofitted. Its main downside is the extremely slow speed, but it has enough armament to fight off small fleets until an allied fleet arrives.`
+
+# Transports
+
+ship "Derogam Itinerant"
+	sprite "ship/derogam itinerant"
+	attributes
+		category "Transport"
+		"cost" 7926000
+		"shields" 15200
+		"hull" 9300
+		"required crew" 9
+		"bunks" 49
+		"mass" 310
+		"drag" 6.8
+		"heat dissipation" .8
+		"fuel capacity" 700
+		"cargo space" 73
+		"outfit space" 349
+		"weapon capacity" 134
+		"engine capacity" 83
+		"heat generation" 18
+		weapon
+			"blast radius" 180
+			"shield damage" 1800
+			"hull damage" 900
+			"hit force" 2200
+	outfits
+	engine 0 0
+	engine 0 0
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	gun 0 0
+	turret 0 0
+	turret 0 0
+	explode "tiny explosion" 30
+	explode "small explosion" 35
+	explode "medium explosion" 15
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	description `Soon.`
