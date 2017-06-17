@@ -246,7 +246,7 @@ ship "Derogam Hoarder"
 		"cargo space" 678
 		"outfit space" 545
 		"weapon capacity" 246
-		"engine capacity" 93
+		"engine capacity" 90
 		"heat generation" 54
 		weapon
 			"blast radius" 350
@@ -264,7 +264,8 @@ ship "Derogam Hoarder"
 		"Small Heat Shunt"
 
 		"Thruster (Lunar Class)"
-		"Steering (Planetary Class)"
+		"Steering (Lunar Class)"
+		"Steering (Asteroid Class)"
 		Hyperdrive
 	engine 0 255 1.4
 	gun -20 -237 "Thunderhead Launcher"
