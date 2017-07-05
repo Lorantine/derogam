@@ -13,11 +13,10 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-SLOW DUE TO EXAMS COMING UP IN REAL-LIFE
+EXAMS NEARLY DONE
 
-At the moment I nearly finished my Medium Transport (Itinerant), after which I'll make the Small/Large Transports based on the Medium one
-
-I try to finish my Transports as soon as possible (when I feel like working on them), I'd want them done mid-May but early May my exams start, so don't expect the Transports before end May
+I have finished the Medium Transport, just need to tune some stats later, I haven't started on the Small and Large versions.
+I am however ALSO working on the biggest strongest warship the Derogam have: the Guardian
 
 After I finished the Transports I will attempt to make the Hybrids, and then I will focus on the military ships (no order planned, I will make whatever I want).
 
@@ -28,7 +27,7 @@ After that I want to make some outfits to start replacing all temporary outfits.
 This does NOT mean I won't make more ships, maybe I will, it just means that this is the "core", after this I'll do other stuff first.
 
 MILITARY SHIPS:
-- 2 Heavy Warships (Derogam Warrior (implemented) and Derogam Guardian)
+- 2 Heavy Warships (Derogam Warrior (implemented) and Derogam Guardian (in progress)
 - 1 Medium Warship (Derogam Assassin (implemented))
 - 1 Light Warship (Derogam Hunter)
 - 1 "Gunship" (Medium Warship) (Derogam Renegade); More guns, no turrets, agile, fragile, and will have 1-2 Fighters.
@@ -38,8 +37,8 @@ MILITARY SHIPS:
 - 1 Interceptor (Derogam Stalker)
 
 CIVILIAN SHIPS:
-- 1 Small Transport (Derogam Disciple) (next on schedule
-- 1 Medium Transport (Derogam Itinerant) (in progress, nearly done)
+- 1 Small Transport (Derogam Disciple) (next on schedule)
+- 1 Medium Transport (Derogam Itinerant (kinda implemented))
 - 1 Large Transport (Derogam Wayfarer) (next on schedule)
 - 1 Small Hybrid (Derogam Mingling); Hybrids are Transports & Freighters in one
 - 1 Medium Hybrid (Derogam Hybrid)
@@ -47,6 +46,8 @@ CIVILIAN SHIPS:
 - 1 Small Freighter (Derogam Gatherer (implemented))
 - 1 Medium Freighter (Derogam Collector (implemented))
 - 1 Large Freighter (Derogam Hoarder (implemented))
+
+I may also make a different-style line of ships for a sub-faction (no spoilers here at all).
 
 # License
 
