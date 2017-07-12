@@ -13,7 +13,7 @@ For example, the first weapon I made: the Pestillence Turret, it's meant to be a
 
 # Schedule
 
-EXAMS NEARLY DONE
+GRADUATED HIGHSCHOOL (11 July 2017), got more time to work on my plugin
 
 I have finished the Medium Transport, just need to tune some stats later, I haven't started on the Small and Large versions.
 I am however ALSO working on the biggest strongest warship the Derogam have: the Guardian
