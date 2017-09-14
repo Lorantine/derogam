@@ -9,11 +9,9 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 government "Derogam Alliance"
-	swizzle 4
-	color .9 .4 .15
+	swizzle 3
+	color .25 .9 .05
 	language "Derogam"
-
-	"player reputation" 1
 
 	"attitude toward"
 		"Derogam Armada" 1
@@ -23,11 +21,9 @@ government "Derogam Alliance"
 	"hostile hail" "derogam untranslated"
 
 government "Derogam Armada"
-	swizzle 0
-	color .9 .4 .15
+	swizzle 5
+	color .25 .9 .05
 	language "Derogam"
-
-	"player reputation" 1
 
 	"attitude toward"
 		"Derogam Alliance" 1
@@ -35,3 +31,4 @@ government "Derogam Armada"
 	"player reputation" 1
 	"friendly hail" "derogam untranslated"
 	"hostile hail" "derogam untranslated"
+
