@@ -1,5 +1,6 @@
 # Important
 All outfits are placeholders until I make MY OWN. Enjoy not reading the rest. :3
+Once I did a lot in my plugin I will update my older ships to look better.
 
 # The Derogam
 This is my first actual Endless Sky project, and the goal is to add an entire new species to the game with this plugin. I hope that when I'm fully done with it it could actually be added to the game itself.
@@ -9,18 +10,15 @@ This is my first actual Endless Sky project, and the goal is to add an entire ne
 
 They're dragon-like aliens (which you can see from the first ship I made: the Derogam Assassin). They'll be very advanced aliens, balanced around the Heliarch, Wanderers and Korath Automatons, with interesting, new, and hopefully original distinctions.
 
-For example, the first weapon I made: the Pestillence Turret, it's meant to be a greenish (projectile sprite not animated yet) laser beam that does not do any damage, but it gives the ship it hits several disadvantages. To keep it fun to fight them (or basically balanced as I only have a vague idea for the story) it'll be quite big and it will drain a lot of energy, meaning only big ships can actually utilize one. Some ships may even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair or whatever.
+For example, the first weapon I made: the Pestillence Turret, it's meant to be a green/reddish laser beam that does not do any damage, but it gives the ship it hits several disadvantages. To keep it fun to fight them (or basically balanced as I only have a vague idea for the story) it'll be quite big and it will drain a lot of energy, meaning only big ships can actually utilize one. Some ships may even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair or whatever.
 
 # Schedule
 
-EXAMS NEARLY DONE
+GRADUATED HIGHSCHOOL (11 July 2017), got more time to work on my plugin
 
-I have finished the Medium Transport, just need to tune some stats later, I haven't started on the Small and Large versions.
-I am however ALSO working on the biggest strongest warship the Derogam have: the Guardian
+I am planning to make an initial map (I may move, edit and add stuff after I have it), so I have a "base" to work with, and I will also make ships in between (I'm going to start sketching ship ideas so I can make better ships faster; usually I mess around w/ breaks in between for weeks per ship).
 
-After I finished the Transports I will attempt to make the Hybrids, and then I will focus on the military ships (no order planned, I will make whatever I want).
-
-After that I want to make some outfits to start replacing all temporary outfits. I'll work a bit all-round when I feel like it.
+SHIPS I'M WORKING ON: I have finished the Medium Transport, just need to tune some stats later, I haven't started on the Small and Large versions. I am however ALSO working on the biggest strongest warship the Derogam have: the Guardian. After I finished the Transports I will attempt to make the Hybrids, and then I will focus on the military ships (no order planned, I will make whatever I want).
 
 # What I'm currently working on: SHIPS (they have placeholder outfits until I made my own)
 
