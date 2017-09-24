@@ -58,10 +58,10 @@ ship "Derogam Assassin"
 	gun -12 -152 "Finisher Pod"
 	gun 12 -152 "Finisher Pod"
 	gun 20 -146 "Finisher Pod"
-	turret -45 -87 "Bombardment Turret"
-	turret 45 -87 "Bombardment Turret"
-	turret -45 21 "Bombardment Turret"
-	turret 45 21 "Bombardment Turret"
+	turret -62 -74 "Bombardment Turret"
+	turret 62 -74 "Bombardment Turret"
+	turret -62 8 "Bombardment Turret"
+	turret 62 8 "Bombardment Turret"
 	explode "tiny explosion" 40
 	explode "small explosion" 50
 	explode "medium explosion" 35
