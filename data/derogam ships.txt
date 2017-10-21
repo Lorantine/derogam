@@ -221,11 +221,11 @@ ship "Derogam Collector"
 		"Steering (Lunar Class)"
 		Hyperdrive
 	engine 0 137 1.4
-	gun -13.5 -114 "Thunderhead Launcher"
-	gun 13.5 -114 "Thunderhead Launcher"
-	turret -27 -11 "Korath Warder"
+	gun -13.5 -112 "Thunderhead Launcher"
+	gun 13.5 -112 "Thunderhead Launcher"
+	turret -27 -12 "Korath Warder"
 	turret 0 -45 "Bombardment Turret"
-	turret 27 -11 "Korath Warder"
+	turret 27 -12 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 20
