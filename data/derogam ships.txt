@@ -272,14 +272,14 @@ ship "Derogam Hoarder"
 		"Steering (Asteroid Class)"
 		Hyperdrive
 	engine 0 255 1.4
-	gun -20 -237 "Thunderhead Launcher"
-	gun 20 -237 "Thunderhead Launcher"
-	gun -15 -250 "Thunderhead Launcher"
-	gun 15 -250 "Thunderhead Launcher"
+	gun -20 -219 "Thunderhead Launcher"
+	gun 20 -219 "Thunderhead Launcher"
+	gun -15 -233 "Thunderhead Launcher"
+	gun 15 -233 "Thunderhead Launcher"
 	turret 0 -117 "Bombardment Turret"
 	turret 0 -67 "Bombardment Turret"
-	turret -59 84 "Korath Warder"
-	turret 59 84 "Korath Warder"
+	turret -50 84 "Korath Warder"
+	turret 50 84 "Korath Warder"
 	explode "tiny explosion" 40
 	explode "small explosion" 50
 	explode "medium explosion" 60
