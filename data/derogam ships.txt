@@ -54,9 +54,9 @@ ship "Derogam Assassin"
 	engine -62 153 .75
 	engine 0 138 .9
 	engine 62 153 .75
-	gun -20 -146 "Finisher Pod"
 	gun -12 -152 "Finisher Pod"
 	gun 12 -152 "Finisher Pod"
+	gun -20 -146 "Finisher Pod"
 	gun 20 -146 "Finisher Pod"
 	turret -62 -74 "Bombardment Turret"
 	turret 62 -74 "Bombardment Turret"
@@ -116,14 +116,14 @@ ship "Derogam Warrior"
 	engine 0 136 .6
 	engine 67.5 146 .8
 	engine 135 172 .4
-	gun -90 -168 "Thunderhead Launcher"
-	gun 90 -168 "Thunderhead Launcher"
-	gun -45 -168 "Thunderhead Launcher"
-	gun 45 -168 "Thunderhead Launcher"
 	gun -81 -175
 	gun 81 -175
 	gun -54 -175
 	gun 54 -175
+	gun -90 -168 "Thunderhead Launcher"
+	gun 90 -168 "Thunderhead Launcher"
+	gun -45 -168 "Thunderhead Launcher"
+	gun 45 -168 "Thunderhead Launcher"
 	turret -67.5 -146 "Bombardment Turret"
 	turret 67.5 -146 "Bombardment Turret"
 	turret -67.5 -112 "Bombardment Turret"
@@ -223,8 +223,8 @@ ship "Derogam Collector"
 	engine 0 137 1.4
 	gun -13.5 -112 "Thunderhead Launcher"
 	gun 13.5 -112 "Thunderhead Launcher"
-	turret -27 -12 "Korath Warder"
 	turret 0 -45 "Bombardment Turret"
+	turret -27 -12 "Korath Warder"
 	turret 27 -12 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
@@ -272,10 +272,10 @@ ship "Derogam Hoarder"
 		"Steering (Asteroid Class)"
 		Hyperdrive
 	engine 0 255 1.4
-	gun -20 -219 "Thunderhead Launcher"
-	gun 20 -219 "Thunderhead Launcher"
 	gun -15 -233 "Thunderhead Launcher"
 	gun 15 -233 "Thunderhead Launcher"
+	gun -20 -219 "Thunderhead Launcher"
+	gun 20 -219 "Thunderhead Launcher"
 	turret 0 -117 "Bombardment Turret"
 	turret 0 -67 "Bombardment Turret"
 	turret -50 84 "Korath Warder"
@@ -296,7 +296,7 @@ ship "Derogam Itinerant"
 		category "Transport"
 		"cost" 6826000
 		"shields" 15200
-		"hull" 9300
+		"hull" 7300
 		"required crew" 9
 		"bunks" 49
 		"mass" 310
@@ -304,9 +304,9 @@ ship "Derogam Itinerant"
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 73
-		"outfit space" 349
-		"weapon capacity" 134
-		"engine capacity" 83
+		"outfit space" 376
+		"weapon capacity" 164
+		"engine capacity" 76
 		"heat generation" 18
 		weapon
 			"blast radius" 180
@@ -314,14 +314,25 @@ ship "Derogam Itinerant"
 			"hull damage" 900
 			"hit force" 2200
 	outfits
-	engine 0 0
-	engine 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	gun 0 0
-	turret 0 0
-	turret 0 0
+		"Thunderhead Launcher" 4
+		"Thunderhead Missile" 160
+		"Korath Warder" 2
+
+		"Yellow Sun Reactor"
+		"Systems Core (Small)"
+		"Small Heat Shunt"
+
+		"Thruster (Lunar Class)"
+		"Steering (Lunar Class)"
+		Hyperdrive
+	engine -56.5 -59
+	engine 56.5 -59
+	gun -23 -125
+	gun 23 -125
+	gun -38 -119
+	gun 38 -119
+	turret -38 -81
+	turret 38 -81
 	explode "tiny explosion" 30
 	explode "small explosion" 35
 	explode "medium explosion" 15
