@@ -15,9 +15,9 @@ ship "Nekis Predator"
 	sprite "ship/nekis predator"
 	attributes
 		category "Heavy Warship"
-		"cost" 43673000
+		"cost" 51673000
 		"shields" 16400
-		"hull" 104800
+		"hull" 124800
 		"required crew" 67
 		"bunks" 132
 		"mass" 1040
@@ -29,10 +29,10 @@ ship "Nekis Predator"
 		"weapon capacity" 396
 		"engine capacity" 142
 		weapon
-			"blast radius" 550
-			"shield damage" 6000
-			"hull damage" 3000
-			"hit force" 8000
+			"blast radius" 530
+			"shield damage" 7000
+			"hull damage" 3500
+			"hit force" 10200
 	outfits
 		"Inhibitor Cannon" 2
 		"Finisher Pod" 2
