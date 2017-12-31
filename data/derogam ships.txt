@@ -15,19 +15,19 @@ ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
 	attributes
 		category "Medium Warship"
-		"cost" 26653000
-		"shields" 38800
-		"hull" 31200
+		"cost" 21653000
+		"shields" 31800
+		"hull" 25200
 		"required crew" 34
 		"bunks" 65
-		"mass" 610
-		"drag" 8.5
-		"heat dissipation" 1
+		"mass" 430
+		"drag" 6.4
+		"heat dissipation" .8
 		"fuel capacity" 700
-		"cargo space" 64
-		"outfit space" 664
-		"weapon capacity" 316
-		"engine capacity" 126
+		"cargo space" 54
+		"outfit space" 615
+		"weapon capacity" 284
+		"engine capacity" 113
 		"energy generation" 1
 		"energy capacity" 800
 		"shield generation" .4
@@ -36,28 +36,30 @@ ship "Derogam Assassin"
 		"hull energy" .3
 		"heat generation" 20
 		weapon
-			"blast radius" 350
-			"shield damage" 4000
-			"hull damage" 2000
-			"hit force" 6000
+			"blast radius" 320
+			"shield damage" 3400
+			"hull damage" 1700
+			"hit force" 4800
 	outfits
-		"Finisher Pod" 4
-		"Finisher Torpedo" 160
+		"Thunderhead Launcher" 4
+		"Thunderhead Missile" 160
 		"Bombardment Turret" 4
 
 		"Blue Sun Reactor"
 		"Systems Core (Medium)"
+		"Small Heat Shunt"
 
-		"Thruster (Planetary Class)"
+		"Thruster (Lunar Class)"
+		"Thruster (Asteroid Class)"
 		"Steering (Planetary Class)"
 		Hyperdrive
 	engine -62 153 .75
 	engine 0 138 .9
 	engine 62 153 .75
-	gun -12 -152 "Finisher Pod"
-	gun 12 -152 "Finisher Pod"
-	gun -20 -146 "Finisher Pod"
-	gun 20 -146 "Finisher Pod"
+	gun -12 -152 "Thunderhead Launcher"
+	gun 12 -152 "Thunderhead Launcher"
+	gun -20 -146 "Thunderhead Launcher"
+	gun 20 -146 "Thunderhead Launcher"
 	turret -62 -74 "Bombardment Turret"
 	turret 62 -74 "Bombardment Turret"
 	turret -62 8 "Bombardment Turret"
@@ -74,19 +76,19 @@ ship "Derogam Warrior"
 	sprite "ship/derogam warrior"
 	attributes
 		category "Heavy Warship"
-		"cost" 39825000
-		"shields" 59300
-		"hull" 41600
-		"required crew" 83
-		"bunks" 126
-		"mass" 980
-		"drag" 12.6
-		"heat dissipation" 1
+		"cost" 35825000
+		"shields" 52300
+		"hull" 36600
+		"required crew" 62
+		"bunks" 98
+		"mass" 790
+		"drag" 12.9
+		"heat dissipation" .9
 		"fuel capacity" 700
-		"cargo space" 97
-		"outfit space" 873
+		"cargo space" 71
+		"outfit space" 802
 		"weapon capacity" 365
-		"engine capacity" 133
+		"engine capacity" 123
 		"energy generation" 2
 		"energy capacity" 1600
 		"shield generation" .8
@@ -95,10 +97,10 @@ ship "Derogam Warrior"
 		"hull energy" .6
 		"heat generation" 48
 		weapon
-			"blast radius" 450
-			"shield damage" 7000
-			"hull damage" 3500
-			"hit force" 8500
+			"blast radius" 380
+			"shield damage" 5000
+			"hull damage" 2500
+			"hit force" 6200
 	outfits
 		"Thunderhead Launcher" 4
 		"Thunderhead Missile" 160
@@ -106,7 +108,8 @@ ship "Derogam Warrior"
 
 		"Blue Sun Reactor"
 		"Yellow Sun Reactor"
-		"Systems Core (Large)"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
