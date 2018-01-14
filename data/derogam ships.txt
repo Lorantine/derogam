@@ -16,10 +16,10 @@ ship "Derogam Assassin"
 	attributes
 		category "Medium Warship"
 		"cost" 21653000
-		"shields" 31800
-		"hull" 25200
+		"shields" 34100
+		"hull" 23600
 		"required crew" 34
-		"bunks" 65
+		"bunks" 55
 		"mass" 430
 		"drag" 6.4
 		"heat dissipation" .8
@@ -70,7 +70,7 @@ ship "Derogam Assassin"
 	explode "large explosion" 20
 	explode "huge explosion" 10
 	"final explode" "final explosion large"
-	description `The Assassin is the Derogam's main medium warship, although it has an unusual style; it's meant to be a fast ship with high firepower to take out priority targets. The Assassin was also the first ship to test a new so-called 'vein' technology which distributes various substances around the ship in the tubes around its hull. This gives the ship some extra utility in the form of a little hull and shield regeneration, converting some heat to energy, and unusually efficient heat dissipation, enabling it to take a very large amount of heat.`
+	description `The Assassin is the Derogam's main medium warship, although it has an unusual style; it's meant to be a fast ship with high firepower to take out priority targets. It was also the first ship to test the new so-called vein technology, a very efficient system which distributes various substances around the ship in the tubes around its hull. This gives the ship some extra utility in the form of a little hull and shield regeneration, converting some heat to energy, and unusually efficient heat dissipation, enabling it to take a very large amount of heat.`
 
 ship "Derogam Warrior"
 	sprite "ship/derogam warrior"
@@ -80,7 +80,7 @@ ship "Derogam Warrior"
 		"shields" 52300
 		"hull" 36600
 		"required crew" 62
-		"bunks" 98
+		"bunks" 88
 		"mass" 790
 		"drag" 12.9
 		"heat dissipation" .9
@@ -139,7 +139,7 @@ ship "Derogam Warrior"
 	explode "large explosion" 40
 	explode "huge explosion" 20
 	"final explode" "final explosion large"
-	description `The Warrior's design is, as its look suggests, based on the Assassin; it was even the second ship to test the 'vein' technology for its successor, the Guardian. Because it is primarily serving as the Derogam's offensive heavy warship, the Warrior has a lot of weapon hardpoints, intended to enable a wide variety when outfitting it instead of filling all hardpoints at once. This means some are outfitted as torpedo ships while others use the turrets for raw damage instead.`
+	description `The Warrior's design is, as its looks suggest, based on the Assassin; it was even the second ship to test the new vein technology to later be used by its successor, the Guardian. Since its initial model was primarily designed to serve as a versatile offensive heavy warship, the Warrior has a lot of weapon hardpoints. This enables a wide variety of weaponry, which means it can fit most roles in combat depending on the loadout.`
 
 ship "Derogam Guardian"
 	sprite "ship/derogam guardian"
@@ -207,7 +207,7 @@ ship "Derogam Guardian"
 	explode "large explosion" 60
 	explode "huge explosion" 35
 	"final explode" "final explosion large"
-	description `TBD
+	description `This is the apex of Derogam warships, designed to push their limits to the edge. With the best and latest technology, including the succesful vein technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. This doesn't mean it's only a powerful warship, as it can also carry a reasonable amount of cargo around, making it a reasonable freighter as well.`
 
 # Civilian ships
 # Freighters
@@ -253,7 +253,7 @@ ship "Derogam Gatherer"
 	explode "medium explosion" 10
 	explode "large explosion" 5
 	"final explode" "final explosion small"
-	description `The Gatherer is designed to have high cargo capacity in reinforced pods that are quickly replaceable. This unusual design gives it a relatively weak hull and makes it quite slow, but for a small freighter it has a great amount of cargo space. Its armament consists of two turrets intended to use two anti-missile systems, but it can also use stronger weapons.`
+	description `The Gatherer is designed to have high cargo capacity in reinforced pods that are quickly detachable so it can quickly move good amounts of cargo around. This unusual design means it has a relatively weak hull and makes it relatively slow, but it's a good freighter nonetheless. Its armament consists of only two turrets intended to utilize two anti-missile systems or small offensive weaponry to assist its escorts if under attack.`
 
 ship "Derogam Collector"
 	sprite "ship/derogam collector"
@@ -302,7 +302,7 @@ ship "Derogam Collector"
 	explode "medium explosion" 20
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
-	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. Its high mobility improves its survivability and makes it a popular freighter even amongst the military; the Hoarder's sheer size makes it an easy target, despite the stronger hull and shields, and the Gatherer simply lacks survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but in a group, even civilian ships make a strong enemy.`
+	description `The Collector is designed with big reinforced detachable cargo pods to quickly load and unload cargo. Its high mobility improves its survivability and makes it a popular freighter even amongst the military; the Hoarder's sheer size makes it an easy target despite the stronger hull and shields, and the Gatherer simply lacks survivability. Its armament is relatively weak, mainly meant to keep itself and other smaller ships safe, but a small group of these still make a formidable enemy.`
 
 
 ship "Derogam Hoarder"
@@ -357,7 +357,7 @@ ship "Derogam Hoarder"
 	explode "large explosion" 35
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description `The Hoarder is the last of the freighter line, designed to be resilient enough so it can fly without escorts, and even enabling it to be retrofitted. Its main downside is the extremely slow speed, but it has enough armament to fight off small fleets until an allied fleet arrives.`
+	description `The Hoarder is the last of the freighter line, designed to be resilient enough so it can even fly without escorts, and enabling it to be retrofitted in times of need. Its main downside is its extremely slow speed, but it has enough armament to fight off a small fleet until an allied fleet arrives.`
 
 # Transports
 
@@ -370,8 +370,8 @@ ship "Derogam Itinerant"
 		"hull" 7300
 		"required crew" 9
 		"bunks" 49
-		"mass" 310
-		"drag" 6.8
+		"mass" 270
+		"drag" 5.9
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 73
@@ -409,4 +409,4 @@ ship "Derogam Itinerant"
 	explode "medium explosion" 15
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
-	description `TBD`
+	description `The Derogam transport line has always had an unusually design, with a relatively weak hull for the sake of being relatively small and maneuverable. It uses reinforced transport pods placed on its tail-like shape and its design shields them from frontal fire, making it quite a safe travel option.`
