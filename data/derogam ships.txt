@@ -11,6 +11,58 @@
 # Military ships
 # Base ships
 
+ship "Derogam Sentry"
+	sprite "ship/derogam sentry"
+	attributes
+		category "Light Warship"
+		"cost" 14376000
+		"shields" 21900
+		"hull" 15100
+		"required crew" 15
+		"bunks" 27
+		"mass" 250
+		"drag" 5.8
+		"heat dissipation" .8
+		"fuel capacity" 600
+		"cargo space" 37
+		"outfit space" 473
+		"weapon capacity" 192
+		"engine capacity" 81
+		"heat generation" 10
+		weapon
+			"blast radius" 220
+			"shield damage" 2400
+			"hull damage" 1200
+			"hit force" 3400
+	outfits
+		"Thunderhead Launcher" 4
+		"Thunderhead Missile" 160
+		"Bombardment Turret" 2
+
+		"White Sun Reactor"
+		"Systems Core (Medium)"
+		"Small Heat Shunt"
+
+		"Thruster (Lunar Class)"
+		"Steering (Lunar Class)"
+		"Hyperdrive"
+	engine -45 40 .6
+	engine -17.5 116 .8
+	engine 17.5 116 .8
+	engine 45 40 .6
+	gun -10.5 -112
+	gun 10.5 -112
+	gun -16 -92
+	gun 16 -92
+	turret 0 -27.5
+	turret 0 4.5
+	explode "tiny explosion" 30
+	explode "small explosion" 40
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	description `Before the Assassin was first developed, the Sentry was the best warship the Derogam had to offer. Just like most of their ships, it has been upgraded various times throughout the decades, however it has never received any significant redesign just so it could stay as a relatively cheap vessel. Its primary use is escorting bigger warships, although it is often found serving various other purposes as well.`
+
 ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
 	attributes
@@ -52,7 +104,7 @@ ship "Derogam Assassin"
 		"Thruster (Lunar Class)"
 		"Thruster (Asteroid Class)"
 		"Steering (Planetary Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine -62 153 .75
 	engine 0 138 .9
 	engine 62 153 .75
@@ -113,7 +165,7 @@ ship "Derogam Warrior"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine -135 172 .4
 	engine -67.5 146 .8
 	engine 0 136 .6
@@ -183,7 +235,7 @@ ship "Derogam Guardian"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Steering (Asteroid Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine -149 192 .55
 	engine -76 217.5 .55
 	engine 0 200.5 .9
@@ -244,7 +296,7 @@ ship "Derogam Gatherer"
 
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine 0 108 1.4
 	turret -31 -11 "Korath Warder"
 	turret 31 -11 "Korath Warder"
@@ -290,7 +342,7 @@ ship "Derogam Collector"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine 0 137 1.4
 	gun -13.5 -112 "Thunderhead Launcher"
 	gun 13.5 -112 "Thunderhead Launcher"
@@ -341,7 +393,7 @@ ship "Derogam Hoarder"
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
 		"Steering (Asteroid Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine 0 255 1.4
 	gun -15 -233 "Thunderhead Launcher"
 	gun 15 -233 "Thunderhead Launcher"
@@ -395,7 +447,7 @@ ship "Derogam Itinerant"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
-		Hyperdrive
+		"Hyperdrive"
 	engine -56.5 -59
 	engine 56.5 -59
 	gun -23 -125
