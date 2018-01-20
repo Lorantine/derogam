@@ -25,7 +25,7 @@ ship "Derogam Sentry"
 		"heat dissipation" .8
 		"fuel capacity" 600
 		"cargo space" 37
-		"outfit space" 473
+		"outfit space" 436
 		"weapon capacity" 192
 		"engine capacity" 81
 		"heat generation" 10
@@ -39,9 +39,10 @@ ship "Derogam Sentry"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 2
 
-		"White Sun Reactor"
-		"Systems Core (Medium)"
-		"Small Heat Shunt"
+		"Inferno Core"
+		"Blaze Core"
+		"Systems Core (Small)"
+		"Cooling Module" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -97,9 +98,10 @@ ship "Derogam Assassin"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 4
 
-		"Blue Sun Reactor"
+		"Magma Core"
+		"Ember Core"
 		"Systems Core (Medium)"
-		"Small Heat Shunt"
+		"Cooling Module" 2
 
 		"Thruster (Lunar Class)"
 		"Thruster (Asteroid Class)"
@@ -158,10 +160,10 @@ ship "Derogam Warrior"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 6
 
-		"Blue Sun Reactor"
-		"Yellow Sun Reactor"
+		"Searing Core"
+		"Flame Core"
 		"Systems Core (Medium)"
-		"Small Heat Shunt"
+		"Cooling Module" 3
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -227,14 +229,13 @@ ship "Derogam Guardian"
 		"Thunderhead Missile" 80
 		"Bombardment Turret" 8
 
-		"White Sun Reactor"
-		"Blue Sun Reactor"
+		"Searing Core"
+		"Magma Core"
 		"Systems Core (Large)"
-		"Small Heat Shunt" 2
+		"Cooling Module" 4
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
-		"Steering (Asteroid Class)"
 		"Hyperdrive"
 	engine -149 192 .55
 	engine -76 217.5 .55
@@ -278,7 +279,7 @@ ship "Derogam Gatherer"
 		"heat dissipation" .8
 		"fuel capacity" 600
 		"cargo space" 196
-		"outfit space" 208
+		"outfit space" 214
 		"weapon capacity" 62
 		"engine capacity" 52
 		"heat generation" 6
@@ -290,9 +291,9 @@ ship "Derogam Gatherer"
 	outfits
 		"Korath Warder" 2
 
-		"Red Sun Reactor"
+		"Flame Core"
 		"Systems Core (Small)"
-		"Small Heat Shunt"
+		"Cooling Module"
 
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
@@ -321,7 +322,7 @@ ship "Derogam Collector"
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 328
-		"outfit space" 362
+		"outfit space" 373
 		"weapon capacity" 152
 		"engine capacity" 72
 		"heat generation" 18
@@ -336,9 +337,9 @@ ship "Derogam Collector"
 		"Bombardment Turret"
 		"Korath Warder" 2
 
-		"Yellow Sun Reactor"
+		"Inferno Core"
 		"Systems Core (Small)"
-		"Small Heat Shunt"
+		"Cooling Module" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -386,9 +387,10 @@ ship "Derogam Hoarder"
 		"Bombardment Turret" 2
 		"Korath Warder" 2
 
-		"White Sun Reactor"
+		"Magma Core"
+		"Blaze Core"
 		"Systems Core (Medium)"
-		"Small Heat Shunt"
+		"Cooling Module" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -441,9 +443,9 @@ ship "Derogam Itinerant"
 		"Thunderhead Missile" 160
 		"Korath Warder" 2
 
-		"Yellow Sun Reactor"
+		"Inferno Core"
 		"Systems Core (Small)"
-		"Small Heat Shunt"
+		"Cooling Module"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
