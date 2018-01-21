@@ -42,7 +42,7 @@ outfit "Flame Core"
 	thumbnail "outfit/unknown"
 	"mass" 57
 	"outfit space" -57
-	"energy generation" 10.35
+	"energy generation" 10.5
 	"heat generation" 26.7
 	"energy capacity" 1450
 	"shield generation" .24
@@ -55,7 +55,7 @@ outfit "Inferno Core"
 	thumbnail "outfit/unknown"
 	"mass" 90
 	"outfit space" -90
-	"energy generation" 17.1
+	"energy generation" 17.45
 	"heat generation" 43.15
 	"energy capacity" 3200
 	"shield generation" .38
@@ -68,7 +68,7 @@ outfit "Magma Core"
 	thumbnail "outfit/unknown"
 	"mass" 123
 	"outfit space" -123
-	"energy generation" 24.55
+	"energy generation" 25.1
 	"heat generation" 60.65
 	"energy capacity" 4550
 	"shield generation" .53
@@ -81,10 +81,9 @@ outfit "Searing Core"
 	thumbnail "outfit/unknown"
 	"mass" 162
 	"outfit space" -162
-	"energy generation" 34.1
+	"energy generation" 34.7
 	"heat generation" 82.2
 	"energy capacity" 6250
 	"shield generation" .67
 	"shield energy" .67
 	description `TBD`
-
