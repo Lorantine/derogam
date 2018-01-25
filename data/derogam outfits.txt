@@ -13,7 +13,7 @@
 outfit "Blaze Core"
 	category "Power"
 	cost 709000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/blaze core"
 	"mass" 11
 	"outfit space" -11
 	"energy generation" 1.9
@@ -26,7 +26,7 @@ outfit "Blaze Core"
 outfit "Ember Core"
 	category "Power"
 	cost 1856000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/ember core"
 	"mass" 25
 	"outfit space" -25
 	"energy generation" 4.4
@@ -39,7 +39,7 @@ outfit "Ember Core"
 outfit "Flame Core"
 	category "Power"
 	cost 4837000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/flame core"
 	"mass" 57
 	"outfit space" -57
 	"energy generation" 10.5
@@ -52,7 +52,7 @@ outfit "Flame Core"
 outfit "Inferno Core"
 	category "Power"
 	cost 8506000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/inferno core"
 	"mass" 90
 	"outfit space" -90
 	"energy generation" 17.45
@@ -65,7 +65,7 @@ outfit "Inferno Core"
 outfit "Magma Core"
 	category "Power"
 	cost 13068000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/magma core"
 	"mass" 123
 	"outfit space" -123
 	"energy generation" 25.1
@@ -78,7 +78,7 @@ outfit "Magma Core"
 outfit "Searing Core"
 	category "Power"
 	cost 22961000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/searing core"
 	"mass" 162
 	"outfit space" -162
 	"energy generation" 34.7
