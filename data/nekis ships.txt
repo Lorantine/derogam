@@ -24,6 +24,7 @@ ship "Nekis Predator"
 		"drag" 13.5
 		"heat dissipation" .65
 		"fuel capacity" 900
+		"ramscoop" 2.5
 		"cargo space" 124
 		"outfit space" 958
 		"weapon capacity" 396
