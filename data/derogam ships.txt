@@ -199,7 +199,7 @@ ship "Derogam Guardian"
 	sprite "ship/derogam guardian"
 	attributes
 		category "Heavy Warship"
-		"cost" 53266000
+		"cost" 50266000
 		"shields" 81700
 		"hull" 58200
 		"required crew" 91
