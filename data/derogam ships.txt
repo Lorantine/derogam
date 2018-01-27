@@ -138,7 +138,7 @@ ship "Derogam Warrior"
 		"heat dissipation" .9
 		"fuel capacity" 700
 		"cargo space" 71
-		"outfit space" 802
+		"outfit space" 812
 		"weapon capacity" 365
 		"engine capacity" 123
 		"energy generation" 2
@@ -200,7 +200,7 @@ ship "Derogam Guardian"
 		"cost" 50266000
 		"shields" 81700
 		"hull" 58200
-		"required crew" 91
+		"required crew" 87
 		"bunks" 119
 		"mass" 1120
 		"drag" 19.5
@@ -277,7 +277,7 @@ ship "Derogam Gatherer"
 		"heat dissipation" .8
 		"fuel capacity" 600
 		"cargo space" 196
-		"outfit space" 214
+		"outfit space" 225
 		"weapon capacity" 62
 		"engine capacity" 52
 		"heat generation" 6
@@ -320,7 +320,7 @@ ship "Derogam Collector"
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 328
-		"outfit space" 373
+		"outfit space" 382
 		"weapon capacity" 152
 		"engine capacity" 72
 		"heat generation" 18
@@ -370,7 +370,7 @@ ship "Derogam Hoarder"
 		"heat dissipation" .8
 		"fuel capacity" 800
 		"cargo space" 678
-		"outfit space" 545
+		"outfit space" 556
 		"weapon capacity" 246
 		"engine capacity" 90
 		"heat generation" 54
@@ -428,7 +428,7 @@ ship "Derogam Itinerant"
 		"heat dissipation" .8
 		"fuel capacity" 700
 		"cargo space" 73
-		"outfit space" 376
+		"outfit space" 385
 		"weapon capacity" 164
 		"engine capacity" 76
 		"heat generation" 18
