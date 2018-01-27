@@ -1,4 +1,4 @@
-# Copyright (c) 2017 by Dennis van Anrooij
+# Copyright (c) 2017-2018 by Dennis van Anrooij
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -8,9 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-# Military ships
-# Base ships
-
+# Base military ships
 ship "Derogam Sentry"
 	sprite "ship/derogam sentry"
 	attributes
@@ -262,9 +260,9 @@ ship "Derogam Guardian"
 	"final explode" "final explosion large"
 	description `This is the apex of Derogam warships, designed to push their limits to the edge. With the best and latest technology, including the succesful vein technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. This doesn't mean it's only a powerful warship, as it can also carry a reasonable amount of cargo around, making it a reasonable freighter as well.`
 
-# Civilian ships
-# Freighters
 
+
+# Freighters
 ship "Derogam Gatherer"
 	sprite "ship/derogam gatherer"
 	attributes
@@ -413,8 +411,9 @@ ship "Derogam Hoarder"
 	"final explode" "final explosion large"
 	description `The Hoarder is the last of the freighter line, designed to be resilient enough so it can even fly without escorts, and enabling it to be retrofitted in times of need. Its main downside is its extremely slow speed, but it has enough armament to fight off a small fleet until an allied fleet arrives.`
 
-# Transports
 
+
+# Transports
 ship "Derogam Itinerant"
 	sprite "ship/derogam itinerant"
 	attributes
