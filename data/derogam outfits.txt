@@ -86,3 +86,39 @@ outfit "Searing Core"
 	"shield generation" .67
 	"shield energy" .67
 	description `TBD`
+
+
+
+# Cooling
+outfit "Cooling Coil Size 1"
+	category "Systems"
+	cost 168000
+	thumbnail "outfit/unknown"
+	"mass" 6
+	"outfit space" -6
+	"cooling" 3.2
+	"active cooling" 12.4
+	"cooling energy" .95
+	description `TBD`
+
+outfit "Cooling Coil Size 2"
+	category "Systems"
+	cost 451000
+	thumbnail "outfit/unknown"
+	"mass" 14
+	"outfit space" -14
+	"cooling" 8.9
+	"active cooling" 30.4
+	"cooling energy" 2.2
+	description `TBD`
+
+outfit "Cooling Coil Size 3"
+	category "Systems"
+	cost 1122000
+	thumbnail "outfit/unknown"
+	"mass" 31
+	"outfit space" -31
+	"cooling" 23.6
+	"active cooling" 69.5
+	"cooling energy" 4.75
+	description `TBD`

@@ -15,12 +15,15 @@
 outfitter "Derogam Small"
 	"Blaze Core"
 	"Ember Core"
+	"Cooling Coil Size 1"
 
 outfitter "Derogam Medium"
 	"Blaze Core"
 	"Ember Core"
 	"Flame Core"
 	"Inferno Core"
+	"Cooling Coil Size 1"
+	"Cooling Coil Size 2"
 
 outfitter "Derogam Large"
 	"Blaze Core"
@@ -29,6 +32,9 @@ outfitter "Derogam Large"
 	"Inferno Core"
 	"Magma Core"
 	"Searing Core"
+	"Cooling Coil Size 1"
+	"Cooling Coil Size 2"
+	"Cooling Coil Size 3"
 
 
 

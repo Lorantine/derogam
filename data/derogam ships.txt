@@ -40,7 +40,7 @@ ship "Derogam Sentry"
 		"Inferno Core"
 		"Blaze Core"
 		"Systems Core (Small)"
-		"Cooling Module" 2
+		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -98,8 +98,10 @@ ship "Derogam Assassin"
 
 		"Magma Core"
 		"Ember Core"
-		"Systems Core (Medium)"
-		"Cooling Module" 2
+		"Blaze Core"
+		"Systems Core (Small)"
+		"Cooling Coil Size 2"
+		"Cooling Coil Size 1"
 
 		"Thruster (Lunar Class)"
 		"Thruster (Asteroid Class)"
@@ -161,7 +163,7 @@ ship "Derogam Warrior"
 		"Searing Core"
 		"Flame Core"
 		"Systems Core (Medium)"
-		"Cooling Module" 3
+		"Cooling Coil Size 3"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -228,9 +230,10 @@ ship "Derogam Guardian"
 		"Bombardment Turret" 8
 
 		"Searing Core"
-		"Magma Core"
+		"Inferno Core"
+		"Blaze Core" 2
 		"Systems Core (Large)"
-		"Cooling Module" 4
+		"Cooling Coil Size 3"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -274,7 +277,7 @@ ship "Derogam Gatherer"
 		"bunks" 8
 		"mass" 210
 		"drag" 5.3
-		"heat dissipation" .8
+		"heat dissipation" .9
 		"fuel capacity" 600
 		"cargo space" 196
 		"outfit space" 225
@@ -290,8 +293,9 @@ ship "Derogam Gatherer"
 		"Korath Warder" 2
 
 		"Flame Core"
+		"Blaze Core"
 		"Systems Core (Small)"
-		"Cooling Module"
+		"Cooling Coil Size 1"
 
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
@@ -317,10 +321,10 @@ ship "Derogam Collector"
 		"bunks" 15
 		"mass" 330
 		"drag" 7.9
-		"heat dissipation" .8
+		"heat dissipation" .85
 		"fuel capacity" 700
 		"cargo space" 328
-		"outfit space" 382
+		"outfit space" 389
 		"weapon capacity" 152
 		"engine capacity" 72
 		"heat generation" 18
@@ -336,8 +340,9 @@ ship "Derogam Collector"
 		"Korath Warder" 2
 
 		"Inferno Core"
+		"Blaze Core"
 		"Systems Core (Small)"
-		"Cooling Module" 2
+		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -388,7 +393,7 @@ ship "Derogam Hoarder"
 		"Magma Core"
 		"Blaze Core"
 		"Systems Core (Medium)"
-		"Cooling Module" 2
+		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -425,7 +430,7 @@ ship "Derogam Itinerant"
 		"bunks" 49
 		"mass" 270
 		"drag" 5.9
-		"heat dissipation" .8
+		"heat dissipation" .85
 		"fuel capacity" 700
 		"cargo space" 73
 		"outfit space" 385
@@ -444,7 +449,7 @@ ship "Derogam Itinerant"
 
 		"Inferno Core"
 		"Systems Core (Small)"
-		"Cooling Module"
+		"Cooling Coil Size 1" 2
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
