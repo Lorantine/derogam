@@ -89,8 +89,71 @@ outfit "Searing Core"
 
 
 
+# Regenerators
+outfit "Healing Core Size 1"
+	plural "Healing Cores Size 1"
+	category "Systems"
+	cost 427000
+	thumbnail "outfit/unknown"
+	"mass" 9
+	"outfit space" -9
+	"shield generation" .51
+	"shield energy" .6
+	"shield heat" .68
+	"hull repair rate" .045
+	"hull energy" .053
+	"hull heat" .06
+	description `TBD`
+
+outfit "Healing Core Size 2"
+	plural "Healing Cores Size 2"
+	category "Systems"
+	cost 1197000
+	thumbnail "outfit/unknown"
+	"mass" 22
+	"outfit space" -22
+	"shield generation" 1.37
+	"shield energy" 1.65
+	"shield heat" 1.93
+	"hull repair rate" .13
+	"hull energy" .156
+	"hull heat" .185
+	description `TBD`
+
+outfit "Healing Core Size 3"
+	plural "Healing Cores Size 3"
+	category "Systems"
+	cost 2991000
+	thumbnail "outfit/unknown"
+	"mass" 47
+	"outfit space" -47
+	"shield generation" 3.28
+	"shield energy" 4
+	"shield heat" 5.06
+	"hull repair rate" .31
+	"hull energy" .378
+	"hull heat" .475
+	description `TBD`
+
+outfit "Healing Core Size 4"
+	plural "Healing Cores Size 4"
+	category "Systems"
+	cost 5934000
+	thumbnail "outfit/unknown"
+	"mass" 79
+	"outfit space" -79
+	"shield generation" 6.22
+	"shield energy" 7.7
+	"shield heat" 10.51
+	"hull repair rate" .59
+	"hull energy" .73
+	"hull heat" .98
+
+
+
 # Cooling
 outfit "Cooling Coil Size 1"
+	plural "Cooling Coils Size 1"
 	category "Systems"
 	cost 168000
 	thumbnail "outfit/unknown"
@@ -102,6 +165,7 @@ outfit "Cooling Coil Size 1"
 	description `TBD`
 
 outfit "Cooling Coil Size 2"
+	plural "Cooling Coils Size 2"
 	category "Systems"
 	cost 451000
 	thumbnail "outfit/unknown"
@@ -113,6 +177,7 @@ outfit "Cooling Coil Size 2"
 	description `TBD`
 
 outfit "Cooling Coil Size 3"
+	plural "Cooling Coils Size 3"
 	category "Systems"
 	cost 1122000
 	thumbnail "outfit/unknown"
@@ -122,3 +187,7 @@ outfit "Cooling Coil Size 3"
 	"active cooling" 69.5
 	"cooling energy" 4.75
 	description `TBD`
+
+
+
+# Engines

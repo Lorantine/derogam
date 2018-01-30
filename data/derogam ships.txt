@@ -38,9 +38,10 @@ ship "Derogam Sentry"
 		"Bombardment Turret" 2
 
 		"Inferno Core"
-		"Blaze Core"
-		"Systems Core (Small)"
+		"Blaze Core" 2
+		"Healing Core Size 2"
 		"Cooling Coil Size 2"
+		"Cooling Coil Size 1"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -99,9 +100,8 @@ ship "Derogam Assassin"
 		"Magma Core"
 		"Ember Core"
 		"Blaze Core"
-		"Systems Core (Small)"
-		"Cooling Coil Size 2"
-		"Cooling Coil Size 1"
+		"Healing Core Size 2"
+		"Cooling Coil Size 2" 2
 
 		"Thruster (Lunar Class)"
 		"Thruster (Asteroid Class)"
@@ -162,8 +162,9 @@ ship "Derogam Warrior"
 
 		"Searing Core"
 		"Flame Core"
-		"Systems Core (Medium)"
+		"Healing Core Size 3"
 		"Cooling Coil Size 3"
+		"Cooling Coil Size 1"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -232,8 +233,9 @@ ship "Derogam Guardian"
 		"Searing Core"
 		"Inferno Core"
 		"Blaze Core" 2
-		"Systems Core (Large)"
+		"Healing Core Size 4"
 		"Cooling Coil Size 3"
+		"Cooling Coil Size 2"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -294,7 +296,7 @@ ship "Derogam Gatherer"
 
 		"Flame Core"
 		"Blaze Core"
-		"Systems Core (Small)"
+		"Healing Core Size 2"
 		"Cooling Coil Size 1"
 
 		"Thruster (Comet Class)"
@@ -340,8 +342,8 @@ ship "Derogam Collector"
 		"Korath Warder" 2
 
 		"Inferno Core"
-		"Blaze Core"
-		"Systems Core (Small)"
+		"Blaze Core" 2
+		"Healing Core Size 2"
 		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
@@ -391,8 +393,8 @@ ship "Derogam Hoarder"
 		"Korath Warder" 2
 
 		"Magma Core"
-		"Blaze Core"
-		"Systems Core (Medium)"
+		"Blaze Core" 2
+		"Healing Core Size 3"
 		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
@@ -448,8 +450,8 @@ ship "Derogam Itinerant"
 		"Korath Warder" 2
 
 		"Inferno Core"
-		"Systems Core (Small)"
-		"Cooling Coil Size 1" 2
+		"Healing Core Size 2"
+		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
