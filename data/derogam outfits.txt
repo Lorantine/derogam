@@ -43,7 +43,7 @@ outfit "Flame Core"
 	"outfit space" -57
 	"energy generation" 10.5
 	"heat generation" 26.7
-	"energy capacity" 1450
+	"energy capacity" 2150
 	"shield generation" .24
 	"shield energy" .24
 	description `TBD`
@@ -63,7 +63,7 @@ outfit "Inferno Core"
 
 outfit "Magma Core"
 	category "Power"
-	cost 13068000
+	cost 12968000
 	thumbnail "outfit/magma core"
 	"mass" 123
 	"outfit space" -123
@@ -76,7 +76,7 @@ outfit "Magma Core"
 
 outfit "Searing Core"
 	category "Power"
-	cost 22961000
+	cost 18861000
 	thumbnail "outfit/searing core"
 	"mass" 162
 	"outfit space" -162
