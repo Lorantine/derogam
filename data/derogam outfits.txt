@@ -46,7 +46,7 @@ outfit "Flame Core"
 	"energy capacity" 2150
 	"shield generation" .24
 	"shield energy" .24
-	description `Throughout the centuries, the Derogam generators changed drastically, but every new generation has always been based on modifications on this very generator.`
+	description `Throughout the centuries, the Derogam generators changed drastically, but every new generation has always been based on modifications on this very generator. This means that some traces of older generations could still be found in its inner design, however small.`
 
 outfit "Inferno Core"
 	category "Power"
@@ -59,7 +59,7 @@ outfit "Inferno Core"
 	"energy capacity" 3200
 	"shield generation" .38
 	"shield energy" .38
-	description `This generator is a staple for both smaller ships that barely manage to fit it in, and larger ships that pair it with other generators.`
+	description `This generator is a staple for both smaller ships that barely manage to fit it in, and larger ships that pair it with other generators. Even though larger ships are usually better off with a bigger generator, merchant captains often prefer a cheaper version, due to the limited amount of combat they may face.`
 
 outfit "Magma Core"
 	category "Power"
@@ -72,7 +72,7 @@ outfit "Magma Core"
 	"energy capacity" 4550
 	"shield generation" .53
 	"shield energy" .53
-	description `Most larger warships simply can't function properly without a generator of this caliber. While recently its demand went down due to an even bigger version, it still serves as the backbone of most medium-large ships.`
+	description `Most larger warships simply can't function properly without a generator of this caliber. While recently its demand went down due to an even bigger version based on it, the Magma Core still serves as the backbone of most medium-large ships.`
 
 outfit "Searing Core"
 	category "Power"
@@ -85,7 +85,7 @@ outfit "Searing Core"
 	"energy capacity" 6250
 	"shield generation" .67
 	"shield energy" .67
-	description `With the development of both the Guardian warship and a new line of generators, there was a huge demand amongst captains of such large ships for a new, even bigger generator to power its systems. Rumour has it that it was developed in less than twenty days, and made the market shortly after its smaller kin.`
+	description `With the development of both the Guardian warship and a new line of generators, there was a huge demand amongst captains of such large ships for a new, even bigger generator to power its systems. Rumor has it that it was developed in only a fifth of the time it took to create the generator it was based on.`
 
 
 
