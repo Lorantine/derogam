@@ -61,7 +61,7 @@ ship "Derogam Sentry"
 	explode "medium explosion" 25
 	explode "large explosion" 10
 	"final explode" "final explosion medium"
-	description `Before the Assassin was first developed, the Sentry was the best warship the Derogam had to offer. Just like most of their ships, it has been upgraded various times throughout the decades, however it has never received any significant redesign just so it could stay as a relatively cheap vessel. Its primary use is escorting bigger warships, although it is often found serving various other purposes as well.`
+	description `Before the Assassin was first developed, the Sentry was the best warship the Derogam had to offer. Just like most of their ships, it has been upgraded various times throughout the decades. However, it has never received a significant redesign just so it could maintain its role as a relatively cheap all-round vessel. Its primary use is escorting bigger warships, although it is often found serving various other purposes as well.`
 
 ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
@@ -107,17 +107,17 @@ ship "Derogam Assassin"
 		"Thruster (Asteroid Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -62 153 .75
-	engine 0 138 .9
-	engine 62 153 .75
-	gun -12 -152 "Thunderhead Launcher"
-	gun 12 -152 "Thunderhead Launcher"
-	gun -20 -146 "Thunderhead Launcher"
-	gun 20 -146 "Thunderhead Launcher"
-	turret -62 -74 "Bombardment Turret"
-	turret 62 -74 "Bombardment Turret"
-	turret -62 8 "Bombardment Turret"
-	turret 62 8 "Bombardment Turret"
+	engine -62 150 .6
+	engine 0 134 1.2
+	engine 62 150 .6
+	gun -12.5 -150 "Thunderhead Launcher"
+	gun 12.5 -150 "Thunderhead Launcher"
+	gun -18.5 -143 "Thunderhead Launcher"
+	gun 18.5 -143 "Thunderhead Launcher"
+	turret -62 -72 "Bombardment Turret"
+	turret 62 -72 "Bombardment Turret"
+	turret -62 10.5 "Bombardment Turret"
+	turret 62 10.5 "Bombardment Turret"
 	explode "tiny explosion" 40
 	explode "small explosion" 50
 	explode "medium explosion" 35
@@ -169,32 +169,32 @@ ship "Derogam Warrior"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -135 172 .4
-	engine -67.5 146 .8
-	engine 0 136 .6
-	engine 67.5 146 .8
-	engine 135 172 .4
-	gun -54 -175
-	gun 54 -175
-	gun -81 -175
-	gun 81 -175
-	gun -45 -168 "Thunderhead Launcher"
-	gun 45 -168 "Thunderhead Launcher"
-	gun -90 -168 "Thunderhead Launcher"
-	gun 90 -168 "Thunderhead Launcher"
+	engine -135 167 .54
+	engine -67.5 135.5 1.08
+	engine 0 116 .9
+	engine 67.5 135.5 1.08
+	engine 135 167 .54
+	gun -54 -174.5
+	gun 54 -174.5
+	gun -81 -174.5
+	gun 81 -174.5
+	gun -47 -167.5 "Thunderhead Launcher"
+	gun 47 -167.5 "Thunderhead Launcher"
+	gun -88 -167.5 "Thunderhead Launcher"
+	gun 88 -167.5 "Thunderhead Launcher"
 	turret -67.5 -146 "Bombardment Turret"
 	turret 67.5 -146 "Bombardment Turret"
-	turret -67.5 -112 "Bombardment Turret"
-	turret 67.5 -112 "Bombardment Turret"
-	turret -67.5 -78 "Bombardment Turret"
-	turret 67.5 -78 "Bombardment Turret"
+	turret -67.5 -112.5 "Bombardment Turret"
+	turret 67.5 -112.5 "Bombardment Turret"
+	turret -67.5 -79 "Bombardment Turret"
+	turret 67.5 -79 "Bombardment Turret"
 	explode "tiny explosion" 70
 	explode "small explosion" 80
 	explode "medium explosion" 60
 	explode "large explosion" 40
 	explode "huge explosion" 20
 	"final explode" "final explosion large"
-	description `The Warrior's design is, as its looks suggest, based on the Assassin; it was even the second ship to test the new vein technology to later be used by its successor, the Guardian. Since its initial model was primarily designed to serve as a versatile offensive heavy warship, the Warrior has a lot of weapon hardpoints. This enables a wide variety of weaponry, which means it can fit most roles in combat depending on the loadout.`
+	description `The Warrior's design is, as its looks suggest, based on the Assassin; it was even the second ship to test the new vein technology to later be used by its successor, the Guardian. Since its initial model was primarily designed to serve as a versatile offensive heavy warship, the Warrior has a lot of weapon hardpoints. This enables a wide variety of weaponry, which means it can fit most roles in combat depending on its loadout.`
 
 ship "Derogam Guardian"
 	sprite "ship/derogam guardian"
@@ -240,30 +240,30 @@ ship "Derogam Guardian"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -149 192 .55
-	engine -76 217.5 .55
-	engine 0 200.5 .9
-	engine 76 217.5 .55
-	engine 149 192 .55
-	gun -20 -200.5 "Thunderhead Launcher"
-	gun 20 -200.5 "Thunderhead Launcher"
-	gun -30 -189.5
-	gun 30 -189.5
-	turret -76 -31 "Bombardment Turret"
-	turret 76 -31 "Bombardment Turret"
-	turret -149 10 "Bombardment Turret"
-	turret 149 10 "Bombardment Turret"
-	turret -149 120 "Bombardment Turret"
-	turret 149 120 "Bombardment Turret"
-	turret -76 161 "Bombardment Turret"
-	turret 76 161 "Bombardment Turret"
+	engine -149 180 .7
+	engine -80 203 .7
+	engine 0 197 1.2
+	engine 80 203 .7
+	engine 149 180 .7
+	gun -15 -212 "Thunderhead Launcher"
+	gun 15 -212 "Thunderhead Launcher"
+	gun -23.5 -201.5
+	gun 23.5 -201.5
+	turret -80 -34.5 "Bombardment Turret"
+	turret 80 -34.5 "Bombardment Turret"
+	turret -148.5 6 "Bombardment Turret"
+	turret 148.5 6 "Bombardment Turret"
+	turret -148.5 114 "Bombardment Turret"
+	turret 148.5 114 "Bombardment Turret"
+	turret -80 154.5 "Bombardment Turret"
+	turret 80 154.5 "Bombardment Turret"
 	explode "tiny explosion" 90
 	explode "small explosion" 100
 	explode "medium explosion" 80
 	explode "large explosion" 60
 	explode "huge explosion" 35
 	"final explode" "final explosion large"
-	description `This is the apex of Derogam warships, designed to push their limits to the edge. With the best and latest technology, including the succesful vein technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. This doesn't mean it's only a powerful warship, as it can also carry a reasonable amount of cargo around, making it a reasonable freighter as well.`
+	description `This is the apex of Derogam warships, designed to push their limits to the edge. With the best and latest technology, including the succesful vein technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. Despite being their heaviest warship, sometimes one is outfitted as a freighter if the cargo is valuable enough.`
 
 
 
