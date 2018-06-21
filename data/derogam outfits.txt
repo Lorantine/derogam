@@ -33,7 +33,7 @@ outfit "Ember Core"
 	"energy capacity" 900
 	"shield generation" .11
 	"shield energy" .11
-	description `For a long time, this generator served as the backbone of all smaller ships in Derogam space. Due to technological advancements, it was made slightly bigger and more powerful after an even smaller version was developed.`
+	description `For a long time, this generator served as the backbone of all smaller ships in Derogam space. Due to recent technological advancements, it was made slightly bigger and more powerful after an even smaller version was developed.`
 
 outfit "Flame Core"
 	category "Power"
