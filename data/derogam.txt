@@ -12,7 +12,7 @@
 
 
 # Outfitters
-outfitter "Derogam Small"
+outfitter "Derogam Base Small"
 	"Blaze Core"
 	"Ember Core"
 	"Healing Core Size 1"
@@ -23,7 +23,7 @@ outfitter "Derogam Small"
 	"Hyperdrive"
 	"Local Map"
 
-outfitter "Derogam Medium"
+outfitter "Derogam Base Medium"
 	"Blaze Core"
 	"Ember Core"
 	"Flame Core"
@@ -38,7 +38,7 @@ outfitter "Derogam Medium"
 	"Hyperdrive"
 	"Local Map"
 
-outfitter "Derogam Large"
+outfitter "Derogam Base Large"
 	"Blaze Core"
 	"Ember Core"
 	"Flame Core"
