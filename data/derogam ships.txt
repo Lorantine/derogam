@@ -16,17 +16,17 @@ ship "Derogam Sentry"
 		"cost" 14376000
 		"shields" 21900
 		"hull" 15100
-		"required crew" 15
+		"required crew" 17
 		"bunks" 27
 		"mass" 250
 		"drag" 5.8
-		"heat dissipation" .8
+		"heat dissipation" 1
 		"fuel capacity" 600
 		"cargo space" 37
 		"outfit space" 436
 		"weapon capacity" 192
 		"engine capacity" 81
-		"heat generation" 10
+		"heat generation" 30
 		weapon
 			"blast radius" 220
 			"shield damage" 2400
@@ -70,11 +70,11 @@ ship "Derogam Assassin"
 		"cost" 21653000
 		"shields" 34100
 		"hull" 23600
-		"required crew" 34
+		"required crew" 29
 		"bunks" 55
 		"mass" 430
 		"drag" 6.4
-		"heat dissipation" .8
+		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 54
 		"outfit space" 615
@@ -86,7 +86,7 @@ ship "Derogam Assassin"
 		"shield energy" .4
 		"hull repair rate" .3
 		"hull energy" .3
-		"heat generation" 20
+		"heat generation" 45
 		weapon
 			"blast radius" 320
 			"shield damage" 3400
@@ -133,11 +133,11 @@ ship "Derogam Warrior"
 		"cost" 35825000
 		"shields" 52300
 		"hull" 36600
-		"required crew" 62
+		"required crew" 56
 		"bunks" 88
 		"mass" 790
 		"drag" 12.9
-		"heat dissipation" .9
+		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 71
 		"outfit space" 812
@@ -149,7 +149,7 @@ ship "Derogam Warrior"
 		"shield energy" .8
 		"hull repair rate" .6
 		"hull energy" .6
-		"heat generation" 48
+		"heat generation" 90
 		weapon
 			"blast radius" 380
 			"shield damage" 5000
@@ -219,7 +219,7 @@ ship "Derogam Guardian"
 		"shield energy" 2
 		"hull repair rate" 1.5
 		"hull energy" 1.5
-		"heat generation" 96
+		"heat generation" 120
 		weapon
 			"blast radius" 550
 			"shield damage" 7200
@@ -272,20 +272,20 @@ ship "Derogam Gatherer"
 	sprite "ship/derogam gatherer"
 	attributes
 		category "Light Freighter"
-		"cost" 3629000
+		"cost" 2829000
 		"shields" 9700
 		"hull" 7400
 		"required crew" 2
 		"bunks" 8
 		"mass" 210
 		"drag" 5.3
-		"heat dissipation" .9
+		"heat dissipation" 1
 		"fuel capacity" 600
-		"cargo space" 196
+		"cargo space" 176
 		"outfit space" 225
 		"weapon capacity" 62
 		"engine capacity" 52
-		"heat generation" 6
+		"heat generation" 8
 		weapon
 			"blast radius" 120
 			"shield damage" 1200
@@ -316,20 +316,20 @@ ship "Derogam Collector"
 	sprite "ship/derogam collector"
 	attributes
 		category "Heavy Freighter"
-		"cost" 7398000
+		"cost" 6498000
 		"shields" 14300
 		"hull" 11700
 		"required crew" 6
 		"bunks" 15
 		"mass" 330
 		"drag" 7.9
-		"heat dissipation" .85
+		"heat dissipation" .9
 		"fuel capacity" 700
 		"cargo space" 328
 		"outfit space" 389
 		"weapon capacity" 152
 		"engine capacity" 72
-		"heat generation" 18
+		"heat generation" 16
 		weapon
 			"blast radius" 200
 			"shield damage" 2000
@@ -367,7 +367,7 @@ ship "Derogam Hoarder"
 	sprite "ship/derogam hoarder"
 	attributes
 		category "Heavy Freighter"
-		"cost" 13347000
+		"cost" 12647000
 		"shields" 24400
 		"hull" 19300
 		"required crew" 14
@@ -380,7 +380,7 @@ ship "Derogam Hoarder"
 		"outfit space" 556
 		"weapon capacity" 246
 		"engine capacity" 90
-		"heat generation" 54
+		"heat generation" 48
 		weapon
 			"blast radius" 350
 			"shield damage" 3600
@@ -425,20 +425,20 @@ ship "Derogam Itinerant"
 	sprite "ship/derogam itinerant"
 	attributes
 		category "Transport"
-		"cost" 6826000
+		"cost" 6526000
 		"shields" 15200
 		"hull" 7300
 		"required crew" 7
 		"bunks" 49
 		"mass" 270
 		"drag" 5.9
-		"heat dissipation" .85
+		"heat dissipation" .9
 		"fuel capacity" 700
 		"cargo space" 73
 		"outfit space" 385
 		"weapon capacity" 164
 		"engine capacity" 76
-		"heat generation" 18
+		"heat generation" 16
 		weapon
 			"blast radius" 180
 			"shield damage" 1800
