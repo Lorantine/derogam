@@ -1,5 +1,6 @@
 # Important
 All outfits are placeholders until I make MY OWN.
+Trello link (my to-do list where you can stalk what I do and what I will do): https://trello.com/b/aM2pteNE/derogam
 
 # The Derogam
 This is my first actual Endless Sky project, and the goal is to add 2 new species to the game with this plugin. I'm hoping to merge this with the base game once done.
