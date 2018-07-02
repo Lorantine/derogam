@@ -282,8 +282,8 @@ ship "Derogam Gatherer"
 		"heat dissipation" 1
 		"fuel capacity" 600
 		"cargo space" 176
-		"outfit space" 225
-		"weapon capacity" 62
+		"outfit space" 231
+		"weapon capacity" 72
 		"engine capacity" 52
 		"heat generation" 8
 		weapon
@@ -292,7 +292,8 @@ ship "Derogam Gatherer"
 			"hull damage" 600
 			"hit force" 1500
 	outfits
-		"Korath Warder" 2
+		"Bombardment Turret"
+		"Korath Warder"
 
 		"Flame Core"
 		"Blaze Core"
@@ -302,9 +303,9 @@ ship "Derogam Gatherer"
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
 		"Hyperdrive"
-	engine 0 108 1.4
-	turret -31 -11 "Korath Warder"
-	turret 31 -11 "Korath Warder"
+	engine 0 96 1.6
+	turret 0 -25 "Bombardment Turret"
+	turret 0 20 "Korath Warder"
 	explode "tiny explosion" 20
 	explode "small explosion" 30
 	explode "medium explosion" 10
@@ -327,7 +328,7 @@ ship "Derogam Collector"
 		"fuel capacity" 700
 		"cargo space" 328
 		"outfit space" 389
-		"weapon capacity" 152
+		"weapon capacity" 159
 		"engine capacity" 72
 		"heat generation" 16
 		weapon
