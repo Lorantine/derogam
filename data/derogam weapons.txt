@@ -10,34 +10,10 @@
 
 # GUNS
 
-# TURRETS
 
-# Has no outfit sprite YET.
-outfit "Derogam Pestilence"
-	category "Turrets"
-	cost 1386000
-	thumbnail "outfit/unknown"
-	"mass" 53
-	"outfit space" -53
-	"weapon capacity" -53
-	"required crew" 1
-	"turret mounts" -1
-	weapon
-		sprite "projectile/pestilence"
-			"frame rate" 1
-		sound "heavy laser"
-		"hit effect" "pestilence"
-		"inaccuracy" .5
-		"turret turn" 1.05
-		"velocity" 520
-		"lifetime" 1
-		"reload" 1.84
-		"burst reload" 1.22
-		"burst count" 11
-		"firing energy" 20.9
-		"firing heat" 23.5
-		"disruption damage" .25
-		"ion damage" .26
-		"heat damage" 31
-		"slowing damage" .23
-	description `The Derogam Pestilence is designed solely as a support weapon to give enemy ships a disadvantage in combat. The beam consists of two components; one drains the target's energy, which disrupts its shields as well, while the other part uses that energy to slow down the target ship and overheat it while doing so. Its only downside is that it does no damage, but when paired with strong weapons it's a deadly combination.`
+
+# SECONDARY WEAPONS
+
+
+
+# TURRETS
