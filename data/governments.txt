@@ -22,7 +22,7 @@ government "Derogam"
 
 government "Derogam Armada"
 	swizzle 1
-	color .85 .1 .2
+	color .7 .2 .4
 	language "Derogam"
 
 	"attitude toward"
