@@ -8,6 +8,146 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+# Ship names
+
+
+
+# Fleets
+fleet "Small Derogam Civilians"
+	government "Derogam"
+	names "derogam civilian"
+	cargo 4
+	personality
+		confusion 25
+		timid
+	variant 1
+		"Derogam Gatherer"
+	variant 1
+		"Derogam Gatherer" 2
+	variant 1
+		"Derogam Collector"
+
+fleet "Medium Derogam Civilians"
+	government "Derogam"
+	names "derogam civilian"
+	cargo 4
+	personality
+		confusion 25
+		timid
+	variant 1
+		"Derogam Collector"
+		"Derogam Gatherer"
+	variant 1
+		"Derogam Collector"
+		"Derogam Gatherer" 2
+	variant 1
+		"Derogam Collector" 2
+
+fleet "Large Derogam Civilians"
+	government "Derogam"
+	names "derogam civilian"
+	cargo 4
+	personality
+		confusion 20
+		timid
+	variant 1
+		"Derogam Collector" 3
+	variant 1
+		"Derogam Hoarder"
+		"Derogam Gatherer" 2
+	variant 1
+		"Derogam Hoarder"
+	variant 1
+		"Derogam Hoarder"
+		"Derogam Collector"
+	variant 1
+		"Derogam Hoarder"
+		"Derogam Collector"
+		"Derogam Gatherer"
+	variant 1
+		"Derogam Hoarder"
+		"Derogam Collector" 2
+
+fleet "Small Derogam Armada"
+	government "Derogam Armada"
+	names "derogam military"
+	cargo 1
+	personality
+		heroic frugal unconstrained
+	variant 1
+		"Derogam Sentry"
+	variant 1
+		"Derogam Sentry" 2
+	variant 1
+		"Derogam Assassin"
+		"Derogam Sentry"
+	variant 1
+		"Derogam Assassin"
+		"Derogam Sentry" 2
+	variant 1
+		"Derogam Assassin" 2
+
+fleet "Medium Derogam Armada"
+	government "Derogam Armada"
+	names "derogam military"
+	cargo 1
+	personality
+		heroic frugal unconstrained
+	variant 1
+		"Derogam Warrior"
+	variant 1
+		"Derogam Warrior"
+		"Derogam Sentry"
+	variant 1
+		"Derogam Warrior"
+		"Derogam Sentry" 2
+	variant 1
+		"Derogam Warrior"
+		"Derogam Assassin"
+	variant 1
+		"Derogam Warrior"
+		"Derogam Assassin"
+		"Derogam Sentry"
+
+fleet "Large Derogam Armada"
+	government "Derogam Armada"
+	names "derogam military"
+	cargo 1
+	personality
+		heroic frugal unconstrained
+	variant 2
+		"Derogam Guardian"
+	variant 2
+		"Derogam Guardian"
+		"Derogam Sentry"
+	variant 2
+		"Derogam Guardian"
+		"Derogam Assassin"
+		"Derogam Sentry"
+	variant 2
+		"Derogam Guardian"
+		"Derogam Sentry" 2
+	variant 2
+		"Derogam Guardian"
+		"Derogam Assassin" 2
+	variant 2
+		"Derogam Guardian"
+		"Derogam Assassin"
+		"Derogam Sentry"
+	variant 2
+		"Derogam Guardian"
+		"Derogam Warrior"
+		"Derogam Assassin"
+	variant 1
+		"Derogam Guardian"
+		"Derogam Warrior"
+		"Derogam Assassin"
+		"Derogam Sentry"
+	variant 1
+		"Derogam Guardian"
+		"Derogam Warrior"
+		"Derogam Assassin"
+		"Derogam Sentry" 2
 
 
 
@@ -64,12 +204,10 @@ shipyard "Derogam Civilian Small"
 	"Derogam Gatherer"
 
 shipyard "Derogam Civilian Medium"
-	"Derogam Itinerant"
 	"Derogam Gatherer"
 	"Derogam Collector"
 
 shipyard "Derogam Civilian Large"
-	"Derogam Itinerant"
 	"Derogam Gatherer"
 	"Derogam Collector"
 	"Derogam Hoarder"
