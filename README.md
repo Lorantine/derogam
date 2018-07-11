@@ -1,6 +1,7 @@
 # Important
 All outfits are placeholders until I make MY OWN.
 Trello link (my to-do list where you can stalk what I do and what I will do): https://trello.com/b/aM2pteNE/derogam
+
 Google Drive link to the assets (organized my way, may be outdated at times): https://drive.google.com/drive/folders/19nfk8tw-OHGkF6VC8_z6d1NF1OJ_bYqP?usp=sharing
 
 # The Derogam
