@@ -2,39 +2,37 @@
 All outfits are placeholders until I make MY OWN.
 Trello link (my to-do list where you can stalk what I do and what I will do): https://trello.com/b/aM2pteNE/derogam
 
+Google Drive link to the assets (organized my way, may be outdated at times): https://drive.google.com/drive/folders/19nfk8tw-OHGkF6VC8_z6d1NF1OJ_bYqP?usp=sharing
+
 # The Derogam
-This is my first actual Endless Sky project, and the goal is to add 2 new species to the game with this plugin. I'm hoping to merge this with the base game once done.
+This is my first actual Endless Sky project, and the goal is to add new alien species to the game with this plugin. I'm hoping to merge this with the base game once done.
 
 
 # Who/what the Derogam are
 
 They're dragon-like aliens. They'll be very advanced, balanced around the Heliarch, Wanderers and Korath Automatons, with interesting, new, and hopefully original distinctions.
 
-For example, the first weapon I made: the Pestillence Turret, it's meant to be a green/brownish laser beam that does no damage, but it gives the ship it hits several disadvantages (ion, heat, slowing AND disruption). To keep it fun to fight them (and balanced) it'll be quite big and drain a lot of energy, meaning only big ships can really utilize one without a full loadout to just use one. Some ships even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair and battery.
+For example, a medium/long ranged gun and turret with mildly inaccurate partially piercing projectiles (Railguns), a torpedo that launches, stops, then accelerates (Accelerator Torpedo), and a big slow turning turret that does only ion, disruption and slowing damage (Pestilence). Some bigger military ships even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair and battery. Their ships also have high heat dissipation and built-in heat.
 
 # Who/what the Nekis are
 
-Similar to humanoid tigers (cat-like people). Throughout the story you'll basically learn that they're travelling searching for new systems, for who knows what reason. I won't spoil much else besides that they'll be an enemy in the story... But who knows if they may become friendly?
+Similar to humanoid tigers (cat-like people, not nekos, kys). Throughout the story you'll basically learn that they're travelling searching for new systems, for who knows what reason. I won't spoil much else besides that they'll be an enemy in the story... But who knows if they may become friendly?
 
 # "Schedule"
 
-I graduated highschool (11 July 2017), in college though but I should have enough time to work on the plugin.
+Read the "queue" list & the "working on" list: https://trello.com/b/aM2pteNE/derogam
 
-An initial map lay-out has been made (I may move, edit and add stuff after I have it), but there are no planets, names or anything yet. As for ships; this is my main focus right now, and since the larger Derogam ships have been made and there are now smaller ones to make, it'll be easier to create them (meaning there'll be several ships released in a shorter time frame).
-
-SHIPS I'M WORKING ON: After the Guardian was done, I decided to create the smaller base warships: right now the Sentry (Light Warship), after that I'll make the Rogue (Interceptor), then continue on either the civilian ships, or start on the carriers.
-
-# Planned ships: (they have placeholder outfits until I make my own)
+# Planned ships: (they have placeholder outfits until I make my own, and this is more of a "remember" page for myself as well)
 
 This does NOT mean I won't make more ships, maybe I will, it just means that this is the "core", after this I'll do other stuff first.
 
 DEROGAM MILITARY SHIPS:
 implemented:
+- 1 Light Warship (Derogam Sentry)
 - 1 Medium Warship (Derogam Assassin)
 - 2 Heavy Warships (Derogam Warrior) (Derogam Guardian)
 
 not implemented yet:
-- 1 Light Warship (Derogam Sentry)
 - 1 Interceptor (Derogam Rogue)
 - 1 "Gunship" (Medium Warship) (Derogam Renegade); More guns, no turrets, agile, fragile, and will have 1-2 Fighters(??).
 - 1 "Light Carrier" (Medium Warship) (Derogam Knight); Weak on its own.
@@ -46,7 +44,7 @@ implemented:
 - 1 Small Freighter (Derogam Gatherer)
 - 1 Medium Freighter (Derogam Collector)
 - 1 Large Freighter (Derogam Hoarder)
-- 1 Medium Transport (Derogam Itinerant)
+- 1 Medium Transport (Derogam Itinerant) (REWORK NEEDED)
 
 not implemented:
 - 1 Small Transport (Derogam Disciple)
@@ -79,7 +77,9 @@ Wrzlprnft (https://github.com/Wrzlprnft) for:
 - helping me learn some Blender features (some hotkeys etc.)
 
 Kryes-Omega (https://github.com/Kryes-Omega) for:
-- giving me feedback whenever I ask for some (helps a lot)
+- giving me feedback early on (by now I can do stuff w/o feedback)
 
+Darcy (https://github.com/Darcman99) for:
+- being the diehard fan who motivates me not to be a lazy ass
 
-EVERYONE that starred, watched, downloaded my project (doesn't matter much what ya do, I just want people to be interested & to support this mod).
+EVERYONE that starred, watched, downloaded my project (doesn't matter much what you do, I just want people to be interested & to support this mod).
