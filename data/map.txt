@@ -4611,24 +4611,24 @@ system Xirdat
 		distance 77.9143
 		period 10.8512
 	object Oneiros
-		sprite planet/gas3
+		sprite planet/ocean3
 		distance 961.474
 		period 318.715
 		object
 			sprite planet/lava0
-			distance 313
+			distance 213
 			period 14.1443
 		object
 			sprite planet/rock14
-			distance 420
+			distance 320
 			period 21.9856
 		object
 			sprite planet/dust0
-			distance 531
+			distance 431
 			period 31.2541
 		object
 			sprite planet/dust5
-			distance 723
+			distance 623
 			period 49.6561
 	object
 		sprite planet/gas12
