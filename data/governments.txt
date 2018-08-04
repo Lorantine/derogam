@@ -32,26 +32,26 @@ government "Derogam Armada"
 	"friendly hail" "derogam untranslated"
 	"hostile hail" "derogam untranslated"
 
-government "Nekis Civilian"
+government "Nekris Civilian"
 	swizzle 0
 	color .9 .4 .15
-	language "Nekis"
+	language "Nekris"
 
 	"attitude toward"
-		"Nekis Invader" 1
+		"Nekris Invader" 1
 
 	"player reputation" -1
-	"friendly hail" "nekis untranslated"
-	"hostile hail" "nekis untranslated"
+	"friendly hail" "nekris untranslated"
+	"hostile hail" "nekris untranslated"
 
-government "Nekis Invader"
+government "Nekris Invader"
 	swizzle 6
 	color .9 .4 .15
-	language "Nekis"
+	language "Nekris"
 
 	"attitude toward"
-		"Nekis Civilian" 1
+		"Nekris Civilian" 1
 
 	"player reputation" -1
-	"friendly hail" "nekis untranslated"
-	"hostile hail" "nekis untranslated"
+	"friendly hail" "nekris untranslated"
+	"hostile hail" "nekris untranslated"

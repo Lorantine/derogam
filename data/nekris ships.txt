@@ -11,8 +11,8 @@
 # Military ships
 # Base ships
 
-ship "Nekis Predator"
-	sprite "ship/nekis predator"
+ship "Nekris Predator"
+	sprite "ship/nekris predator"
 	attributes
 		category "Heavy Warship"
 		"cost" 51673000
