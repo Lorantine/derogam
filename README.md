@@ -54,7 +54,7 @@ not implemented:
 - 1 Large Hybrid (Derogam Amalgam)
 
 
-NEKIS MILITARY SHIPS (more to be added):
+NEKRIS MILITARY SHIPS (more to be added):
 implemented:
 - 1 Heavy Warship (Nekris Predator)
 
@@ -63,7 +63,7 @@ not implemented:
 - 2 Medium Warships (Nekris Striker) (Nekris Demolisher)
 - 1 Heavy Warship (Nekris Executioner)
 
-NEKIS CIVILIAN SHIPS:
+NEKRIS CIVILIAN SHIPS:
 - 1 Large Hybrid (Nekris Voyager); Lore-wise it's their biggest civilian ships for long journeys, compare in to Korath World-Ships but meant for travel (but actually balanced).
 
 # License
