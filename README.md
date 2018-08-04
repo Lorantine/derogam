@@ -14,7 +14,7 @@ They're dragon-like aliens. They'll be very advanced, balanced around the Heliar
 
 For example, a medium/long ranged gun and turret with mildly inaccurate partially piercing projectiles (Railguns), a torpedo that launches, stops, then accelerates (Accelerator Torpedo), and a big slow turning turret that does only ion, disruption and slowing damage (Pestilence). Some bigger military ships even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair and battery. Their ships also have high heat dissipation and built-in heat.
 
-# Who/what the Nekis are
+# Who/what the Nekris are
 
 Similar to humanoid tigers (cat-like people, not nekos, kys). Throughout the story you'll basically learn that they're travelling searching for new systems, for who knows what reason. I won't spoil much else besides that they'll be an enemy in the story... But who knows if they may become friendly?
 
@@ -56,15 +56,15 @@ not implemented:
 
 NEKIS MILITARY SHIPS (more to be added):
 implemented:
-- 1 Heavy Warship (Nekis Predator)
+- 1 Heavy Warship (Nekris Predator)
 
 not implemented:
-- 1 Light Warship (Nekis Pillager)
-- 2 Medium Warships (Nekis Striker) (Nekis Demolisher)
-- 1 Heavy Warship (Nekis Executioner)
+- 1 Light Warship (Nekris Pillager)
+- 2 Medium Warships (Nekris Striker) (Nekris Demolisher)
+- 1 Heavy Warship (Nekris Executioner)
 
 NEKIS CIVILIAN SHIPS:
-- 1 Large Hybrid (Nekis Voyager); Lore-wise it's their biggest civilian ships for long journeys, compare in to Korath World-Ships but meant for travel (but actually balanced).
+- 1 Large Hybrid (Nekris Voyager); Lore-wise it's their biggest civilian ships for long journeys, compare in to Korath World-Ships but meant for travel (but actually balanced).
 
 # License
 
@@ -77,9 +77,9 @@ Wrzlprnft (https://github.com/Wrzlprnft) for:
 - helping me learn some Blender features (some hotkeys etc.)
 
 Kryes-Omega (https://github.com/Kryes-Omega) for:
-- giving me feedback early on (by now I can do stuff w/o feedback)
+- giving me feedback when I started (now I can do stuff w/o feedback)
 
 Darcy (https://github.com/Darcman99) for:
-- being the diehard fan who motivates me not to be a lazy ass
+- being the diehard fan who motivates me not to be a lazy ass (without him you'd still have no map in December 2018)
 
-EVERYONE that starred, watched, downloaded my project (doesn't matter much what you do, I just want people to be interested & to support this mod).
+Everyone that starred, watched, downloaded my project (doesn't matter much what you do, I just want people to be interested & to support this mod).
