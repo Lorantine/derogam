@@ -1135,6 +1135,120 @@ system Dalente
 		distance 2453.34
 		period 1944.27
 
+system Daremto
+	pos -1394.99 -495.022
+	government "Derogam Armada"
+	habitable 806.68
+	belt 1600
+	link Robezin
+	link Delikens
+	link Vranio
+	asteroids "small rock" 23 2.1
+	asteroids "medium rock" 25 4.2
+	asteroids "large rock" 6 4.44
+	asteroids "small metal" 1 3.6
+	asteroids "medium metal" 5 3.54
+	asteroids "large metal" 1 4.02
+	minables titanium 4 6.62216
+	fleet "Small Derogam Armada" 400
+	fleet "Medium Derogam Armada" 800
+	fleet "Large Derogam Armada" 1600
+	object
+		sprite star/k0
+		distance 45.2224
+		period 17.1422
+	object
+		sprite star/m0
+		distance 68.7776
+		period 17.1422
+		offset 180
+	object
+		sprite planet/rock5
+		distance 199.138
+		period 39.5767
+	object
+		sprite planet/desert10
+		distance 445.548
+		period 132.45
+	object
+		sprite planet/lava0
+		distance 750.548
+		period 289.585
+	object
+		sprite planet/jupiter
+		distance 1446.8
+		period 775.034
+		object
+			sprite planet/ice8
+			distance 273
+			period 14.1744
+		object
+			sprite planet/dust4
+			distance 374
+			period 22.7284
+	object
+		sprite planet/gas1
+		distance 3521.05
+		period 2942.5
+		object
+			sprite planet/dust3
+			distance 218
+			period 12.8647
+		object
+			sprite planet/rock3
+			distance 311
+			period 21.9208
+
+system Delikens
+	pos -1333.99 -462.022
+	government "Derogam Armada"
+	habitable 320
+	belt 1285
+	link Robezin
+	link Vranio
+	link Daremto
+	asteroids "large rock" 1 3.718
+	asteroids "small metal" 70 2.678
+	asteroids "medium metal" 108 3.406
+	asteroids "large metal" 9 2.418
+	minables iron 20 3.61139
+	minables silver 6 3.56505
+	fleet "Small Derogam Armada" 300
+	fleet "Medium Derogam Armada" 600
+	fleet "Large Derogam Armada" 1200
+	object
+		sprite star/m0
+		period 10
+	object
+		sprite planet/rock15
+		distance 129.24
+		period 32.8534
+	object
+		sprite planet/cloud6
+		distance 413.4
+		period 187.949
+	object
+		sprite planet/rock5
+		distance 609.89
+		period 336.792
+	object Derogate
+		sprite planet/derogamgate
+		distance 1074.14
+		period 787.184
+	object
+		sprite planet/gas11
+		distance 2137.37
+		period 2209.56
+		offset 173.354
+		object
+			sprite planet/dust3
+			distance 255
+			period 13.4304
+		object
+			sprite planet/callisto
+			distance 401
+			period 26.4847
+
 system Donista
 	pos -955.16 -97.48
 	government Derogam
@@ -3485,6 +3599,53 @@ system Rintha
 		distance 2753.9
 		period 957.488
 
+system Robezin
+	pos -1409.99 -451.022
+	government "Derogam Armada"
+	habitable 486.68
+	belt 1058
+	link Delikens
+	link Daremto
+	asteroids "small rock" 1 9.5316
+	asteroids "large rock" 4 9.7344
+	asteroids "medium metal" 4 9.3288
+	asteroids "large metal" 4 7.2332
+	minables lead 1 13.0072
+	fleet "Small Derogam Armada" 400
+	fleet "Medium Derogam Armada" 800
+	fleet "Large Derogam Armada" 1600
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/callisto
+		distance 206.49
+		period 53.8006
+	object
+		sprite planet/rock4
+		distance 436.18
+		period 165.172
+	object
+		sprite planet/cloud4
+		distance 1029.43
+		period 598.871
+		object
+			sprite planet/dust7
+			distance 141
+			period 15.7478
+	object
+		sprite planet/rock6
+		distance 1434.44
+		period 985.058
+	object
+		sprite planet/gas15
+		distance 2535.69
+		period 2315.17
+		object
+			sprite planet/ice0
+			distance 183
+			period 13.0309
+
 system Ruovedrag
 	pos -1430.52 -338.762
 	government Derogam
@@ -4104,9 +4265,9 @@ system Terowed
 		sprite planet/rock13
 		distance 422.34
 		period 157.373
-	object
-		sprite planet/forest2
-		distance 706.23
+	object Derogate
+		sprite planet/derogamgate
+		distance 806.23
 		period 340.297
 	object
 		sprite planet/gas15
@@ -4519,6 +4680,61 @@ system Vocanis
 		distance 2486.09
 		period 758.79
 
+system Vranio
+	pos -1345.99 -524.022
+	government "Derogam Armada"
+	habitable 1080
+	belt 1035
+	link Delikens
+	link Daremto
+	asteroids "small rock" 2 1.782
+	asteroids "medium rock" 1 2.97
+	asteroids "large rock" 3 1.815
+	asteroids "small metal" 11 4.29
+	asteroids "medium metal" 35 3.993
+	asteroids "large metal" 14 3.729
+	minables iron 9 5.19002
+	minables lead 2 5.26993
+	minables silver 8 6.18693
+	fleet "Small Derogam Armada" 600
+	fleet "Medium Derogam Armada" 1200
+	fleet "Large Derogam Armada" 2400
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/mercury
+		distance 158
+		period 24.1732
+	object
+		sprite planet/gas8
+		distance 912.21
+		period 335.344
+		object
+			sprite planet/ice8
+			distance 198
+			period 14.8311
+		object
+			sprite planet/dust0
+			distance 291
+			period 26.4251
+		object
+			sprite planet/oberon
+			distance 367
+			period 37.4262
+		object
+			sprite planet/dust3
+			distance 491
+			period 57.9161
+	object
+		sprite planet/gas2
+		distance 1804.46
+		period 932.973
+		object
+			sprite planet/dust5
+			distance 195
+			period 16.4993
+
 system Wekenti
 	pos -1031.08 -29.171
 	government Derogam
@@ -4729,6 +4945,10 @@ planet Delaicy
 	shipyard "Derogam Civilian Large"
 	outfitter "Derogam Base Large"
 	security 0.75
+
+planet Derogate
+	description ""
+	spaceport ""
 
 planet Entansion
 	landscape land/myrabella0
