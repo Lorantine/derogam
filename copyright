@@ -11,6 +11,12 @@ Files: images/*
 Copyright: Dennis van Anrooij <kiledenneus@gmail.com>
 License: CC-BY-SA-4.0
 
+Files:
+ images/planet/derogamgate
+Copyright: Darcy Manoel <Darcman00@gmail.com> <https://github.com/Darcman99> and Dennis van Anrooij <kiledenneus@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Base concept by Darcy, edited and finalized by Dennis.
+
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
