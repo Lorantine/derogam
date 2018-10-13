@@ -156,7 +156,7 @@ outfit "Cooling Coil Size 1"
 	plural "Cooling Coils Size 1"
 	category "Systems"
 	cost 168000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/cooling coil size 1"
 	"mass" 6
 	"outfit space" -6
 	"cooling" 3.2
@@ -168,7 +168,7 @@ outfit "Cooling Coil Size 2"
 	plural "Cooling Coils Size 2"
 	category "Systems"
 	cost 451000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/cooling coil size 2"
 	"mass" 14
 	"outfit space" -14
 	"cooling" 8.9
@@ -180,7 +180,7 @@ outfit "Cooling Coil Size 3"
 	plural "Cooling Coils Size 3"
 	category "Systems"
 	cost 1122000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/cooling coil size 3"
 	"mass" 31
 	"outfit space" -31
 	"cooling" 23.6
