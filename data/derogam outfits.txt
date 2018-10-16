@@ -162,7 +162,7 @@ outfit "Cooling Coil Size 1"
 	"cooling" 3.2
 	"active cooling" 12.4
 	"cooling energy" .95
-	description `TBD`
+	description `The concept of the newest line of Derogam cooling is a combination of powerful bulk cooling and the new "smart cooling" system. It uses energy to distribute the heat to all surfaces to raise efficiency drastically when ships get close to overheating.`
 
 outfit "Cooling Coil Size 2"
 	plural "Cooling Coils Size 2"
@@ -174,7 +174,7 @@ outfit "Cooling Coil Size 2"
 	"cooling" 8.9
 	"active cooling" 30.4
 	"cooling energy" 2.2
-	description `TBD`
+	description `When the new smart cooling system proved to be quite effective, the new models quickly became an integral part of Derogam spaceflight. It features a similar orb as the generators, working in reverse to absorb heat using power, instead of generating power and producing heat.`
 
 outfit "Cooling Coil Size 3"
 	plural "Cooling Coils Size 3"
@@ -186,7 +186,7 @@ outfit "Cooling Coil Size 3"
 	"cooling" 23.6
 	"active cooling" 69.5
 	"cooling energy" 4.75
-	description `TBD`
+	description `While the largest ships may not have enough cooling with just one of these, it ensures all but the largest ships can function without any risk of overheating. The design itself became very tall to maximize surface area, so creating a larger more efficient version seems highly unlikely.`
 
 
 
