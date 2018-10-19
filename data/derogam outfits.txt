@@ -43,7 +43,7 @@ outfit "Flame Core"
 	"outfit space" -57
 	"energy generation" 10.5
 	"heat generation" 26.7
-	"energy capacity" 2150
+	"energy capacity" 2100
 	"shield generation" .24
 	"shield energy" .24
 	description `Throughout the centuries, the Derogam generators changed drastically, but every new generation has always been based on modifications on this very generator. This means that some traces of older generations could still be found in its inner design, however small.`
