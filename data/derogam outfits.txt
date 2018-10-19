@@ -56,7 +56,7 @@ outfit "Inferno Core"
 	"outfit space" -90
 	"energy generation" 17.45
 	"heat generation" 43.15
-	"energy capacity" 3200
+	"energy capacity" 3300
 	"shield generation" .38
 	"shield energy" .38
 	description `This generator is a staple for both smaller ships that barely manage to fit it in, and larger ships that pair it with other generators. Even though larger ships are usually better off with a bigger generator, merchant captains often prefer a cheaper version, due to the limited amount of combat they may face.`
