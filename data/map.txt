@@ -1550,15 +1550,15 @@ system Ergulia
 	asteroids "medium metal" 47 4.6592
 	asteroids "large metal" 36 5.7792
 	minables titanium 7 7.22935
-	object
-		sprite star/k0
-		distance 36.29
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
 	fleet "Small Derogam Armada" 1000
 	fleet "Medium Derogam Armada" 2000
 	fleet "Large Derogam Armada" 4000
+	object
+		sprite star/k0
+		distance 36.29
 		period 17.6698
 	object
 		sprite star/m4
