@@ -363,7 +363,7 @@ system Algiad
 	object
 		sprite star/g5
 		period 10
-	object
+	object Stegon
 		sprite planet/desert1
 		distance 315
 		period 89.4511
@@ -2163,14 +2163,16 @@ system Intariag
 	object
 		sprite star/k0
 		period 10
-	object
+	object Gondaw
 		sprite planet/rock4
-		distance 178.25
-		period 43.1502
+		distance 309.931
+		period 98.932
+		offset 317.275
 	object
 		sprite planet/gas3
-		distance 767.89
-		period 385.822
+		distance 899.571
+		period 489.206
+		offset 0.890466
 		object
 			sprite planet/dust3
 			distance 267
@@ -2181,8 +2183,9 @@ system Intariag
 			period 19.0704
 	object
 		sprite planet/gas9
-		distance 2015.3
-		period 1640.39
+		distance 2146.98
+		period 1803.77
+		offset 36.3816
 		object
 			sprite planet/ice0
 			distance 244
@@ -4918,7 +4921,7 @@ planet Anryc
 	shipyard "Derogam Civilian Large"
 	shipyard "Derogam Military Large"
 	outfitter "Derogam Base Large"
-	security 0.98
+	security 0.95
 
 planet Bufuladia
 	landscape land/snow1
@@ -4926,14 +4929,14 @@ planet Bufuladia
 	spaceport Spaceport
 	shipyard "Derogam Military Large"
 	outfitter "Derogam Base Medium"
-	security 0.9
+	security 0.7
 
 planet Cabaty
 	landscape land/mountain19-harro
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Large"
-	security 0.85
+	security 0.7
 
 planet Delaicy
 	landscape land/fog1
@@ -4941,7 +4944,7 @@ planet Delaicy
 	spaceport Spaceport
 	shipyard "Derogam Civilian Large"
 	outfitter "Derogam Base Large"
-	security 0.75
+	security 0.7
 
 planet Derogate
 	description ` `
@@ -4954,27 +4957,33 @@ planet Entansion
 	outfitter "Derogam Base Large"
 	security 0.75
 
+planet Gondaw
+	landscape land/sky3
+	description TBD
+	spaceport Spaceport
+	security 0.6
+
 planet Jefuryn
 	landscape land/fields6
 	description TBD
 	spaceport Spaceport
 	shipyard "Derogam Military Large"
 	outfitter "Derogam Base Large"
-	security 0.98
+	security 0.9
 
 planet Kibeam
 	landscape land/sky7
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Large"
-	security 0.6
+	security 0.5
 
 planet Lithorjus
 	landscape land/canyon5
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Small"
-	security 0.2
+	security 0.3
 
 planet Mavin
 	landscape land/badlands6
@@ -4982,7 +4991,7 @@ planet Mavin
 	spaceport Spaceport
 	shipyard "Derogam Military Small"
 	outfitter "Derogam Base Large"
-	security 0.9
+	security 0.8
 
 planet Moonko
 	landscape land/fields1
@@ -4990,7 +4999,7 @@ planet Moonko
 	spaceport Spaceport
 	shipyard "Derogam Military Large"
 	outfitter "Derogam Base Large"
-	security 0.9
+	security 0.6
 
 planet Neriva
 	landscape land/valley3
@@ -5006,17 +5015,16 @@ planet Oneiros
 	shipyard "Derogam Civilian Medium"
 	shipyard "Derogam Military Small"
 	outfitter "Derogam Base Medium"
-	security 0.8
+	security 0.6
 
 planet Rommilous
 	landscape land/sky9
 	description TBD
-	description `	Notes: Make this a newly terraformed planet as a reference to Kiko & Moonbeam's newborn child. <3`
 	spaceport Spaceport
 	shipyard "Derogam Civilian Medium"
 	shipyard "Derogam Military Small"
 	outfitter "Derogam Base Medium"
-	security 0.8
+	security 0.6
 
 planet Spinorus
 	landscape land/mountain15-sfiera
@@ -5025,16 +5033,21 @@ planet Spinorus
 	outfitter "Derogam Base Small"
 	security 0.4
 
+planet Stegon
+	landscape land/canyon0
+	description TBD
+	spaceport Spaceport
+	security 0.6
+
 planet Walidley
 	landscape land/sky3
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Large"
-	security 0.5
+	security 0.4
 
 planet Watagon
 	landscape land/hills0
 	description TBD
 	spaceport Spaceport
-	security 0.8
-
+	security 0.7
