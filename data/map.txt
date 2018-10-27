@@ -212,7 +212,7 @@ system Ailpak
 		sprite planet/rock11
 		distance 223.286
 		period 45.5553
-	object
+	object Watagon
 		sprite planet/dust2
 		distance 483.326
 		period 145.08
@@ -4924,7 +4924,6 @@ planet Bufuladia
 	landscape land/snow1
 	description TBD
 	spaceport Spaceport
-	spaceport `	(ly Zaakeil bby <3)`
 	shipyard "Derogam Military Large"
 	outfitter "Derogam Base Medium"
 	security 0.9
@@ -4939,9 +4938,7 @@ planet Cabaty
 planet Delaicy
 	landscape land/fog1
 	description TBD
-	description `	FINALLY, RIGHT BBY?! <3`
 	spaceport Spaceport
-	spaceport `	(ly Darcy bby <3)`
 	shipyard "Derogam Civilian Large"
 	outfitter "Derogam Base Large"
 	security 0.75
@@ -5006,7 +5003,6 @@ planet Oneiros
 	landscape land/mountain23-spfld
 	description TBD
 	spaceport Spaceport
-	spaceport `	(ly Taddy bby <3)`
 	shipyard "Derogam Civilian Medium"
 	shipyard "Derogam Military Small"
 	outfitter "Derogam Base Medium"
@@ -5035,4 +5031,10 @@ planet Walidley
 	spaceport Spaceport
 	outfitter "Derogam Base Large"
 	security 0.5
+
+planet Watagon
+	landscape land/hills0
+	description TBD
+	spaceport Spaceport
+	security 0.8
 
