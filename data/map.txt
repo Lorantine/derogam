@@ -1058,7 +1058,6 @@ system Cyrad
 		sprite planet/cloud6
 		distance 435.1
 		period 141.395
-		offset 18.6601
 		object
 			sprite planet/dust5
 			distance 187
@@ -1067,17 +1066,14 @@ system Cyrad
 		sprite planet/rock19
 		distance 965.34
 		period 467.274
-		offset 2.59926
 	object
 		sprite planet/desert6
 		distance 1195.38
 		period 643.887
-		offset 1.5219
 	object
 		sprite planet/gas5
 		distance 2026.63
 		period 1421.39
-		offset 0.406645
 		object
 			sprite planet/dust0
 			distance 239
@@ -1239,7 +1235,6 @@ system Delikens
 		sprite planet/gas11
 		distance 2137.37
 		period 2209.56
-		offset 173.354
 		object
 			sprite planet/dust3
 			distance 255
@@ -1845,12 +1840,10 @@ system Ganoling
 		sprite planet/ice6
 		distance 444.495
 		period 149.941
-		offset 65.1627
 	object
 		sprite planet/gas15
 		distance 1138.58
 		period 614.703
-		offset 300.672
 		object
 			sprite planet/rock0
 			distance 190
@@ -1863,17 +1856,14 @@ system Ganoling
 		sprite planet/ice0
 		distance 1575.02
 		period 1000.11
-		offset 281.546
 	object
 		sprite planet/desert3
 		distance 1934.71
 		period 1361.58
-		offset 165.067
 	object
 		sprite planet/gas7
 		distance 2945.32
 		period 2557.52
-		offset 56.0743
 		object
 			sprite planet/rhea
 			distance 255
@@ -2167,12 +2157,10 @@ system Intariag
 		sprite planet/rock4
 		distance 309.931
 		period 98.932
-		offset 317.275
 	object
 		sprite planet/gas3
 		distance 899.571
 		period 489.206
-		offset 0.890466
 		object
 			sprite planet/dust3
 			distance 267
@@ -2185,7 +2173,6 @@ system Intariag
 		sprite planet/gas9
 		distance 2146.98
 		period 1803.77
-		offset 36.3816
 		object
 			sprite planet/ice0
 			distance 244
@@ -2624,22 +2611,18 @@ system Liekaaz
 		sprite planet/earth
 		distance 540.899
 		period 177.167
-		offset 178.012
 	object
 		sprite planet/ocean3
 		distance 823.509
 		period 332.822
-		offset 64.3258
 	object
 		sprite planet/dust6
 		distance 1162.8
 		period 558.427
-		offset 175.56
 	object
 		sprite planet/gas13
 		distance 1958.44
 		period 1220.6
-		offset 46.7729
 		object
 			sprite planet/ice8
 			distance 283
@@ -2731,12 +2714,10 @@ system Maebnoom
 		sprite planet/cloud1
 		distance 794.967
 		period 272.817
-		offset 190.895
 	object
 		sprite planet/gas13
 		distance 1880.86
 		period 992.85
-		offset 89.5225
 		object
 			sprite planet/rock0
 			distance 293
@@ -3116,22 +3097,18 @@ system Necokik
 		sprite planet/ice3
 		distance 296
 		period 81.4812
-		offset 51.7884
 		object
 			sprite planet/dust1
 			distance 142
 			period 16.1817
-			offset 280.853
 	object Moonko
 		sprite planet/lava0
 		distance 578
 		period 222.337
-		offset 216.958
 	object
 		sprite planet/gas15
 		distance 1198.29
 		period 663.686
-		offset 271.409
 		object
 			sprite planet/ice8
 			distance 206
@@ -3148,7 +3125,6 @@ system Necokik
 		sprite planet/gas16
 		distance 2019.53
 		period 1452.1
-		offset 335.105
 
 system Niudal
 	pos -1059 -276
@@ -3539,7 +3515,6 @@ system Rinalyot
 		sprite planet/gas9
 		distance 1733.97
 		period 989.56
-		offset 61.8457
 		object
 			sprite planet/rock0
 			distance 225
@@ -3810,7 +3785,6 @@ system Seborem
 		sprite planet/cloud3
 		distance 573.953
 		period 198.739
-		offset 285.713
 		object Mavin
 			sprite planet/desert4
 			distance 186
@@ -3819,12 +3793,10 @@ system Seborem
 		sprite planet/rock13
 		distance 934.763
 		period 413.067
-		offset 136.373
 	object
 		sprite planet/neptune
 		distance 1428.45
 		period 780.31
-		offset 237.478
 		object
 			sprite planet/luna
 			distance 203
@@ -3833,7 +3805,6 @@ system Seborem
 		sprite planet/gas16
 		distance 2253.45
 		period 1546.11
-		offset 296.739
 
 system Seriub
 	pos -1566.52 -115.125
@@ -4288,7 +4259,6 @@ system Terowed
 		sprite planet/miranda
 		distance 2563.92
 		period 2353.94
-		offset 233.51
 
 system Tilan
 	pos -1090.79 46.937
@@ -4335,17 +4305,14 @@ system Tilan
 		sprite planet/gas15
 		distance 923.097
 		period 283.427
-		offset 34.6257
 	object
 		sprite planet/ocean3
 		distance 1730.99
 		period 727.798
-		offset 7.18794
 	object
 		sprite planet/gas0
 		distance 2313.99
 		period 1124.89
-		offset 3.47398
 		object
 			sprite planet/dust1
 			distance 258
