@@ -176,49 +176,6 @@ system Aderin
 		distance 1878.62
 		period 1578.17
 
-system Agorkron
-	pos -1524.99 -632.022
-	government Uninhabited
-	habitable 1080
-	belt 1455
-	link Satenat
-	link Udelrep
-	link Sawr
-	asteroids "small rock" 14 5.838
-	asteroids "medium rock" 21 2.478
-	asteroids "large rock" 3 3.78
-	asteroids "medium metal" 38 3.948
-	asteroids "large metal" 5 2.478
-	minables lead 8 4.10032
-	minables titanium 10 5.37977
-	object
-		sprite star/giant
-		period 10
-	object
-		sprite planet/ice1
-		distance 303.49
-		period 52.0588
-	object
-		sprite planet/lava5
-		distance 584.5
-		period 167.604
-	object
-		sprite planet/gas5
-		distance 1146.74
-		period 472.656
-		object
-			sprite planet/rock0
-			distance 266
-			period 14.4268
-		object
-			sprite planet/lava0
-			distance 362
-			period 22.9039
-	object
-		sprite planet/oberon
-		distance 2096.99
-		period 1168.81
-
 system Ailpak
 	pos -1151.52 -286.125
 	government Derogam
@@ -434,54 +391,6 @@ system Algiad
 			sprite planet/dust1
 			distance 354
 			period 21.9676
-
-system Animiza
-	pos -1326.99 -632.022
-	government Uninhabited
-	habitable 625
-	belt 1552
-	link Ocarchis
-	link Satenat
-	link Isorsi
-	asteroids "small rock" 64 6.5637
-	asteroids "medium rock" 59 3.0294
-	asteroids "large rock" 6 5.4162
-	asteroids "small metal" 19 5.049
-	asteroids "medium metal" 86 2.3868
-	asteroids "large metal" 52 6.6096
-	minables aluminum 11 8.67015
-	minables lead 4 7.80894
-	object
-		sprite star/k5-old
-		period 10
-	object
-		sprite planet/desert1
-		distance 171.25
-		period 35.8563
-	object
-		sprite planet/water0
-		distance 539.66
-		period 200.586
-	object
-		sprite planet/rock2
-		distance 877.5
-		period 415.902
-	object
-		sprite planet/gas4
-		distance 1445.94
-		period 879.722
-		object
-			sprite planet/io
-			distance 243
-			period 13.36
-		object
-			sprite planet/dust7
-			distance 384
-			period 26.5396
-	object
-		sprite planet/neptune
-		distance 2172.58
-		period 1620.26
 
 system Antronat
 	pos -1011.16 -79.48
@@ -1054,54 +963,6 @@ system Casteladi
 			distance 400
 			period 42.1102
 
-system Celitspen
-	pos -1143.45 -613.866
-	government Uninhabited
-	habitable 100
-	belt 1224
-	link Tanosha
-	asteroids "small rock" 2 3.542
-	asteroids "medium rock" 1 4.669
-	asteroids "large rock" 1 2.8014
-	asteroids "small metal" 7 1.8032
-	asteroids "large metal" 3 3.2522
-	minables lead 2 4.34759
-	object
-		sprite star/nova
-		period 1000
-	object
-		sprite planet/cloud3
-		distance 792.04
-		period 96.7296
-		object
-			sprite planet/ice7
-			distance 199.369
-			period 30.9542
-	object
-		sprite planet/forest2
-		distance 1273.38
-		period 1817.59
-	object
-		sprite planet/dust4
-		distance 1576.43
-		period 2503.65
-	object
-		sprite planet/gas7
-		distance 2110.38
-		period 3877.95
-	object
-		sprite planet/gas1
-		distance 3565.87
-		period 8517.44
-		object
-			sprite planet/rock14
-			distance 424.428
-			period 34.9479
-		object
-			sprite planet/europa
-			distance 722.359
-			period 77.597
-
 system Cerdin
 	pos -1504.52 -322.125
 	government Derogam
@@ -1646,7 +1507,6 @@ system Ecrusber
 	habitable 1715
 	belt 1996
 	link Espordan
-	link Tanosha
 	asteroids "large metal" 1 3.861
 	fleet "Small Derogam Armada" 15000
 	fleet "Medium Derogam Armada" 30000
@@ -1735,59 +1595,6 @@ system Efnir
 			sprite planet/luna
 			distance 347
 			period 25.8351
-
-system Enifama
-	pos -1185.45 -719.866
-	government Uninhabited
-	habitable 100
-	belt 1003
-	link Isorsi
-	asteroids "small rock" 6 3.1188
-	asteroids "medium rock" 37 2.9256
-	asteroids "large rock" 17 2.2908
-	asteroids "small metal" 5 3.1464
-	asteroids "medium metal" 65 3.2016
-	asteroids "large metal" 3 1.9872
-	minables iron 26 4.84957
-	object
-		sprite star/nova
-		period 1000
-	object
-		sprite planet/rock18
-		distance 320.868
-		period 229.906
-	object
-		sprite planet/desert9
-		distance 678.278
-		period 706.597
-	object
-		sprite planet/rock4
-		distance 892.118
-		period 1065.84
-	object
-		sprite planet/ocean8
-		distance 1389.33
-		period 2071.42
-	object
-		sprite planet/gas7
-		distance 2557.62
-		period 5173.85
-		object
-			sprite planet/ice7
-			distance 269
-			period 15.6949
-		object
-			sprite planet/tethys
-			distance 400
-			period 28.4591
-		object
-			sprite planet/dust3
-			distance 529
-			period 43.2827
-		object
-			sprite planet/lava0
-			distance 662
-			period 60.5923
 
 system Epaphis
 	pos -1037.04 -200.443
@@ -2016,48 +1823,6 @@ system Espordan
 			sprite planet/rock14
 			distance 267
 			period 14.3895
-
-system Exemsis
-	pos -1541.99 -850.022
-	government Uninhabited
-	habitable 625
-	belt 1263
-	asteroids "small metal" 6 9.135
-	asteroids "medium metal" 5 4.698
-	asteroids "large metal" 7 6.003
-	minables lead 2 12.988
-	minables titanium 2 9.95322
-	object
-		sprite star/a0
-		period 10
-	object
-		sprite planet/cloud3
-		distance 207.36
-		period 31.5836
-	object
-		sprite planet/rock11
-		distance 494.314
-		period 154.937
-	object
-		sprite planet/gas2
-		distance 991.874
-		period 499.81
-		object
-			sprite planet/rock0
-			distance 216
-			period 19.2351
-	object
-		sprite planet/desert10
-		distance 1571.12
-		period 996.404
-		object
-			sprite planet/ice7
-			distance 173
-			period 23.2957
-	object
-		sprite planet/gas10
-		distance 3131.12
-		period 2803.31
 
 system Feriosan
 	pos -1176.01 -60.219
@@ -2617,73 +2382,6 @@ system Intistal
 		sprite planet/dust4
 		distance 2088.2
 		period 1384.56
-
-system Isorsi
-	pos -1270.45 -694.866
-	government Uninhabited
-	habitable 135
-	belt 1493
-	link Enifama
-	link Animiza
-	asteroids "medium rock" 7 3.84
-	asteroids "large rock" 1 5.24
-	asteroids "small metal" 18 4.84
-	asteroids "medium metal" 6 5.52
-	asteroids "large metal" 2 3.72
-	minables copper 4 5.7246
-	minables lead 4 8.7655
-	minables titanium 3 8.6151
-	object
-		sprite star/k0-old
-		period 10
-	object
-		sprite planet/gas16
-		distance 446.84
-		period 325.178
-		object
-			sprite planet/dust4
-			distance 228
-			period 18.1217
-		object
-			sprite planet/europa
-			distance 346
-			period 33.8775
-	object
-		sprite planet/dust1
-		distance 940.84
-		period 993.497
-	object
-		sprite planet/dust6
-		distance 1129.53
-		period 1306.89
-	object
-		sprite planet/neptune
-		distance 1638.97
-		period 2284.28
-		object
-			sprite planet/oberon
-			distance 184
-			period 12.4354
-	object
-		sprite planet/gas9
-		distance 2715.26
-		period 4870.91
-		object
-			sprite planet/io
-			distance 243
-			period 14.2036
-		object
-			sprite planet/rock14
-			distance 340
-			period 23.5076
-		object
-			sprite planet/lava0
-			distance 458
-			period 36.7527
-		object
-			sprite planet/desert4
-			distance 620
-			period 57.8866
 
 system Ixstant
 	pos -1052.08 -123.171
@@ -3499,65 +3197,6 @@ system Necokik
 		distance 2019.53
 		period 1452.1
 
-system Niseges
-	pos -1650.99 -606.022
-	government Uninhabited
-	habitable 486.68
-	belt 1983
-	link Udelrep
-	asteroids "small rock" 22 2.067
-	asteroids "medium rock" 24 3.315
-	asteroids "large rock" 5 4.017
-	asteroids "small metal" 24 4.29
-	asteroids "medium metal" 164 4.641
-	asteroids "large metal" 28 3.627
-	minables lead 3 6.25686
-	minables tungsten 1 4.55536
-	minables uranium 49 5.11698
-	object
-		sprite star/k0-old
-		period 10
-	object
-		sprite planet/mercury
-		distance 190
-		period 47.4863
-	object
-		sprite planet/gas17
-		distance 572.29
-		period 248.235
-		object
-			sprite planet/rock0
-			distance 235
-			period 15.3913
-	object
-		sprite planet/mars
-		distance 1189.9
-		period 744.224
-		object
-			sprite planet/rock17
-			distance 126
-			period 18.9022
-	object
-		sprite planet/gas15
-		distance 3071.31
-		period 3086.2
-		object
-			sprite planet/io
-			distance 216
-			period 16.7101
-		object
-			sprite planet/miranda
-			distance 350
-			period 34.4667
-		object
-			sprite planet/dust0
-			distance 428
-			period 46.6083
-		object
-			sprite planet/ice8
-			distance 610
-			period 79.3034
-
 system Niudal
 	pos -1059 -276
 	government Derogam
@@ -3614,46 +3253,6 @@ system Niudal
 			sprite planet/dust5
 			distance 272
 			period 15.8216
-
-system Ocarchis
-	pos -1244.99 -593.022
-	government Uninhabited
-	habitable 486.68
-	belt 1125
-	link Tanosha
-	link Animiza
-	asteroids "small rock" 22 1.2144
-	asteroids "medium rock" 20 1.9184
-	asteroids "large rock" 36 0.968
-	asteroids "large metal" 14 1.4608
-	minables aluminum 1 2.48619
-	object
-		sprite star/g5-old
-		period 10
-	object
-		sprite planet/venus
-		distance 153.81
-		period 34.5872
-	object
-		sprite planet/gas13
-		distance 724.9
-		period 353.879
-		object
-			sprite planet/luna
-			distance 270
-			period 12.5244
-		object
-			sprite planet/callisto
-			distance 394
-			period 22.0777
-	object
-		sprite planet/gas0
-		distance 1681.51
-		period 1250.22
-		object
-			sprite planet/rock3
-			distance 287
-			period 14.2488
 
 system Omods
 	pos -1455.52 -114.125
@@ -4087,56 +3686,6 @@ system Ruovedrag
 			distance 497
 			period 36.5437
 
-system Satenat
-	pos -1429.99 -654.022
-	government Uninhabited
-	habitable 1715
-	belt 1651
-	link Animiza
-	link Agorkron
-	asteroids "small rock" 1 3.395
-	asteroids "large rock" 1 1.96
-	asteroids "small metal" 1 4.48
-	asteroids "medium metal" 25 4.725
-	asteroids "large metal" 3 4.655
-	minables aluminum 8 9.05115
-	minables copper 2 5.7823
-	object
-		sprite star/f5-old
-		period 10
-	object
-		sprite planet/rock6
-		distance 298.81
-		period 49.8908
-		object
-			sprite planet/dust7
-			distance 160
-			period 25.4415
-	object
-		sprite planet/cloud1
-		distance 845.9
-		period 237.633
-		object
-			sprite planet/rock0
-			distance 169
-			period 17.9384
-	object
-		sprite planet/gas12
-		distance 1574.11
-		period 603.227
-	object
-		sprite planet/gas11
-		distance 3246.72
-		period 1786.88
-		object
-			sprite planet/dust0
-			distance 268
-			period 14.4704
-		object
-			sprite planet/dust4
-			distance 350
-			period 21.5963
-
 system Savr
 	pos -1476.52 10.875
 	government Derogam
@@ -4205,49 +3754,6 @@ system Savr
 			sprite planet/lava0
 			distance 562
 			period 44.3049
-
-system Sawr
-	pos -1512.45 -556.866
-	government Uninhabited
-	habitable 100
-	belt 1816
-	link Agorkron
-	asteroids "large metal" 1 4.4712
-	object
-		sprite star/nova
-		period 1000
-	object
-		sprite planet/gas8
-		distance 890.018
-		period 1062.08
-		object
-			sprite planet/dust1
-			distance 205
-			period 15.6246
-		object
-			sprite planet/dust5
-			distance 304
-			period 28.2155
-		object
-			sprite planet/callisto
-			distance 474
-			period 54.9344
-		object
-			sprite planet/ice8
-			distance 601
-			period 78.4312
-	object
-		sprite planet/gas4
-		distance 1795.88
-		period 3044.21
-	object
-		sprite planet/gas3
-		distance 2337.29
-		period 4519.89
-		object
-			sprite planet/io
-			distance 272
-			period 11.4582
 
 system Seborem
 	pos -1153.52 -212.125
@@ -4646,53 +4152,6 @@ system Tannyr
 			distance 292
 			period 30.2335
 
-system Tanosha
-	pos -1174.99 -523.022
-	government Uninhabited
-	habitable 8640
-	belt 1673
-	link Ecrusber
-	link Ocarchis
-	link Celitspen
-	asteroids "medium rock" 1 5.712
-	asteroids "large rock" 2 3.444
-	asteroids "small metal" 1 5.166
-	asteroids "medium metal" 6 3.276
-	asteroids "large metal" 1 6.09
-	minables copper 1 4.14946
-	minables titanium 1 6.77205
-	object
-		sprite star/g0-old
-		period 10
-	object
-		sprite planet/rock5
-		distance 175.76
-		period 10.0273
-	object
-		sprite planet/rock15
-		distance 362.01
-		period 29.6404
-	object
-		sprite planet/desert1
-		distance 604.97
-		period 64.033
-	object
-		sprite planet/rock19
-		distance 828.26
-		period 102.578
-	object
-		sprite planet/jupiter
-		distance 1964.82
-		period 374.789
-		object
-			sprite planet/ice8
-			distance 274
-			period 14.2524
-		object
-			sprite planet/rhea
-			distance 424
-			period 27.4353
-
 system Teronea
 	pos -957.23 280.937
 	government Derogam
@@ -4800,47 +4259,6 @@ system Terowed
 		sprite planet/miranda
 		distance 2563.92
 		period 2353.94
-
-system Theda
-	pos -1620.45 -797.866
-	government Uninhabited
-	habitable 100
-	belt 1430
-	link Udelrep
-	asteroids "small rock" 1 1.995
-	asteroids "medium rock" 15 4.047
-	asteroids "large rock" 1 2.3655
-	asteroids "small metal" 28 3.534
-	asteroids "medium metal" 22 1.6815
-	asteroids "large metal" 6 2.223
-	minables lead 2 5.1473
-	object
-		sprite star/nova
-		period 1000
-	object
-		sprite planet/cloud2
-		distance 520.328
-		period 474.761
-		object
-			sprite planet/rock7
-			distance 144
-			period 13.9
-	object
-		sprite planet/cloud4
-		distance 949.385
-		period 1170.1
-	object
-		sprite planet/gas14
-		distance 1747.35
-		period 2921.65
-		object
-			sprite planet/ice7
-			distance 264
-			period 17.4689
-	object
-		sprite planet/gas8
-		distance 2469.36
-		period 4908.35
 
 system Tilan
 	pos -1090.79 46.937
@@ -4960,64 +4378,6 @@ system Trinue
 			sprite planet/callisto
 			distance 460
 			period 28.913
-
-system Udelrep
-	pos -1592.99 -696.022
-	government Uninhabited
-	habitable 8640
-	belt 1315
-	link Agorkron
-	link Niseges
-	link Theda
-	asteroids "small rock" 4 3.564
-	asteroids "medium rock" 22 6.6528
-	asteroids "large rock" 13 6.4152
-	asteroids "medium metal" 5 4.752
-	asteroids "large metal" 2 3.8016
-	minables titanium 1 7.65672
-	object
-		sprite star/g0-old
-		period 10
-	object
-		sprite planet/desert5
-		distance 201
-		period 12.263
-	object
-		sprite planet/gas2
-		distance 1000.84
-		period 136.254
-		object
-			sprite planet/rock0
-			distance 209
-			period 18.3077
-		object
-			sprite planet/miranda
-			distance 356
-			period 40.6996
-		object
-			sprite planet/dust1
-			distance 477
-			period 63.1237
-	object
-		sprite planet/ice0
-		distance 1889.08
-		period 353.328
-	object
-		sprite planet/gas4
-		distance 2567.09
-		period 559.712
-		object
-			sprite planet/dust5
-			distance 272
-			period 15.8216
-		object
-			sprite planet/rock3
-			distance 413
-			period 29.6021
-		object
-			sprite planet/ice7
-			distance 518
-			period 41.5807
 
 system Ukamaruk
 	pos -1521.52 36.875
