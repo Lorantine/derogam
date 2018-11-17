@@ -2322,17 +2322,6 @@ system Intariag
 			distance 669
 			period 64.8828
 
-	object
-		object
-		object
-	object
-	object
-	object
-		object
-	object
-		object
-		object
-
 system Izunemi
 	pos -1117.31 -321.074
 	government Derogam
@@ -2918,6 +2907,39 @@ system Merzok
 			sprite planet/desert4
 			distance 510
 			period 46.0332
+
+system Minia
+	pos -1083.08 -48.171
+	government Derogam
+	habitable 2140.92
+	belt 1160
+	link Tilan
+	link Soruxa
+	link Wekenti
+	link Arista
+	asteroids "small rock" 10 3.7548
+	asteroids "medium rock" 4 3.528
+	asteroids "large rock" 1 3.5784
+	asteroids "small metal" 6 3.5784
+	asteroids "medium metal" 29 3.3264
+	asteroids "large metal" 17 2.3184
+	minables aluminum 5 4.32789
+	minables titanium 3 3.65523
+	fleet "Small Derogam Civilians" 1000
+	fleet "Medium Derogam Civilians" 1500
+	fleet "Large Derogam Civilians" 3000
+	fleet "Small Derogam Armada" 1100
+	fleet "Medium Derogam Armada" 2200
+	fleet "Large Derogam Armada" 4400
+	object
+		sprite star/f5
+		distance 24.271
+		period 11.6493
+	object
+		sprite star/k5
+		distance 97.729
+		period 11.6493
+		offset 180
 	object
 		sprite planet/rock10
 		distance 275.569
