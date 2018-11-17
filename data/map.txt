@@ -213,8 +213,8 @@ system Ailpak
 		distance 223.286
 		period 45.5553
 	object Watagon
-		sprite planet/dust2
-		distance 483.326
+		sprite planet/desert2
+		distance 583.326
 		period 145.08
 	object
 		sprite planet/rock15
@@ -365,7 +365,7 @@ system Algiad
 		period 10
 	object Stegon
 		sprite planet/desert1
-		distance 315
+		distance 415
 		period 89.4511
 		object
 			sprite planet/luna
@@ -2830,7 +2830,7 @@ system Merishar
 		sprite planet/rhea
 		distance 126.56
 		period 27.5957
-	object
+	object Drafire
 		sprite planet/cloud5
 		distance 555.2
 		period 253.554
@@ -2858,7 +2858,7 @@ system Merishar
 system Merzok
 	pos -1168.08 -137.171
 	government Derogam
-	habitable 135
+	habitable 719.96
 	belt 1392
 	link Dalente
 	link Mortsion
@@ -2879,36 +2879,34 @@ system Merzok
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
 	object
-		sprite star/m8
-		period 10
+		sprite star/k0
+		distance 36.29
+		period 17.6698
+		offset 180
 	object
-		sprite planet/gas15
-		distance 246.61
-		period 133.324
+		sprite star/m4
+		distance 75.71
+		period 17.6698
 	object
-		sprite planet/dust6
-		distance 703.7
-		period 642.65
+		sprite planet/rock4
+		distance 240.71
+		period 55.6733
+	object Eleracon
+		sprite planet/desert3
+		distance 583.2
+		period 209.958
 	object
-		sprite planet/io
-		distance 1250.71
-		period 1522.75
+		sprite planet/gas13
+		distance 921.56
+		period 417.053
 	object
-		sprite planet/gas1
-		distance 2995.27
-		period 5643.48
-		object
-			sprite planet/miranda
-			distance 233
-			period 14.2151
-		object
-			sprite planet/rock3
-			distance 341
-			period 25.1679
-		object
-			sprite planet/desert4
-			distance 510
-			period 46.0332
+		sprite planet/cloud7
+		distance 1579.45
+		period 935.76
+	object
+		sprite planet/lava0
+		distance 2509.21
+		period 1873.75
 
 system Minia
 	pos -1083.08 -48.171
@@ -4917,6 +4915,18 @@ planet Derogate
 	description ` `
 	spaceport ` `
 
+planet Drafire
+	landscape land/canyon3
+	description TBD
+	spaceport Spaceport
+	security 0.6
+
+planet Eleracon
+	landscape land/canyon9
+	description TBD
+	spaceport Spaceport
+	security 0.6
+
 planet Entansion
 	landscape land/myrabella0
 	description TBD
@@ -5014,7 +5024,7 @@ planet Waidly
 	security 0.4
 
 planet Watagon
-	landscape land/hills0
+	landscape land/desert4
 	description TBD
 	spaceport Spaceport
 	security 0.7
