@@ -23,6 +23,7 @@ system Absy
 	asteroids "large metal" 20 3.432
 	minables titanium 4 4.12301
 	minables uranium 5 5.20427
+	trade Food 492
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -77,6 +78,7 @@ system Ademynda
 	link Necokik
 	link Maebnoom
 	asteroids "large metal" 1 2.226
+	trade Food 391
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -142,6 +144,7 @@ system Aderin
 	asteroids "large metal" 1 6.384
 	minables iron 24 3.21608
 	minables titanium 19 3.43826
+	trade Food 182
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -193,6 +196,7 @@ system Ailpak
 	asteroids "medium metal" 11 3.3725
 	asteroids "large metal" 8 3.23
 	minables iron 5 4.77746
+	trade Food 507
 	fleet "Small Derogam Civilians" 600
 	fleet "Medium Derogam Civilians" 900
 	fleet "Large Derogam Civilians" 1800
@@ -248,6 +252,7 @@ system Ajowe
 	asteroids "large metal" 10 6.93
 	minables aluminum 28 7.51238
 	minables silicon 14 7.35464
+	trade Food 255
 	fleet "Small Derogam Civilians" 1800
 	fleet "Medium Derogam Civilians" 2700
 	fleet "Large Derogam Civilians" 5400
@@ -311,6 +316,7 @@ system Alesu
 	minables copper 34 10.0239
 	minables lead 1 11.0455
 	minables silicon 16 12.8693
+	trade Food 398
 	fleet "Small Derogam Civilians" 1600
 	fleet "Medium Derogam Civilians" 2400
 	fleet "Large Derogam Civilians" 4800
@@ -354,6 +360,7 @@ system Algiad
 	asteroids "large metal" 16 3.807
 	minables aluminum 3 3.96298
 	minables lead 19 4.65905
+	trade Food 464
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -401,6 +408,7 @@ system Antronat
 	link Donista
 	link Soruxa
 	asteroids "large metal" 1 2.5404
+	trade Food 311
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -458,6 +466,7 @@ system Arcenis
 	asteroids "medium metal" 40 2.907
 	asteroids "large metal" 33 3.5445
 	minables aluminum 4 4.0821
+	trade Food 173
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -527,6 +536,7 @@ system Arilla
 	asteroids "large metal" 1 2.9512
 	minables lead 5 3.69067
 	minables silver 6 3.72922
+	trade Food 356
 	fleet "Small Derogam Civilians" 2000
 	fleet "Medium Derogam Civilians" 3000
 	fleet "Large Derogam Civilians" 6000
@@ -581,6 +591,7 @@ system Ariot
 	minables gold 1 1.82844
 	minables platinum 1 1.71037
 	minables tungsten 5 1.77761
+	trade Food 479
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -634,6 +645,7 @@ system Arista
 	asteroids "large metal" 23 7.7175
 	minables iron 29 5.31354
 	minables neodymium 9 7.81283
+	trade Food 332
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -696,6 +708,7 @@ system Asteb
 	link Niudal
 	link Kitey
 	asteroids "large metal" 1 6.6528
+	trade Food 347
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -751,6 +764,7 @@ system Binusa
 	asteroids "small metal" 25 3.0016
 	asteroids "large metal" 3 5.1968
 	minables silver 14 6.7049
+	trade Food 341
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -807,6 +821,7 @@ system Caperut
 	asteroids "large metal" 15 6.072
 	minables copper 6 6.26908
 	minables iron 4 5.40154
+	trade Food 460
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -863,6 +878,7 @@ system Carbrun
 	asteroids "large metal" 1 2.064
 	minables aluminum 2 5.24542
 	minables titanium 3 4.11854
+	trade Food 510
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -917,6 +933,7 @@ system Casteladi
 	minables gold 8 9.26731
 	minables iron 32 7.80471
 	minables lead 18 7.84085
+	trade Food 296
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -978,6 +995,7 @@ system Cerdin
 	asteroids "medium metal" 41 1.5
 	asteroids "large metal" 3 1.84
 	minables iron 6 1.59256
+	trade Food 412
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -1043,6 +1061,7 @@ system Chirtinum
 	minables copper 16 3.62489
 	minables iron 22 3.08942
 	minables titanium 23 3.20786
+	trade Food 426
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -1108,6 +1127,7 @@ system Cyrad
 	minables gold 19 8.077
 	minables lead 8 5.98177
 	minables silver 1 8.33027
+	trade Food 347
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -1166,6 +1186,7 @@ system Dalente
 	minables copper 8 7.76284
 	minables silver 21 7.28037
 	minables uranium 19 7.3108
+	trade Food 330
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -1215,6 +1236,7 @@ system Daremto
 	asteroids "medium metal" 5 3.54
 	asteroids "large metal" 1 4.02
 	minables titanium 4 6.62216
+	trade Food 437
 	fleet "Small Derogam Armada" 700
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
@@ -1279,6 +1301,7 @@ system Dawited
 	asteroids "large metal" 5 3.996
 	minables aluminum 23 5.10661
 	minables copper 10 3.09421
+	trade Food 438
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -1341,6 +1364,7 @@ system Delikens
 	asteroids "large metal" 9 2.418
 	minables iron 20 3.61139
 	minables silver 6 3.56505
+	trade Food 468
 	fleet "Small Derogam Armada" 600
 	fleet "Medium Derogam Armada" 1200
 	fleet "Large Derogam Armada" 2400
@@ -1392,6 +1416,7 @@ system Donista
 	asteroids "large metal" 10 8.2944
 	minables iron 19 9.51943
 	minables lead 41 11.2732
+	trade Food 263
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -1455,6 +1480,7 @@ system Dublion
 	asteroids "medium metal" 16 3.6288
 	asteroids "large metal" 23 6.1236
 	minables lead 5 4.76781
+	trade Food 272
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -1508,6 +1534,7 @@ system Ecrusber
 	belt 1996
 	link Espordan
 	asteroids "large metal" 1 3.861
+	trade Food 296
 	fleet "Small Derogam Armada" 15000
 	fleet "Medium Derogam Armada" 30000
 	fleet "Large Derogam Armada" 60000
@@ -1556,6 +1583,7 @@ system Efnir
 	minables aluminum 13 6.74276
 	minables iron 9 6.21605
 	minables lead 13 7.67279
+	trade Food 318
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -1611,6 +1639,7 @@ system Epaphis
 	minables copper 9 11.8033
 	minables titanium 6 8.435
 	minables tungsten 7 14.0465
+	trade Food 351
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -1677,6 +1706,7 @@ system Ergulia
 	asteroids "medium metal" 47 4.6592
 	asteroids "large metal" 36 5.7792
 	minables titanium 7 7.22935
+	trade Food 272
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -1727,6 +1757,7 @@ system Esetaka
 	asteroids "medium metal" 6 3.591
 	asteroids "large metal" 20 1.5105
 	minables silver 10 2.49215
+	trade Food 460
 	fleet "Small Derogam Civilians" 1700
 	fleet "Medium Derogam Civilians" 2550
 	fleet "Large Derogam Civilians" 5100
@@ -1782,6 +1813,7 @@ system Espordan
 	minables gold 11 3.31254
 	minables neodymium 15 3.8271
 	minables silver 19 2.93486
+	trade Food 317
 	fleet "Small Derogam Civilians" 6000
 	fleet "Medium Derogam Civilians" 9000
 	fleet "Large Derogam Civilians" 18000
@@ -1836,6 +1868,7 @@ system Feriosan
 	asteroids "small metal" 15 2.5284
 	asteroids "large metal" 24 1.7052
 	minables tungsten 9 3.59783
+	trade Food 294
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -1908,6 +1941,7 @@ system Foritage
 	minables titanium 5 4.33802
 	minables tungsten 4 4.73548
 	minables uranium 1 5.16287
+	trade Food 444
 	fleet "Small Derogam Civilians" 2000
 	fleet "Medium Derogam Civilians" 3000
 	fleet "Large Derogam Civilians" 6000
@@ -1955,6 +1989,7 @@ system Ganoling
 	asteroids "large metal" 2 4.62
 	minables aluminum 1 9.42681
 	minables lead 2 7.19663
+	trade Food 225
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -2019,6 +2054,7 @@ system Godemari
 	minables aluminum 1 2.38541
 	minables titanium 3 2.97158
 	minables tungsten 21 2.60673
+	trade Food 178
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -2061,6 +2097,7 @@ system Ilipladinum
 	asteroids "medium metal" 2 4.524
 	asteroids "large metal" 4 5.4288
 	minables lead 1 7.86169
+	trade Food 230
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -2118,6 +2155,7 @@ system Ilodemus
 	asteroids "small metal" 9 5.7855
 	asteroids "medium metal" 28 4.2427
 	asteroids "large metal" 4 3.9672
+	trade Food 286
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -2170,6 +2208,7 @@ system Imetarsu
 	asteroids "large metal" 1 2.9512
 	minables lead 5 3.69067
 	minables silver 6 3.72922
+	trade Food 203
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -2222,6 +2261,7 @@ system Inschem
 	asteroids "large metal" 3 2.904
 	minables copper 1 5.84937
 	minables silver 1 3.5815
+	trade Food 176
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -2276,6 +2316,7 @@ system Intariag
 	minables lead 3 6.25686
 	minables tungsten 1 4.55536
 	minables uranium 49 5.11698
+	trade Food 486
 	fleet "Small Derogam Civilians" 600
 	fleet "Medium Derogam Civilians" 900
 	fleet "Large Derogam Civilians" 1800
@@ -2339,6 +2380,7 @@ system Izunemi
 	minables silver 4 7.8835
 	minables titanium 14 4.67786
 	minables uranium 2 7.36901
+	trade Food 462
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -2380,6 +2422,7 @@ system Kitey
 	asteroids "large metal" 1 2.9512
 	minables lead 5 3.69067
 	minables silver 6 3.72922
+	trade Food 366
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -2432,6 +2475,7 @@ system Kriso
 	minables copper 14 12.4012
 	minables platinum 4 9.22728
 	minables uranium 22 10.2398
+	trade Food 335
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -2486,6 +2530,7 @@ system Lastian
 	link Pryos
 	link Cyrad
 	asteroids "large metal" 1 4.68
+	trade Food 319
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -2539,6 +2584,7 @@ system Lerang
 	minables neodymium 19 6.9861
 	minables platinum 5 6.72319
 	minables silicon 52 7.31708
+	trade Food 186
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -2598,6 +2644,7 @@ system Liekaaz
 	link Cyrad
 	asteroids "medium metal" 2 1.9206
 	asteroids "large metal" 1 2.9106
+	trade Food 292
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -2652,6 +2699,7 @@ system Litiya
 	asteroids "medium metal" 63 6.069
 	asteroids "large metal" 95 4.896
 	minables uranium 13 8.51039
+	trade Food 427
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -2707,6 +2755,7 @@ system Maebnoom
 	link Xirdat
 	link Liekaaz
 	asteroids "large metal" 1 6.4125
+	trade Food 350
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -2753,6 +2802,7 @@ system Manist
 	minables aluminum 35 6.719
 	minables copper 17 5.39955
 	minables lead 7 5.0422
+	trade Food 310
 	fleet "Small Derogam Civilians" 1800
 	fleet "Medium Derogam Civilians" 2700
 	fleet "Large Derogam Civilians" 5400
@@ -2817,6 +2867,7 @@ system Merishar
 	asteroids "large metal" 1 2.9512
 	minables lead 5 3.69067
 	minables silver 6 3.72922
+	trade Food 411
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -2872,6 +2923,7 @@ system Merzok
 	asteroids "medium metal" 3 4.4625
 	asteroids "large metal" 2 3.6
 	minables titanium 3 3.91727
+	trade Food 389
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -2925,6 +2977,7 @@ system Minia
 	asteroids "large metal" 17 2.3184
 	minables aluminum 5 4.32789
 	minables titanium 3 3.65523
+	trade Food 310
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -2974,6 +3027,7 @@ system Moridaos
 	asteroids "large metal" 11 0.9072
 	minables lead 2 2.26137
 	minables tungsten 10 2.00413
+	trade Food 228
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -3037,6 +3091,7 @@ system Mortsion
 	asteroids "large metal" 1 3.1752
 	minables aluminum 3 14.2016
 	minables lead 9 9.46289
+	trade Food 433
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -3094,6 +3149,7 @@ system Nahze
 	asteroids "large metal" 15 3.335
 	minables lead 4 5.5448
 	minables silver 3 4.44777
+	trade Food 512
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -3146,6 +3202,7 @@ system Necokik
 	asteroids "large metal" 7 1.106
 	minables copper 20 2.01422
 	minables titanium 29 2.28232
+	trade Food 434
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -3205,6 +3262,7 @@ system Niudal
 	asteroids "large metal" 21 2.2464
 	minables lead 5 2.23204
 	minables neodymium 1 2.99785
+	trade Food 402
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -3256,6 +3314,7 @@ system Omods
 	asteroids "large rock" 1 2.304
 	asteroids "large metal" 4 1.44
 	minables titanium 1 3.89374
+	trade Food 261
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -3304,6 +3363,7 @@ system Penidla
 	minables silver 9 5.37952
 	minables titanium 38 5.21739
 	minables tungsten 21 5.04108
+	trade Food 506
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -3351,6 +3411,7 @@ system Pryos
 	link Lastian
 	link Cyrad
 	asteroids "large metal" 1 2.9172
+	trade Food 366
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -3420,6 +3481,7 @@ system Raista
 	minables copper 22 4.33041
 	minables neodymium 8 5.5012
 	minables silver 29 6.87838
+	trade Food 409
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -3475,6 +3537,7 @@ system Rinalyot
 	asteroids "medium rock" 6 3.381
 	asteroids "large rock" 8 4.0572
 	asteroids "large metal" 5 2.5116
+	trade Food 556
 	fleet "Small Derogam Civilians" 600
 	fleet "Medium Derogam Civilians" 900
 	fleet "Large Derogam Civilians" 1800
@@ -3534,6 +3597,7 @@ system Rintha
 	asteroids "large metal" 3 1.098
 	minables iron 3 3.09224
 	minables lead 6 1.79977
+	trade Food 354
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -3584,6 +3648,7 @@ system Robezin
 	asteroids "medium metal" 4 9.3288
 	asteroids "large metal" 4 7.2332
 	minables lead 1 13.0072
+	trade Food 440
 	fleet "Small Derogam Armada" 700
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
@@ -3635,6 +3700,7 @@ system Ruovedrag
 	asteroids "large metal" 2 3.2704
 	minables iron 13 2.88489
 	minables tungsten 1 3.33237
+	trade Food 445
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -3690,6 +3756,7 @@ system Savr
 	asteroids "small metal" 1 4.3428
 	asteroids "medium metal" 1 2.0328
 	asteroids "large metal" 45 4.1888
+	trade Food 209
 	fleet "Small Derogam Civilians" 1500
 	fleet "Medium Derogam Civilians" 2250
 	fleet "Large Derogam Civilians" 4500
@@ -3763,6 +3830,7 @@ system Seborem
 	asteroids "large metal" 1 2.9512
 	minables lead 5 3.69067
 	minables silver 6 3.72922
+	trade Food 457
 	fleet "Small Derogam Civilians" 500
 	fleet "Medium Derogam Civilians" 750
 	fleet "Large Derogam Civilians" 1500
@@ -3816,6 +3884,7 @@ system Seriub
 	asteroids "large metal" 28 5.896
 	minables platinum 5 6.13984
 	minables titanium 5 6.65108
+	trade Food 252
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -3874,6 +3943,7 @@ system Skaldir
 	asteroids "medium metal" 4 6.732
 	asteroids "large metal" 1 5.508
 	minables copper 39 5.80644
+	trade Food 440
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -3925,6 +3995,7 @@ system Solestus
 	asteroids "large rock" 15 4.104
 	asteroids "small metal" 4 5.586
 	asteroids "large metal" 2 4.275
+	trade Food 366
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -3994,6 +4065,7 @@ system Soruxa
 	asteroids "large metal" 1 2.1996
 	minables aluminum 5 4.0646
 	minables silver 3 4.28326
+	trade Food 364
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -4054,6 +4126,7 @@ system Strenapem
 	asteroids "large metal" 4 4.93
 	minables neodymium 2 13.5777
 	minables silicon 2 10.1796
+	trade Food 270
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -4112,6 +4185,7 @@ system Tannyr
 	asteroids "large metal" 2 2.3976
 	minables aluminum 10 6.93848
 	minables titanium 11 4.78675
+	trade Food 464
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -4165,6 +4239,7 @@ system Teronea
 	minables lead 21 6.66871
 	minables silicon 54 6.6384
 	minables titanium 17 6.66113
+	trade Food 504
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -4220,6 +4295,7 @@ system Terowed
 	asteroids "medium metal" 6 3.42
 	asteroids "large metal" 38 1.6644
 	minables lead 9 2.98844
+	trade Food 510
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -4276,6 +4352,7 @@ system Tilan
 	asteroids "large metal" 2 5.9451
 	minables aluminum 22 6.53684
 	minables copper 16 5.87441
+	trade Food 315
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -4335,6 +4412,7 @@ system Trinue
 	asteroids "medium metal" 25 1.9292
 	asteroids "large metal" 1 3.2032
 	minables iron 7 3.08328
+	trade Food 366
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -4388,6 +4466,7 @@ system Ukamaruk
 	minables aluminum 16 3.65826
 	minables copper 19 4.28329
 	minables platinum 4 4.59253
+	trade Food 220
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -4447,6 +4526,7 @@ system Uster
 	minables iron 37 5.18236
 	minables lead 22 5.49203
 	minables uranium 18 5.62385
+	trade Food 284
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -4498,6 +4578,7 @@ system Ventister
 	asteroids "medium metal" 1 1.764
 	asteroids "large metal" 3 0.7
 	minables tungsten 1 2.18966
+	trade Food 232
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -4556,6 +4637,7 @@ system Virino
 	asteroids "large rock" 15 4.104
 	asteroids "small metal" 4 5.586
 	asteroids "large metal" 2 4.275
+	trade Food 472
 	fleet "Small Derogam Civilians" 1600
 	fleet "Medium Derogam Civilians" 2400
 	fleet "Large Derogam Civilians" 4800
@@ -4612,6 +4694,7 @@ system Vocanis
 	asteroids "medium metal" 21 2.7071
 	asteroids "large metal" 32 2.8083
 	minables copper 5 5.27696
+	trade Food 438
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -4664,6 +4747,7 @@ system Vranio
 	minables iron 9 5.19002
 	minables lead 2 5.26993
 	minables silver 8 6.18693
+	trade Food 453
 	fleet "Small Derogam Armada" 700
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
@@ -4720,6 +4804,7 @@ system Wekenti
 	asteroids "large metal" 29 2.3496
 	minables copper 15 4.55126
 	minables iron 21 3.21064
+	trade Food 337
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -4779,6 +4864,7 @@ system Xirdat
 	asteroids "medium metal" 14 4.437
 	asteroids "large metal" 1 4.2398
 	minables iron 25 5.21799
+	trade Food 399
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -4849,6 +4935,7 @@ system Zatacom
 	minables iron 8 7.60865
 	minables lead 23 7.18733
 	minables titanium 1 5.8143
+	trade Food 367
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
