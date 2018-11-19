@@ -29,14 +29,25 @@ fleet "Medium Derogam Civilians"
 	personality
 		confusion 25
 		timid
-	variant 60
+	variant 30
 		"Derogam Collector"
 		"Derogam Gatherer"
 	variant 30
+		"Derogam Itinerant"
+		"Derogam Gatherer"
+	variant 15
 		"Derogam Collector"
 		"Derogam Gatherer" 2
-	variant 10
+	variant 15
+		"Derogam Itinerant"
+		"Derogam Gatherer" 2
+	variant 4
+		"Derogam Collector"
+		"Derogam Itinerant"
+	variant 3
 		"Derogam Collector" 2
+	variant 3
+		"Derogam Itinerant" 2
 
 fleet "Large Derogam Civilians"
 	government "Derogam"
@@ -62,6 +73,14 @@ fleet "Large Derogam Civilians"
 		"Derogam Collector" 2
 	variant 5
 		"Derogam Hoarder" 2
+
+fleet "Derogam Miners"
+	government "Derogam"
+	names "derogam civilian"
+	cargo 0
+	personality
+		confusion 25
+		timid mining harvests
 
 fleet "Small Derogam Armada"
 	government "Derogam Armada"
