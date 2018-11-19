@@ -61,10 +61,12 @@ shipyard "Derogam Civilian Small"
 	"Derogam Gatherer"
 
 shipyard "Derogam Civilian Medium"
+	"Derogam Itinerant"
 	"Derogam Gatherer"
 	"Derogam Collector"
 
 shipyard "Derogam Civilian Large"
+	"Derogam Itinerant"
 	"Derogam Gatherer"
 	"Derogam Collector"
 	"Derogam Hoarder"

@@ -446,25 +446,30 @@ ship "Derogam Itinerant"
 			"hull damage" 900
 			"hit force" 2200
 	outfits
-		"Thunderhead Launcher" 4
-		"Thunderhead Missile" 160
-		"Korath Warder" 2
+		"Bombardment Cannon" 2
+		"Thunderhead Launcher" 2
+		"Thunderhead Missile" 80
+		"Bombardment Turret"
+		"Korath Warder"
 
 		"Inferno Core"
+		"Blaze Core"
 		"Healing Core Size 2"
 		"Cooling Coil Size 2"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
 		"Hyperdrive"
-	engine -56.5 -59
-	engine 56.5 -59
-	gun -23 -125
-	gun 23 -125
-	gun -38 -119
-	gun 38 -119
-	turret -38 -81
-	turret 38 -81
+	engine -68 -25.5 .48
+	engine -32 85.5 .4
+	engine 32 85.5 .4
+	engine 68 -25.5 .48
+	gun -13 -161.5 "Bombardment Cannon"
+	gun 13 -161.5 "Bombardment Cannon"
+	gun -19 -151 "Thunderhead Launcher"
+	gun 19 -151 "Thunderhead Launcher"
+	turret 0 -92 "Bombardment Turret"
+	turret 0 -17.5 "Korath Warder"
 	explode "tiny explosion" 30
 	explode "small explosion" 35
 	explode "medium explosion" 15
