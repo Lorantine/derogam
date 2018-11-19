@@ -50,12 +50,12 @@ ship "Derogam Sentry"
 	engine -17.5 115.5 .72
 	engine 17.5 115.5 .72
 	engine 44.5 34.5 .6
-	gun -13 -107
-	gun 13 -107
-	gun -18.5 -89.5
-	gun 18.5 -89.5
-	turret 0 -30
-	turret 0 4
+	gun -13 -107 "Thunderhead Launcher"
+	gun 13 -107 "Thunderhead Launcher"
+	gun -18.5 -89.5 "Thunderhead Launcher"
+	gun 18.5 -89.5 "Thunderhead Launcher"
+	turret 0 -30 "Bombardment Turret"
+	turret 0 4 "Bombardment Turret"
 	explode "tiny explosion" 30
 	explode "small explosion" 40
 	explode "medium explosion" 25
