@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 government "Derogam"
-	swizzle 4
+	swizzle 3
 	color .85 .1 .2
 	language "Derogam"
 
@@ -21,7 +21,7 @@ government "Derogam"
 	"hostile hail" "derogam untranslated"
 
 government "Derogam Armada"
-	swizzle 1
+	swizzle 5
 	color .7 .2 .4
 	language "Derogam"
 
