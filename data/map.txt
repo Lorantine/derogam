@@ -131,7 +131,7 @@ system Ademynda
 			distance 488
 			period 65.3197
 
-system Aderin
+system Ridena
 	pos -1542.07 -23.399
 	government Derogam
 	habitable 425.92
@@ -185,7 +185,7 @@ system Ailpak
 	habitable 858.28
 	belt 1150
 	link Algiad
-	link Izunemi
+	link Urekym
 	link Rinalyot
 	link Seborem
 	link Intariag
@@ -237,12 +237,12 @@ system Ailpak
 			distance 190
 			period 13.9414
 
-system Ajowe
+system Hajowe
 	pos -1170.08 16.829
 	government Derogam
 	habitable 486.68
 	belt 1070
-	link Manist
+	link Nimast
 	link Dublion
 	asteroids "small rock" 2 7.56
 	asteroids "medium rock" 11 6.426
@@ -299,12 +299,12 @@ system Ajowe
 			distance 709
 			period 53.2942
 
-system Alesu
+system Jaleus
 	pos -1024.05 119.394
 	government Derogam
 	habitable 486.68
 	belt 1881
-	link Chirtinum
+	link Critinum
 	link Litiya
 	link Solestus
 	asteroids "small rock" 44 4.118
@@ -399,7 +399,7 @@ system Algiad
 			distance 354
 			period 21.9676
 
-system Antronat
+system Jatronal
 	pos -1011.16 -79.48
 	government Derogam
 	habitable 625
@@ -451,7 +451,7 @@ system Antronat
 			distance 264
 			period 22.5789
 
-system Arcenis
+system Ucesar
 	pos -819.308 -148.236
 	government Derogam
 	habitable 2201.68
@@ -523,7 +523,7 @@ system Arcenis
 			distance 550
 			period 32.9465
 
-system Arilla
+system Godocal
 	pos -971.05 -15.6057
 	government Derogam
 	habitable 425.92
@@ -575,14 +575,14 @@ system Arilla
 		distance 2234.7
 		period 2047.5
 
-system Ariot
+system Orita
 	pos -1150.31 -422.074
 	government Derogam
 	habitable 851.84
 	belt 1219
 	link Skaldir
-	link Carbrun
-	link Nahze
+	link Yremila
+	link Zehan
 	asteroids "small rock" 5 1.833
 	asteroids "medium rock" 2 1.066
 	asteroids "large rock" 11 1.807
@@ -628,14 +628,14 @@ system Ariot
 		distance 2158.8
 		period 1374.67
 
-system Arista
+system Pachromg
 	pos -1127.08 -97.171
 	government Derogam
 	habitable 553.28
 	belt 1356
 	link Soruxa
 	link Feriosan
-	link Minia
+	link Krehs
 	link Merzok
 	asteroids "small rock" 81 5.25
 	asteroids "medium rock" 7 2.94
@@ -698,13 +698,13 @@ system Arista
 			distance 626
 			period 78.0358
 
-system Asteb
+system Betsat
 	pos -1004 -250
 	government Derogam
 	habitable 486.68
 	belt 1039
 	link Ilodemus
-	link Efnir
+	link Firren
 	link Niudal
 	link Kitey
 	asteroids "large metal" 1 6.6528
@@ -757,7 +757,7 @@ system Binusa
 	habitable 1313.28
 	belt 1819
 	link Zatacom
-	link Efnir
+	link Firren
 	asteroids "small rock" 4 4.5248
 	asteroids "medium rock" 36 5.152
 	asteroids "large rock" 5 2.688
@@ -864,13 +864,13 @@ system Caperut
 			distance 451
 			period 50.4153
 
-system Carbrun
+system Yremila
 	pos -1150.31 -371.074
 	government Derogam
 	habitable 625
 	belt 1963
-	link Ariot
-	link Izunemi
+	link Orita
+	link Urekym
 	link Rinalyot
 	asteroids "medium rock" 12 2.976
 	asteroids "large rock" 2 3.504
@@ -1046,12 +1046,12 @@ system Cerdin
 			distance 332
 			period 24.1781
 
-system Chirtinum
+system Critinum
 	pos -1002.71 184.446
 	government Derogam
 	habitable 912.6
 	belt 1500
-	link Alesu
+	link Jaleus
 	asteroids "small rock" 1 2.912
 	asteroids "medium rock" 26 3.38
 	asteroids "large rock" 4 1.95
@@ -1405,9 +1405,9 @@ system Donista
 	government Derogam
 	habitable 1948.28
 	belt 1476
-	link Antronat
+	link Jatronal
 	link Casteladi
-	link Ilipladinum
+	link Ipladumin
 	asteroids "small rock" 86 7.3728
 	asteroids "medium rock" 40 3.1104
 	asteroids "large rock" 62 7.6032
@@ -1471,8 +1471,8 @@ system Dublion
 	habitable 486.68
 	belt 1192
 	link Feriosan
-	link Tilan
-	link Ajowe
+	link Qilan
+	link Hajowe
 	asteroids "small rock" 79 3.2886
 	asteroids "medium rock" 91 3.8556
 	asteroids "large rock" 35 8.4483
@@ -1566,12 +1566,12 @@ system Ecrusber
 			distance 353
 			period 19.4365
 
-system Efnir
+system Firren
 	pos -928.069 -280.539
 	government Derogam
 	habitable 806.68
 	belt 1127
-	link Asteb
+	link Betsat
 	link Binusa
 	link Ilodemus
 	asteroids "small rock" 1 6.72
@@ -1629,7 +1629,7 @@ system Epaphis
 	government Derogam
 	habitable 486.68
 	belt 1487
-	link Strenapem
+	link Welrin
 	link Niudal
 	asteroids "medium rock" 1 7.3899
 	asteroids "large rock" 2 5.8374
@@ -1696,7 +1696,7 @@ system Ergulia
 	habitable 719.96
 	belt 1180
 	link Lastian
-	link Seriub
+	link Berius
 	link Moridaos
 	link Liekaaz
 	asteroids "small rock" 3 5.4656
@@ -1743,7 +1743,7 @@ system Ergulia
 		distance 2491.23
 		period 1853.64
 
-system Esetaka
+system Kesetal
 	pos -1094.08 228.427
 	government Derogam
 	habitable 3645
@@ -1862,7 +1862,7 @@ system Feriosan
 	habitable 1948.28
 	belt 1226
 	link Dublion
-	link Arista
+	link Pachromg
 	asteroids "small rock" 10 1.666
 	asteroids "large rock" 1 2.0972
 	asteroids "small metal" 15 2.5284
@@ -1977,10 +1977,10 @@ system Ganoling
 	government Derogam
 	habitable 625
 	belt 1497
-	link Savr
+	link Vras
 	link Omods
 	link Moridaos
-	link Aderin
+	link Ridena
 	link Godemari
 	asteroids "small rock" 1 5.52
 	asteroids "medium rock" 2 3.24
@@ -2045,7 +2045,7 @@ system Godemari
 	government Derogam
 	habitable 486.68
 	belt 1428
-	link Savr
+	link Vras
 	link Ganoling
 	asteroids "small rock" 6 2.3184
 	asteroids "large rock" 3 2.484
@@ -2085,14 +2085,14 @@ system Godemari
 		distance 2683.42
 		period 2520.41
 
-system Ilipladinum
+system Ipladumin
 	pos -916.923 -131.07
 	government Derogam
 	habitable 625
 	belt 1483
 	link Donista
 	link Imetarsu
-	link Strenapem
+	link Welrin
 	asteroids "small metal" 9 4.147
 	asteroids "medium metal" 2 4.524
 	asteroids "large metal" 4 5.4288
@@ -2146,9 +2146,9 @@ system Ilodemus
 	habitable 425.92
 	belt 1392
 	link Ventister
-	link Asteb
-	link Strenapem
-	link Efnir
+	link Betsat
+	link Welrin
+	link Firren
 	asteroids "small rock" 3 3.7468
 	asteroids "medium rock" 4 2.8101
 	asteroids "large rock" 1 7.1079
@@ -2199,8 +2199,8 @@ system Imetarsu
 	government Derogam
 	habitable 425.92
 	belt 1868
-	link Ilipladinum
-	link Arcenis
+	link Ipladumin
+	link Ucesar
 	asteroids "medium rock" 2 1.4756
 	asteroids "large rock" 1 1.9754
 	asteroids "small metal" 2 3.3796
@@ -2252,7 +2252,7 @@ system Inschem
 	government Derogam
 	habitable 2795
 	belt 1038
-	link Arcenis
+	link Ucesar
 	link Ventister
 	asteroids "medium rock" 2 3.432
 	asteroids "large rock" 1 1.968
@@ -2363,12 +2363,12 @@ system Intariag
 			distance 669
 			period 64.8828
 
-system Izunemi
+system Urekym
 	pos -1117.31 -321.074
 	government Derogam
 	habitable 625
 	belt 1391
-	link Carbrun
+	link Yremila
 	link Ailpak
 	link Niudal
 	asteroids "small rock" 22 3.531
@@ -2412,9 +2412,9 @@ system Kitey
 	government Derogam
 	habitable 1715
 	belt 1868
-	link Asteb
+	link Betsat
 	link Zatacom
-	link Raista
+	link Huripay
 	asteroids "medium rock" 2 1.4756
 	asteroids "large rock" 1 1.9754
 	asteroids "small metal" 2 3.3796
@@ -2569,7 +2569,7 @@ system Lastian
 			distance 338
 			period 25.3066
 
-system Lerang
+system Lareng
 	pos -899.573 -228.617
 	government Derogam
 	habitable 1313.28
@@ -2690,10 +2690,10 @@ system Litiya
 	government Derogam
 	habitable 486.68
 	belt 1072
-	link Esetaka
+	link Kesetal
 	link Trinue
 	link Virino
-	link Alesu
+	link Jaleus
 	asteroids "large rock" 1 5.661
 	asteroids "small metal" 10 4.131
 	asteroids "medium metal" 63 6.069
@@ -2786,12 +2786,12 @@ system Maebnoom
 			distance 432
 			period 25.3475
 
-system Manist
+system Nimast
 	pos -1157.08 70.299
 	government Derogam
 	habitable 851.84
 	belt 1788
-	link Ajowe
+	link Hajowe
 	link Trinue
 	asteroids "small rock" 37 4.047
 	asteroids "medium rock" 196 3.819
@@ -2913,7 +2913,7 @@ system Merzok
 	belt 1392
 	link Dalente
 	link Mortsion
-	link Arista
+	link Pachromg
 	link Merishar
 	link Seborem
 	asteroids "small rock" 5 5.55
@@ -2960,15 +2960,15 @@ system Merzok
 		distance 2509.21
 		period 1873.75
 
-system Minia
+system Krehs
 	pos -1083.08 -48.171
 	government Derogam
 	habitable 2140.92
 	belt 1160
-	link Tilan
+	link Qilan
 	link Soruxa
 	link Wekenti
-	link Arista
+	link Pachromg
 	asteroids "small rock" 10 3.7548
 	asteroids "medium rock" 4 3.528
 	asteroids "large rock" 1 3.5784
@@ -3015,8 +3015,8 @@ system Moridaos
 	government Derogam
 	habitable 945
 	belt 1304
-	link Aderin
-	link Seriub
+	link Ridena
+	link Berius
 	link Ergulia
 	link Ganoling
 	asteroids "small rock" 1 2.2512
@@ -3136,13 +3136,13 @@ system Mortsion
 		distance 2088.2
 		period 1384.56
 
-system Nahze
+system Zehan
 	pos -1214.31 -395.074
 	government Derogam
 	habitable 1715
 	belt 1086
 	link Rinalyot
-	link Ariot
+	link Orita
 	asteroids "medium rock" 2 2.523
 	asteroids "large rock" 1 2.61
 	asteroids "medium metal" 3 3.973
@@ -3251,9 +3251,9 @@ system Niudal
 	habitable 1250
 	belt 1765
 	link Epaphis
-	link Asteb
+	link Betsat
 	link Algiad
-	link Izunemi
+	link Urekym
 	asteroids "small rock" 39 1.9872
 	asteroids "medium rock" 22 1.7568
 	asteroids "large rock" 2 2.448
@@ -3464,7 +3464,7 @@ system Pryos
 			distance 340
 			period 33.0001
 
-system Raista
+system Huripay
 	pos -1078.09 -356.288
 	government Derogam
 	habitable 425.92
@@ -3530,9 +3530,9 @@ system Rinalyot
 	habitable 851.84
 	belt 1459
 	link Absy
-	link Nahze
+	link Zehan
 	link Terowed
-	link Carbrun
+	link Yremila
 	link Ailpak
 	asteroids "medium rock" 6 3.381
 	asteroids "large rock" 8 4.0572
@@ -3589,7 +3589,7 @@ system Rintha
 	belt 1350
 	link Wekenti
 	link Solestus
-	link Tilan
+	link Qilan
 	asteroids "small rock" 2 1.854
 	asteroids "medium rock" 7 0.918
 	asteroids "large rock" 24 2.25
@@ -3743,7 +3743,7 @@ system Ruovedrag
 			distance 497
 			period 36.5437
 
-system Savr
+system Vras
 	pos -1476.52 10.875
 	government Derogam
 	habitable 858.28
@@ -3869,7 +3869,7 @@ system Seborem
 		distance 2253.45
 		period 1546.11
 
-system Seriub
+system Berius
 	pos -1566.52 -115.125
 	government Derogam
 	habitable 2140.92
@@ -3934,8 +3934,8 @@ system Skaldir
 	government Derogam
 	habitable 1080
 	belt 1282
-	link Raista
-	link Ariot
+	link Huripay
+	link Orita
 	asteroids "small rock" 1 4.437
 	asteroids "medium rock" 119 2.652
 	asteroids "large rock" 54 5.457
@@ -3987,9 +3987,9 @@ system Solestus
 	government Derogam
 	habitable 1400
 	belt 1712
-	link Alesu
+	link Jaleus
 	link Rintha
-	link Tilan
+	link Qilan
 	asteroids "small rock" 3 4.104
 	asteroids "medium rock" 4 5.301
 	asteroids "large rock" 15 4.104
@@ -4053,9 +4053,9 @@ system Soruxa
 	government Derogam
 	habitable 719.96
 	belt 1878
-	link Arista
-	link Minia
-	link Antronat
+	link Pachromg
+	link Krehs
+	link Jatronal
 	link Merishar
 	asteroids "small rock" 13 2.7612
 	asteroids "medium rock" 1 1.8018
@@ -4110,13 +4110,13 @@ system Soruxa
 			distance 375
 			period 24.1487
 
-system Strenapem
+system Welrin
 	pos -995.31 -148.236
 	government Derogam
 	habitable 135
 	belt 1716
 	link Epaphis
-	link Ilipladinum
+	link Ipladumin
 	link Ventister
 	link Ilodemus
 	asteroids "medium rock" 2 9.9325
@@ -4334,12 +4334,12 @@ system Terowed
 		distance 2563.92
 		period 2353.94
 
-system Tilan
+system Qilan
 	pos -1090.79 46.937
 	government Derogam
 	habitable 1566.68
 	belt 1324
-	link Minia
+	link Krehs
 	link Trinue
 	link Dublion
 	link Solestus
@@ -4404,8 +4404,8 @@ system Trinue
 	belt 1438
 	link Litiya
 	link Kriso
-	link Tilan
-	link Manist
+	link Qilan
+	link Nimast
 	asteroids "small rock" 5 1.82
 	asteroids "medium rock" 4 4.5864
 	asteroids "large rock" 2 2.8756
@@ -4460,7 +4460,7 @@ system Ukamaruk
 	government Derogam
 	habitable 486.68
 	belt 1671
-	link Savr
+	link Vras
 	asteroids "medium metal" 1 3.51
 	asteroids "large metal" 1 4.9491
 	minables aluminum 16 3.65826
@@ -4566,11 +4566,11 @@ system Ventister
 	government Derogam
 	habitable 858.28
 	belt 1695
-	link Lerang
-	link Strenapem
+	link Lareng
+	link Welrin
 	link Ilodemus
 	link Inschem
-	link Arcenis
+	link Ucesar
 	asteroids "small rock" 14 2.1
 	asteroids "medium rock" 16 1.876
 	asteroids "large rock" 15 1.47
@@ -4628,7 +4628,7 @@ system Virino
 	government Derogam
 	habitable 625
 	belt 1712
-	link Esetaka
+	link Kesetal
 	link Litiya
 	link Teronea
 	link Penidla
@@ -4792,10 +4792,10 @@ system Wekenti
 	government Derogam
 	habitable 425.92
 	belt 1224
-	link Antronat
-	link Minia
+	link Jatronal
+	link Krehs
 	link Rintha
-	link Arilla
+	link Godocal
 	asteroids "small rock" 76 3.0096
 	asteroids "medium rock" 18 2.2968
 	asteroids "large rock" 112 1.98
@@ -4922,7 +4922,7 @@ system Zatacom
 	government Derogam
 	habitable 425.92
 	belt 1982
-	link Raista
+	link Huripay
 	link Espordan
 	link Binusa
 	link Kitey
