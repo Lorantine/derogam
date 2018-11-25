@@ -1,85 +1,45 @@
 # Important
-All outfits are placeholders until I make MY OWN.
+All outfits that I didn't make myself are placeholders until I make my own (i.e. Bombardment Cannons and Korath engines will be replaced by mine).
 Trello link (my to-do list where you can stalk what I do and what I will do): https://trello.com/b/aM2pteNE/derogam
 
-Google Drive link to the assets (organized my way, may be outdated at times): https://drive.google.com/drive/folders/19nfk8tw-OHGkF6VC8_z6d1NF1OJ_bYqP?usp=sharing
+Google Drive link to the assets (may be outdated, last update: 25/11/2018): https://drive.google.com/drive/u/0/folders/19nfk8tw-OHGkF6VC8_z6d1NF1OJ_bYqP
 
-# The Derogam
-This is my first actual Endless Sky project, and the goal is to add new alien species to the game with this plugin. I'm hoping to merge this with the base game once done.
-
+# Derogam
+My Endless Sky project. The goal is to add new alien species to the game with this plugin. Once I have enough content, the aim is to add it to the base game.
 
 # Who/what the Derogam are
 
-They're dragon-like aliens. They'll be very advanced, balanced around the Heliarch, Wanderers and Korath Automatons, with interesting, new, and hopefully original distinctions.
+Dragon-like aliens (of course dragons). Very advanced, balanced around the Heliarch, Wanderers and Korath Automatons, with their own fancy unique tech.
 
-For example, a medium/long ranged gun and turret with mildly inaccurate partially piercing projectiles (Railguns), a torpedo that launches, stops, then accelerates (Accelerator Torpedo), and a big slow turning turret that does only ion, disruption and slowing damage (Pestilence). Some bigger military ships even get small integrated bonus stats (from their "vein" technology: the orange tubes on larger warships), like a little energy generation, shield regeneration, hull repair and battery. Their ships also have high heat dissipation and built-in heat.
+Examples of fancy unique tech:
+- Bigger military ships may have built-in shield/hull regen & power generation/battery
+- Power generators with some shield regeneration
+- Cooling that has both flat and active cooling
+But also less fancy but still a bit unique:
+- A torpedo that halts after firing, then speeds up again
+- A beam that shoots for a few seconds, then pauses for a few
 
 # Who/what the Nekris are
 
-Similar to humanoid tigers (cat-like people, not nekos, kys). Throughout the story you'll basically learn that they're travelling searching for new systems, for who knows what reason. I won't spoil much else besides that they'll be an enemy in the story... But who knows if they may become friendly?
+Imagine cat-like aliens (like Imperium Galactic War's Regula race). Throughout the story you'll basically learn that they're a travelling faction, searching for systems, possibly hostile to others.
 
 # "Schedule"
 
 Read the "queue" list & the "working on" list: https://trello.com/b/aM2pteNE/derogam
 
-# Planned ships: (they have placeholder outfits until I make my own, and this is more of a "remember" page for myself as well)
+# Planned ships (bare minimum, will add more after)
 
-This does NOT mean I won't make more ships, maybe I will, it just means that this is the "core", after this I'll do other stuff first.
-
-DEROGAM MILITARY SHIPS:
-implemented:
-- 1 Light Warship (Derogam Sentry)
-- 1 Medium Warship (Derogam Assassin)
-- 2 Heavy Warships (Derogam Warrior) (Derogam Guardian)
-
-not implemented yet:
-- 1 Interceptor (Derogam Rogue)
-- 1 "Gunship" (Medium Warship) (Derogam Renegade); More guns, no turrets, agile, fragile, and will have 1-2 Fighters(??).
-- 1 "Light Carrier" (Medium Warship) (Derogam Knight); Weak on its own.
-- 1 "Heavy Carrier" (Heavy Warship) (Derogam Sentinel); Strong on its own.
-- 1 Fighter (Derogam Prowler); durable like the Sestor fighters.
-
-DEROGAM CIVILIAN SHIPS:
-implemented:
-- 1 Small Freighter (Derogam Gatherer)
-- 1 Medium Freighter (Derogam Collector)
-- 1 Large Freighter (Derogam Hoarder)
-- 1 Medium Transport (Derogam Itinerant) (REWORK NEEDED)
-
-not implemented:
-- 1 Small Transport (Derogam Disciple)
-- 1 Large Transport (Derogam Wayfarer)
-- 1 Small Hybrid (Derogam Mingling); Hybrids are Transports & Freighters in one
-- 1 Medium Hybrid (Derogam Hybrid)
-- 1 Large Hybrid (Derogam Amalgam)
-
-
-NEKRIS MILITARY SHIPS (more to be added):
-implemented:
-- 1 Heavy Warship (Nekris Predator)
-
-not implemented:
-- 1 Light Warship (Nekris Pillager)
-- 2 Medium Warships (Nekris Striker) (Nekris Demolisher)
-- 1 Heavy Warship (Nekris Executioner)
-
-NEKRIS CIVILIAN SHIPS:
-- 1 Large Hybrid (Nekris Voyager); Lore-wise it's their biggest civilian ships for long journeys, compare in to Korath World-Ships but meant for travel (but actually balanced).
+9+ Military Derogam ships
+9+ Civilian Derogam ships
+?? Nekris ships
 
 # License
 
 GNU General Public License v3
 
-# Special thanks to
-
-Wrzlprnft (https://github.com/Wrzlprnft) for:
-- teaching me how to work with Desktop GitHub (which enabled me to add & update this plugin)
-- helping me learn some Blender features (some hotkeys etc.)
-
-Kryes-Omega (https://github.com/Kryes-Omega) for:
-- giving me feedback when I started (now I can do stuff w/o feedback)
+# Thanks to
 
 Darcy (https://github.com/Darcman99) for:
 - being the diehard fan who motivates me not to be a lazy ass (without him you'd still have no map in December 2018)
 
-Everyone that starred, watched, downloaded my project (doesn't matter much what you do, I just want people to be interested & to support this mod).
+Everyone that starred, watched and downloaded my project (doesn't matter much what you do, I just want people to be interested & to support this mod, although I do it more for myself).
