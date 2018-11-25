@@ -2089,7 +2089,7 @@ system Jatronal
 	belt 1512
 	link Wekenti
 	link Donista
-	link Soruxa
+	link Sorhuxa
 	asteroids "large metal" 1 2.5404
 	trade Food 311
 	fleet "Small Derogam Civilians" 900
@@ -2247,7 +2247,7 @@ system Krehs
 	habitable 2140.92
 	belt 1160
 	link Qilan
-	link Soruxa
+	link Sorhuxa
 	link Wekenti
 	link Pachromg
 	asteroids "small rock" 10 3.7548
@@ -2622,7 +2622,7 @@ system Merishar
 	habitable 425.92
 	belt 1868
 	link Algiad
-	link Soruxa
+	link Sorhuxa
 	link Seborem
 	link Merzok
 	asteroids "medium rock" 2 1.4756
@@ -3135,7 +3135,7 @@ system Pachromg
 	government Derogam
 	habitable 553.28
 	belt 1356
-	link Soruxa
+	link Sorhuxa
 	link Feriosan
 	link Krehs
 	link Merzok
@@ -3820,7 +3820,7 @@ system Solestus
 			distance 672
 			period 57.4555
 
-system Soruxa
+system Sorhuxa
 	pos -1052.08 -123.171
 	government Derogam
 	habitable 719.96
@@ -5115,4 +5115,3 @@ planet Watagon
 	description TBD
 	spaceport Spaceport
 	security 0.7
-
