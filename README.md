@@ -29,9 +29,9 @@ Read the "queue" list & the "working on" list: https://trello.com/b/aM2pteNE/der
 
 # Planned ships (bare minimum, will add more after)
 
-9+ Military Derogam ships
-9+ Civilian Derogam ships
-?? Nekris ships
+- 9+ Military Derogam ships
+- 9+ Civilian Derogam ships
+- ?? Nekris ships
 
 # License
 
