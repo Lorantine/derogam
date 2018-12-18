@@ -7,7 +7,9 @@ Files: *
 Copyright: Dennis van Anrooij <kiledenneus@gmail.com>
 License: GPL-3+
 
-Files: images/*
+Files:
+ images/*
+ high?dpi/*
 Copyright: Dennis van Anrooij <kiledenneus@gmail.com>
 License: CC-BY-SA-4.0
 
