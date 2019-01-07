@@ -1,3 +1,9 @@
+# First
+8 January 2019: My internship ends 24 January but I procrastinated some stuff, so either no work until February or I procrastinate more and make new planets & commodities for the map or something.
+
+New graphics: Healing Core Size 3 Blend is done, needs GIMP, other 3 models are yet to be made.
+
+
 # Important
 All outfits that I didn't make myself are placeholders until I make my own (i.e. Bombardment Cannons and Korath engines will be replaced by mine).
 
