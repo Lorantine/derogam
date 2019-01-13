@@ -2282,14 +2282,16 @@ system Krehs
 		sprite planet/gas5
 		distance 804.379
 		period 197.22
-	object
+	object Sprawm
 		sprite planet/venus
-		distance 1172.63
-		period 347.137
+		distance 1480.56
+		period 492.493
+		offset 342.227
 	object
 		sprite planet/gas15
-		distance 2017.44
-		period 783.358
+		distance 2325.37
+		period 969.39
+		offset 100.304
 
 system Kriso
 	pos -1129.08 146.829
@@ -3857,7 +3859,7 @@ system Sorhuxa
 		sprite planet/rock18
 		distance 274.146
 		period 67.6673
-	object
+	object Meneptor
 		sprite planet/mercury
 		distance 453.356
 		period 143.901
@@ -4777,28 +4779,34 @@ system Xirdat
 		period 10.8512
 	object Oneiros
 		sprite planet/ocean3
-		distance 961.474
-		period 318.715
+		distance 1239.29
+		period 466.397
+		offset 59.2459
 		object
 			sprite planet/lava0
-			distance 213
-			period 14.1443
+			distance 427.84
+			period 99.1171
+			offset 108.284
 		object
 			sprite planet/rock14
-			distance 320
-			period 21.9856
+			distance 587.723
+			period 159.583
+			offset 101.95
 		object
 			sprite planet/dust0
-			distance 431
-			period 31.2541
+			distance 757.336
+			period 233.432
+			offset 118.999
 		object
 			sprite planet/dust5
-			distance 623
-			period 49.6561
+			distance 880.498
+			period 292.63
+			offset 289.965
 	object
 		sprite planet/gas12
-		distance 2569.91
-		period 1392.75
+		distance 2914.26
+		period 1681.86
+		offset 49.0696
 		object
 			sprite planet/dust3
 			distance 302
@@ -5006,13 +5014,13 @@ planet Drafire
 	landscape land/canyon3
 	description TBD
 	spaceport Spaceport
-	security 0.6
+	security 0.65
 
 planet Eleracon
 	landscape land/canyon9
 	description TBD
 	spaceport Spaceport
-	security 0.6
+	security 0.65
 
 planet Entansion
 	landscape land/myrabella0
@@ -5025,7 +5033,7 @@ planet Gondaw
 	landscape land/sky3
 	description TBD
 	spaceport Spaceport
-	security 0.6
+	security 0.75
 
 planet Jefuryn
 	landscape land/fields6
@@ -5055,7 +5063,13 @@ planet Mavin
 	spaceport Spaceport
 	shipyard "Derogam Military Small"
 	outfitter "Derogam Base Large"
-	security 0.8
+	security 0.9
+
+planet Meneptor
+	landscape land/hills1
+	description `TBD	`
+	spaceport Spaceport
+	security 0.3
 
 planet Moonko
 	landscape land/fields1
@@ -5097,14 +5111,20 @@ planet Spinorus
 	outfitter "Derogam Base Small"
 	security 0.4
 
+planet Sprawm
+	landscape land/canyon03
+	description TBD
+	spaceport Spaceport
+	security 0.3
+
 planet Stegon
 	landscape land/canyon0
 	description TBD
 	spaceport Spaceport
-	security 0.6
+	security 0.75
 
 planet Waidly
-	landscape land/sky3
+	landscape land/sky0
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Large"
@@ -5114,4 +5134,5 @@ planet Watagon
 	landscape land/desert4
 	description TBD
 	spaceport Spaceport
-	security 0.7
+	security 0.8
+
