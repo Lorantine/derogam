@@ -13,7 +13,7 @@ system Absy
 	government Derogam
 	habitable 425.92
 	belt 1468
-	link Rinalyot
+	link Raniyot
 	link Caperut
 	link Dawited
 	asteroids "medium rock" 2 1.3992
@@ -70,67 +70,6 @@ system Absy
 			distance 376
 			period 38.3777
 
-system Ademynda
-	pos -1372.48 -261.762
-	government Derogam
-	habitable 945
-	belt 1783
-	link Necokik
-	link Maebnoom
-	asteroids "large metal" 1 2.226
-	trade Food 391
-	fleet "Small Derogam Civilians" 900
-	fleet "Medium Derogam Civilians" 1350
-	fleet "Large Derogam Civilians" 2700
-	fleet "Small Derogam Armada" 1000
-	fleet "Medium Derogam Armada" 2000
-	fleet "Large Derogam Armada" 4000
-	object
-		sprite star/g5
-		distance 38.9418
-		period 16.0469
-	object
-		sprite star/m0
-		distance 76.0582
-		period 16.0469
-		offset 180
-	object
-		sprite planet/desert7
-		distance 212.948
-		period 40.4348
-	object
-		sprite planet/rock0
-		distance 389.958
-		period 100.201
-	object Rommilous
-		sprite planet/desert9
-		distance 546.198
-		period 166.1
-	object
-		sprite planet/rock9
-		distance 1483.36
-		period 743.384
-		object
-			sprite planet/rhea
-			distance 173
-			period 29.1861
-	object
-		sprite planet/gas2
-		distance 3106.36
-		period 2252.79
-		object
-			sprite planet/ice0
-			distance 198
-			period 16.8816
-		object
-			sprite planet/lava0
-			distance 332
-			period 36.654
-		object
-			sprite planet/rock17
-			distance 488
-			period 65.3197
-
 system Ailpak
 	pos -1151.52 -286.125
 	government Derogam
@@ -138,7 +77,7 @@ system Ailpak
 	belt 1150
 	link Algiad
 	link Urekym
-	link Rinalyot
+	link Raniyot
 	link Seborem
 	link Intariag
 	asteroids "small rock" 1 6.4125
@@ -250,13 +189,181 @@ system Algiad
 			distance 354
 			period 21.9676
 
+system Athzian
+	pos -1372.48 -261.762
+	government Derogam
+	habitable 945
+	belt 1783
+	link Necokik
+	link Merthodrom
+	asteroids "large metal" 1 2.226
+	trade Food 391
+	fleet "Small Derogam Civilians" 900
+	fleet "Medium Derogam Civilians" 1350
+	fleet "Large Derogam Civilians" 2700
+	fleet "Small Derogam Armada" 1000
+	fleet "Medium Derogam Armada" 2000
+	fleet "Large Derogam Armada" 4000
+	object
+		sprite star/g5
+		distance 38.9418
+		period 16.0469
+	object
+		sprite star/m0
+		distance 76.0582
+		period 16.0469
+		offset 180
+	object
+		sprite planet/desert7
+		distance 212.948
+		period 40.4348
+	object
+		sprite planet/rock0
+		distance 389.958
+		period 100.201
+	object Ragrovos
+		sprite planet/desert9
+		distance 546.198
+		period 166.1
+	object
+		sprite planet/rock9
+		distance 1483.36
+		period 743.384
+		object
+			sprite planet/rhea
+			distance 173
+			period 29.1861
+	object
+		sprite planet/gas2
+		distance 3106.36
+		period 2252.79
+		object
+			sprite planet/ice0
+			distance 198
+			period 16.8816
+		object
+			sprite planet/lava0
+			distance 332
+			period 36.654
+		object
+			sprite planet/rock17
+			distance 488
+			period 65.3197
+
+system Banisa
+	pos -980.09 -311.288
+	government Derogam
+	habitable 1313.28
+	belt 1819
+	link Zatacom
+	link Firyen
+	asteroids "small rock" 4 4.5248
+	asteroids "medium rock" 36 5.152
+	asteroids "large rock" 5 2.688
+	asteroids "small metal" 25 3.0016
+	asteroids "large metal" 3 5.1968
+	minables silver 14 6.7049
+	trade Food 341
+	fleet "Small Derogam Civilians" 1200
+	fleet "Medium Derogam Civilians" 1800
+	fleet "Large Derogam Civilians" 3600
+	fleet "Small Derogam Armada" 1300
+	fleet "Medium Derogam Armada" 2600
+	fleet "Large Derogam Armada" 5200
+	object
+		sprite star/g0
+		distance 15.9868
+		period 9.42421
+	object
+		sprite star/m4
+		distance 74.0132
+		period 9.42421
+		offset 180
+	object
+		sprite planet/ganymede
+		distance 206.263
+		period 32.6974
+	object
+		sprite planet/ice1
+		distance 420.473
+		period 95.1675
+	object
+		sprite planet/luna
+		distance 649.033
+		period 182.508
+	object
+		sprite planet/gas16
+		distance 1864.79
+		period 888.848
+		object
+			sprite planet/rock14
+			distance 203
+			period 15.2244
+		object
+			sprite planet/desert4
+			distance 344
+			period 33.5842
+
+system Belsatu
+	pos -1004 -250
+	government Derogam
+	habitable 486.68
+	belt 1039
+	link Ilodemus
+	link Firyen
+	link Niudal
+	link Kitey
+	asteroids "large metal" 1 6.6528
+	trade Food 347
+	fleet "Small Derogam Civilians" 900
+	fleet "Medium Derogam Civilians" 1350
+	fleet "Large Derogam Civilians" 2700
+	fleet "Small Derogam Armada" 900
+	fleet "Medium Derogam Armada" 1800
+	fleet "Large Derogam Armada" 3600
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/dust0
+		distance 155.76
+		period 35.247
+	object
+		sprite planet/lava5
+		distance 303.37
+		period 95.807
+	object
+		sprite planet/forest6
+		distance 549.21
+		period 233.37
+	object
+		sprite planet/ocean1
+		distance 769.65
+		period 387.149
+	object
+		sprite planet/gas5
+		distance 2768.65
+		period 2641.44
+		object
+			sprite planet/dust1
+			distance 277
+			period 15.3309
+		object
+			sprite planet/desert4
+			distance 431
+			period 29.7552
+		object
+			sprite planet/ice7
+			distance 590
+			period 47.6568
+
 system Berius
 	pos -1566.52 -115.125
 	government Derogam
 	habitable 2140.92
 	belt 1982
-	link Ergulia
 	link Moridaos
+	link Xirdat
 	asteroids "small rock" 31 3.256
 	asteroids "medium rock" 2 5.324
 	asteroids "large rock" 22 3.256
@@ -309,113 +416,6 @@ system Berius
 			sprite planet/miranda
 			distance 631
 			period 78.9726
-
-system Betsat
-	pos -1004 -250
-	government Derogam
-	habitable 486.68
-	belt 1039
-	link Ilodemus
-	link Firren
-	link Niudal
-	link Kitey
-	asteroids "large metal" 1 6.6528
-	trade Food 347
-	fleet "Small Derogam Civilians" 900
-	fleet "Medium Derogam Civilians" 1350
-	fleet "Large Derogam Civilians" 2700
-	fleet "Small Derogam Armada" 900
-	fleet "Medium Derogam Armada" 1800
-	fleet "Large Derogam Armada" 3600
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/dust0
-		distance 155.76
-		period 35.247
-	object
-		sprite planet/lava5
-		distance 303.37
-		period 95.807
-	object
-		sprite planet/forest6
-		distance 549.21
-		period 233.37
-	object
-		sprite planet/ocean1
-		distance 769.65
-		period 387.149
-	object
-		sprite planet/gas5
-		distance 2768.65
-		period 2641.44
-		object
-			sprite planet/dust1
-			distance 277
-			period 15.3309
-		object
-			sprite planet/desert4
-			distance 431
-			period 29.7552
-		object
-			sprite planet/ice7
-			distance 590
-			period 47.6568
-
-system Binusa
-	pos -980.09 -311.288
-	government Derogam
-	habitable 1313.28
-	belt 1819
-	link Zatacom
-	link Firren
-	asteroids "small rock" 4 4.5248
-	asteroids "medium rock" 36 5.152
-	asteroids "large rock" 5 2.688
-	asteroids "small metal" 25 3.0016
-	asteroids "large metal" 3 5.1968
-	minables silver 14 6.7049
-	trade Food 341
-	fleet "Small Derogam Civilians" 1200
-	fleet "Medium Derogam Civilians" 1800
-	fleet "Large Derogam Civilians" 3600
-	fleet "Small Derogam Armada" 1300
-	fleet "Medium Derogam Armada" 2600
-	fleet "Large Derogam Armada" 5200
-	object
-		sprite star/g0
-		distance 15.9868
-		period 9.42421
-	object
-		sprite star/m4
-		distance 74.0132
-		period 9.42421
-		offset 180
-	object
-		sprite planet/ganymede
-		distance 206.263
-		period 32.6974
-	object
-		sprite planet/ice1
-		distance 420.473
-		period 95.1675
-	object
-		sprite planet/luna
-		distance 649.033
-		period 182.508
-	object
-		sprite planet/gas16
-		distance 1864.79
-		period 888.848
-		object
-			sprite planet/rock14
-			distance 203
-			period 15.2244
-		object
-			sprite planet/desert4
-			distance 344
-			period 33.5842
 
 system Caperut
 	pos -1283.16 -280.48
@@ -545,8 +545,8 @@ system Cerdin
 	habitable 625
 	belt 1420
 	link Pryos
-	link Xirdat
-	link Ruovedrag
+	link Jagmor
+	link Updrimsor
 	asteroids "small rock" 8 1.74
 	asteroids "medium rock" 10 1.84
 	asteroids "large rock" 37 1.48
@@ -674,10 +674,10 @@ system Cyrad
 	government Derogam
 	habitable 659.2
 	belt 1583
-	link Liekaaz
-	link Xirdat
+	link Lirkarkotrak
 	link Lastian
 	link Pryos
+	link Jagmor
 	asteroids "small rock" 2 3.1464
 	asteroids "large rock" 5 4.4118
 	asteroids "small metal" 23 4.959
@@ -852,7 +852,7 @@ system Dawited
 	belt 1778
 	link Tannyr
 	link Absy
-	link Ruovedrag
+	link Updrimsor
 	asteroids "small rock" 3 4.5684
 	asteroids "medium rock" 22 3.8556
 	asteroids "large rock" 27 1.9116
@@ -955,7 +955,7 @@ system Donista
 	government Derogam
 	habitable 1948.28
 	belt 1476
-	link Jatronal
+	link Jutronal
 	link Casteladi
 	link Ipladumin
 	asteroids "small rock" 86 7.3728
@@ -1182,59 +1182,6 @@ system Epafis
 			distance 687
 			period 50.833
 
-system Ergulia
-	pos -1501.52 -142.125
-	government Derogam
-	habitable 719.96
-	belt 1180
-	link Lastian
-	link Berius
-	link Moridaos
-	link Liekaaz
-	asteroids "small rock" 3 5.4656
-	asteroids "medium rock" 108 4.7936
-	asteroids "large rock" 1 5.8688
-	asteroids "small metal" 1 4.8384
-	asteroids "medium metal" 47 4.6592
-	asteroids "large metal" 36 5.7792
-	minables titanium 7 7.22935
-	trade Food 272
-	fleet "Small Derogam Civilians" 1000
-	fleet "Medium Derogam Civilians" 1500
-	fleet "Large Derogam Civilians" 3000
-	fleet "Small Derogam Armada" 1000
-	fleet "Medium Derogam Armada" 2000
-	fleet "Large Derogam Armada" 4000
-	object
-		sprite star/k0
-		distance 36.29
-		period 17.6698
-	object
-		sprite star/m4
-		distance 75.71
-		period 17.6698
-		offset 180
-	object
-		sprite planet/rock6
-		distance 264.95
-		period 64.2912
-	object
-		sprite planet/ocean6
-		distance 681.39
-		period 265.155
-	object
-		sprite planet/rock9
-		distance 1034.23
-		period 495.829
-		object
-			sprite planet/rock7
-			distance 162
-			period 26.4472
-	object
-		sprite planet/jupiter
-		distance 2491.23
-		period 1853.64
-
 system Espordan
 	pos -1016.09 -456.288
 	government Derogam
@@ -1359,13 +1306,13 @@ system Feriosan
 			distance 637
 			period 84.6265
 
-system Firren
+system Firyen
 	pos -928.069 -280.539
 	government Derogam
 	habitable 806.68
 	belt 1127
-	link Betsat
-	link Binusa
+	link Belsatu
+	link Banisa
 	link Ilodemus
 	asteroids "small rock" 1 6.72
 	asteroids "medium rock" 76 6.1824
@@ -1477,7 +1424,7 @@ system Ganoling
 	government Derogam
 	habitable 625
 	belt 1497
-	link Vras
+	link Vlast
 	link Omods
 	link Moridaos
 	link Ridena
@@ -1545,7 +1492,7 @@ system Godemari
 	government Derogam
 	habitable 486.68
 	belt 1428
-	link Vras
+	link Vlast
 	link Ganoling
 	asteroids "small rock" 6 2.3184
 	asteroids "large rock" 3 2.484
@@ -1705,7 +1652,7 @@ system Huriniac
 	habitable 425.92
 	belt 1629
 	link Zatacom
-	link Skaldir
+	link Saldir
 	link Kitey
 	asteroids "small rock" 8 2.135
 	asteroids "medium rock" 16 4.55
@@ -1765,9 +1712,9 @@ system Ilodemus
 	habitable 425.92
 	belt 1392
 	link Ventister
-	link Betsat
+	link Belsatu
 	link Welrin
-	link Firren
+	link Firyen
 	asteroids "small rock" 3 3.7468
 	asteroids "medium rock" 4 2.8101
 	asteroids "large rock" 1 7.1079
@@ -2040,6 +1987,60 @@ system Ipladumin
 			distance 658
 			period 59.53
 
+system Jagmor
+	pos -1430.52 -278.125
+	government Derogam
+	habitable 719.96
+	belt 1180
+	link Tannyr
+	link Merthodrom
+	link Cyrad
+	link Cerdin
+	link Updrimsor
+	asteroids "small rock" 3 5.4656
+	asteroids "medium rock" 108 4.7936
+	asteroids "large rock" 1 5.8688
+	asteroids "small metal" 1 4.8384
+	asteroids "medium metal" 47 4.6592
+	asteroids "large metal" 36 5.7792
+	minables titanium 7 7.22935
+	trade Food 399
+	fleet "Small Derogam Civilians" 900
+	fleet "Medium Derogam Civilians" 1350
+	fleet "Large Derogam Civilians" 2700
+	fleet "Small Derogam Armada" 900
+	fleet "Medium Derogam Armada" 1800
+	fleet "Large Derogam Armada" 3600
+	object
+		sprite star/k0
+		distance 36.29
+		period 17.6698
+	object
+		sprite star/m4
+		distance 75.71
+		period 17.6698
+		offset 180
+	object
+		sprite planet/rock6
+		distance 264.95
+		period 64.2912
+	object
+		sprite planet/ocean6
+		distance 681.39
+		period 265.155
+	object
+		sprite planet/rock9
+		distance 1034.23
+		period 495.829
+		object
+			sprite planet/rock7
+			distance 162
+			period 26.4472
+	object
+		sprite planet/jupiter
+		distance 2491.23
+		period 1853.64
+
 system Jaleus
 	pos -1024.05 119.394
 	government Derogam
@@ -2084,7 +2085,7 @@ system Jaleus
 		distance 2049.51
 		period 1682.34
 
-system Jatronal
+system Jutronal
 	pos -1011.16 -79.48
 	government Derogam
 	habitable 625
@@ -2194,7 +2195,7 @@ system Kitey
 	government Derogam
 	habitable 1715
 	belt 1868
-	link Betsat
+	link Belsatu
 	link Zatacom
 	link Huriniac
 	asteroids "medium rock" 2 1.4756
@@ -2243,7 +2244,7 @@ system Kitey
 			distance 221
 			period 13.3797
 
-system Krehs
+system Krehes
 	pos -1083.08 -48.171
 	government Derogam
 	habitable 2140.92
@@ -2284,7 +2285,7 @@ system Krehs
 		sprite planet/gas5
 		distance 804.379
 		period 197.22
-	object Sprawm
+	object Sparwom
 		sprite planet/venus
 		distance 1480.56
 		period 492.493
@@ -2423,10 +2424,10 @@ system Lastian
 	government Derogam
 	habitable 320
 	belt 1790
-	link Ergulia
-	link Uster
 	link Pryos
 	link Cyrad
+	link Xirdat
+	link Ruvandeg
 	asteroids "large metal" 1 4.68
 	trade Food 319
 	fleet "Small Derogam Civilians" 1000
@@ -2467,15 +2468,15 @@ system Lastian
 			distance 338
 			period 25.3066
 
-system Liekaaz
+system Lirkarkotrak
 	pos -1441.63 -181.038
 	government Derogam
 	habitable 806.68
 	belt 1391
-	link Maebnoom
+	link Merthodrom
 	link Omods
-	link Ergulia
 	link Cyrad
+	link Xirdat
 	asteroids "medium metal" 2 1.9206
 	asteroids "large metal" 1 2.9106
 	trade Food 292
@@ -2498,7 +2499,7 @@ system Liekaaz
 		sprite planet/desert3
 		distance 276.918
 		period 64.8987
-	object Bufuladia
+	object Glint
 		sprite planet/earth
 		distance 540.899
 		period 177.167
@@ -2580,46 +2581,6 @@ system Litiya
 			distance 411
 			period 43.8591
 
-system Maebnoom
-	pos -1385.16 -205.48
-	government Derogam
-	habitable 1080
-	belt 1830
-	link Ademynda
-	link Xirdat
-	link Liekaaz
-	asteroids "large metal" 1 6.4125
-	trade Food 350
-	fleet "Small Derogam Civilians" 900
-	fleet "Medium Derogam Civilians" 1350
-	fleet "Large Derogam Civilians" 2700
-	fleet "Small Derogam Armada" 900
-	fleet "Medium Derogam Armada" 1800
-	fleet "Large Derogam Armada" 3600
-	object
-		sprite star/g0
-		period 10
-	object
-		sprite planet/cloud0
-		distance 205
-		period 35.7255
-	object Kibeam
-		sprite planet/cloud1
-		distance 794.967
-		period 272.817
-	object
-		sprite planet/gas13
-		distance 1880.86
-		period 992.85
-		object
-			sprite planet/rock0
-			distance 293
-			period 14.1583
-		object
-			sprite planet/miranda
-			distance 432
-			period 25.3475
-
 system Merishar
 	pos -1083.16 -168.48
 	government Derogam
@@ -2680,6 +2641,46 @@ system Merishar
 		distance 2495.02
 		period 1638.27
 		offset 264.502
+
+system Merthodrom
+	pos -1385.16 -205.48
+	government Derogam
+	habitable 1080
+	belt 1830
+	link Athzian
+	link Lirkarkotrak
+	link Jagmor
+	asteroids "large metal" 1 6.4125
+	trade Food 350
+	fleet "Small Derogam Civilians" 900
+	fleet "Medium Derogam Civilians" 1350
+	fleet "Large Derogam Civilians" 2700
+	fleet "Small Derogam Armada" 900
+	fleet "Medium Derogam Armada" 1800
+	fleet "Large Derogam Armada" 3600
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/cloud0
+		distance 205
+		period 35.7255
+	object Krilnam
+		sprite planet/cloud1
+		distance 794.967
+		period 272.817
+	object
+		sprite planet/gas13
+		distance 1880.86
+		period 992.85
+		object
+			sprite planet/rock0
+			distance 293
+			period 14.1583
+		object
+			sprite planet/miranda
+			distance 432
+			period 25.3475
 
 system Merzok
 	pos -1168.08 -137.171
@@ -2742,8 +2743,8 @@ system Moridaos
 	belt 1304
 	link Ridena
 	link Berius
-	link Ergulia
 	link Ganoling
+	link Xirdat
 	asteroids "small rock" 1 2.2512
 	asteroids "medium rock" 8 2.1504
 	asteroids "large rock" 2 1.932
@@ -2867,7 +2868,7 @@ system Necokik
 	habitable 625
 	belt 1927
 	link Caperut
-	link Ademynda
+	link Athzian
 	asteroids "medium rock" 215 1.204
 	asteroids "large rock" 43 0.98
 	asteroids "small metal" 5 1.806
@@ -2893,7 +2894,7 @@ system Necokik
 			sprite planet/dust1
 			distance 142
 			period 16.1817
-	object Moonko
+	object Moranok
 		sprite planet/lava0
 		distance 578
 		period 222.337
@@ -2989,7 +2990,7 @@ system Niudal
 	habitable 1250
 	belt 1765
 	link Epafis
-	link Betsat
+	link Belsatu
 	link Algiad
 	link Urekym
 	asteroids "small rock" 39 1.9872
@@ -3047,7 +3048,7 @@ system Omods
 	habitable 320
 	belt 1731
 	link Ganoling
-	link Liekaaz
+	link Lirkarkotrak
 	asteroids "medium rock" 2 3.8592
 	asteroids "large rock" 1 2.304
 	asteroids "large metal" 4 1.44
@@ -3092,9 +3093,9 @@ system Orita
 	government Derogam
 	habitable 851.84
 	belt 1219
-	link Skaldir
+	link Saldir
 	link Yremila
-	link Zehan
+	link Zelhan
 	asteroids "small rock" 5 1.833
 	asteroids "medium rock" 2 1.066
 	asteroids "large rock" 11 1.807
@@ -3147,7 +3148,7 @@ system Pachromg
 	belt 1356
 	link Sorhuxa
 	link Feriosan
-	link Krehs
+	link Krehes
 	link Merzok
 	asteroids "small rock" 81 5.25
 	asteroids "medium rock" 7 2.94
@@ -3333,7 +3334,7 @@ system Qilan
 	government Derogam
 	habitable 1566.68
 	belt 1324
-	link Krehs
+	link Krehes
 	link Trinue
 	link Dublion
 	link Solestus
@@ -3391,6 +3392,64 @@ system Qilan
 			distance 414
 			period 24.6864
 
+system Raniyot
+	pos -1216.31 -340.074
+	government Derogam
+	habitable 851.84
+	belt 1459
+	link Absy
+	link Zelhan
+	link Terowed
+	link Yremila
+	link Ailpak
+	asteroids "medium rock" 6 3.381
+	asteroids "large rock" 8 4.0572
+	asteroids "large metal" 5 2.5116
+	trade Food 556
+	fleet "Small Derogam Civilians" 600
+	fleet "Medium Derogam Civilians" 900
+	fleet "Large Derogam Civilians" 1800
+	fleet "Small Derogam Armada" 600
+	fleet "Medium Derogam Armada" 1200
+	fleet "Large Derogam Armada" 2400
+	object
+		sprite star/k5
+		distance 44.5
+		period 11.5071
+		offset 180
+	object
+		sprite star/k5
+		distance 44.5
+		period 11.5071
+	object
+		sprite planet/mars
+		distance 286.51
+		period 66.4646
+	object Unalag
+		sprite planet/rock19
+		distance 514.15
+		period 159.778
+	object Jafuron
+		sprite planet/rock5
+		distance 700.56
+		period 254.126
+	object
+		sprite planet/gas8
+		distance 989.8
+		period 426.778
+	object
+		sprite planet/gas9
+		distance 1733.97
+		period 989.56
+		object
+			sprite planet/rock0
+			distance 225
+			period 12.6551
+		object
+			sprite planet/dust0
+			distance 361
+			period 25.7188
+
 system Ridena
 	pos -1542.07 -23.399
 	government Derogam
@@ -3438,64 +3497,6 @@ system Ridena
 		sprite planet/gas1
 		distance 1878.62
 		period 1578.17
-
-system Rinalyot
-	pos -1216.31 -340.074
-	government Derogam
-	habitable 851.84
-	belt 1459
-	link Absy
-	link Zehan
-	link Terowed
-	link Yremila
-	link Ailpak
-	asteroids "medium rock" 6 3.381
-	asteroids "large rock" 8 4.0572
-	asteroids "large metal" 5 2.5116
-	trade Food 556
-	fleet "Small Derogam Civilians" 600
-	fleet "Medium Derogam Civilians" 900
-	fleet "Large Derogam Civilians" 1800
-	fleet "Small Derogam Armada" 600
-	fleet "Medium Derogam Armada" 1200
-	fleet "Large Derogam Armada" 2400
-	object
-		sprite star/k5
-		distance 44.5
-		period 11.5071
-		offset 180
-	object
-		sprite star/k5
-		distance 44.5
-		period 11.5071
-	object
-		sprite planet/mars
-		distance 286.51
-		period 66.4646
-	object Unalag
-		sprite planet/rock19
-		distance 514.15
-		period 159.778
-	object Jefuryn
-		sprite planet/rock5
-		distance 700.56
-		period 254.126
-	object
-		sprite planet/gas8
-		distance 989.8
-		period 426.778
-	object
-		sprite planet/gas9
-		distance 1733.97
-		period 989.56
-		object
-			sprite planet/rock0
-			distance 225
-			period 12.6551
-		object
-			sprite planet/dust0
-			distance 361
-			period 25.7188
 
 system Rintha
 	pos -1018.08 20.829
@@ -3599,29 +3600,28 @@ system Robezin
 			distance 183
 			period 13.0309
 
-system Ruovedrag
-	pos -1430.52 -338.762
+system Ruvandeg
+	pos -1574.52 -180.762
 	government Derogam
 	habitable 425.92
 	belt 1860
-	link Dawited
-	link Cerdin
-	link Xirdat
+	link Lastian
 	asteroids "small rock" 13 2.9568
 	asteroids "medium rock" 12 3.0464
 	asteroids "large rock" 23 2.1952
 	asteroids "small metal" 9 2.8896
 	asteroids "medium metal" 14 1.7472
 	asteroids "large metal" 2 3.2704
-	minables iron 13 2.88489
-	minables tungsten 1 3.33237
-	trade Food 445
-	fleet "Small Derogam Civilians" 1100
-	fleet "Medium Derogam Civilians" 1650
-	fleet "Large Derogam Civilians" 3300
-	fleet "Small Derogam Armada" 1200
-	fleet "Medium Derogam Armada" 2400
-	fleet "Large Derogam Armada" 4800
+	minables iron 37 5.18236
+	minables lead 22 5.49203
+	minables uranium 18 5.62385
+	trade Food 284
+	fleet "Small Derogam Civilians" 4000
+	fleet "Medium Derogam Civilians" 6000
+	fleet "Large Derogam Civilians" 12000
+	fleet "Small Derogam Armada" 6000
+	fleet "Medium Derogam Armada" 12000
+	fleet "Large Derogam Armada" 24000
 	object
 		sprite star/k5
 		period 10
@@ -3657,6 +3657,59 @@ system Ruovedrag
 			sprite planet/dust0
 			distance 497
 			period 36.5437
+
+system Saldir
+	pos -1071 -407
+	government Derogam
+	habitable 1080
+	belt 1282
+	link Huriniac
+	link Orita
+	asteroids "small rock" 1 4.437
+	asteroids "medium rock" 119 2.652
+	asteroids "large rock" 54 5.457
+	asteroids "small metal" 4 3.417
+	asteroids "medium metal" 4 6.732
+	asteroids "large metal" 1 5.508
+	minables copper 39 5.80644
+	trade Food 440
+	fleet "Small Derogam Civilians" 1300
+	fleet "Medium Derogam Civilians" 1950
+	fleet "Large Derogam Civilians" 3900
+	fleet "Small Derogam Armada" 1300
+	fleet "Medium Derogam Armada" 2600
+	fleet "Large Derogam Armada" 5200
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/cloud2
+		distance 324.16
+		period 71.0374
+		object
+			sprite planet/rhea
+			distance 180
+			period 19.4259
+	object
+		sprite planet/desert9
+		distance 668.45
+		period 210.354
+	object
+		sprite planet/cloud0
+		distance 1053.66
+		period 416.293
+	object
+		sprite planet/gas16
+		distance 1769.3
+		period 905.838
+		object
+			sprite planet/dust1
+			distance 234
+			period 18.8417
+		object
+			sprite planet/ice7
+			distance 341
+			period 33.1458
 
 system Seborem
 	pos -1153.52 -212.125
@@ -3713,59 +3766,6 @@ system Seborem
 		sprite planet/gas16
 		distance 2253.45
 		period 1546.11
-
-system Skaldir
-	pos -1071 -407
-	government Derogam
-	habitable 1080
-	belt 1282
-	link Huriniac
-	link Orita
-	asteroids "small rock" 1 4.437
-	asteroids "medium rock" 119 2.652
-	asteroids "large rock" 54 5.457
-	asteroids "small metal" 4 3.417
-	asteroids "medium metal" 4 6.732
-	asteroids "large metal" 1 5.508
-	minables copper 39 5.80644
-	trade Food 440
-	fleet "Small Derogam Civilians" 1300
-	fleet "Medium Derogam Civilians" 1950
-	fleet "Large Derogam Civilians" 3900
-	fleet "Small Derogam Armada" 1300
-	fleet "Medium Derogam Armada" 2600
-	fleet "Large Derogam Armada" 5200
-	object
-		sprite star/g0
-		period 10
-	object
-		sprite planet/cloud2
-		distance 324.16
-		period 71.0374
-		object
-			sprite planet/rhea
-			distance 180
-			period 19.4259
-	object
-		sprite planet/desert9
-		distance 668.45
-		period 210.354
-	object
-		sprite planet/cloud0
-		distance 1053.66
-		period 416.293
-	object
-		sprite planet/gas16
-		distance 1769.3
-		period 905.838
-		object
-			sprite planet/dust1
-			distance 234
-			period 18.8417
-		object
-			sprite planet/ice7
-			distance 341
-			period 33.1458
 
 system Solestus
 	pos -1039.05 68.394
@@ -3839,8 +3839,8 @@ system Sorhuxa
 	habitable 719.96
 	belt 1878
 	link Pachromg
-	link Krehs
-	link Jatronal
+	link Krehes
+	link Jutronal
 	link Merishar
 	asteroids "small rock" 13 2.7612
 	asteroids "medium rock" 1 1.8018
@@ -3902,7 +3902,7 @@ system Tannyr
 	belt 1589
 	link Dawited
 	link Caperut
-	link Xirdat
+	link Jagmor
 	asteroids "small rock" 48 3.312
 	asteroids "medium rock" 86 2.16
 	asteroids "large rock" 7 1.944
@@ -4022,7 +4022,7 @@ system Terowed
 	government Derogam
 	habitable 486.68
 	belt 1831
-	link Rinalyot
+	link Raniyot
 	asteroids "small rock" 3 2.0292
 	asteroids "medium rock" 3 2.28
 	asteroids "large rock" 7 1.71
@@ -4204,7 +4204,7 @@ system Ukamaruk
 	government Derogam
 	habitable 486.68
 	belt 1671
-	link Vras
+	link Vlast
 	asteroids "medium metal" 1 3.51
 	asteroids "large metal" 1 4.9491
 	minables aluminum 16 3.65826
@@ -4257,6 +4257,55 @@ system Ukamaruk
 			distance 650
 			period 58.9523
 
+system Updrimsor
+	pos -1427.52 -339.125
+	government Derogam
+	habitable 425.92
+	belt 1225
+	link Jagmor
+	link Cerdin
+	link Dawited
+	asteroids "small rock" 3 7.9968
+	asteroids "medium rock" 5 8.3496
+	asteroids "large rock" 3 5.2332
+	asteroids "large metal" 1 7.35
+	minables iron 13 2.88489
+	minables tungsten 1 3.33237
+	trade Food 445
+	fleet "Small Derogam Civilians" 1100
+	fleet "Medium Derogam Civilians" 1650
+	fleet "Large Derogam Civilians" 3300
+	fleet "Small Derogam Armada" 1200
+	fleet "Medium Derogam Armada" 2400
+	fleet "Large Derogam Armada" 4800
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/desert6
+		distance 222.61
+		period 64.3744
+	object
+		sprite planet/rock3
+		distance 397.17
+		period 153.412
+	object
+		sprite planet/gas0
+		distance 889.73
+		period 514.379
+		object
+			sprite planet/ice0
+			distance 288
+			period 14.3234
+		object
+			sprite planet/oberon
+			distance 366
+			period 20.52
+	object
+		sprite planet/jupiter
+		distance 2262.57
+		period 2085.93
+
 system Urekym
 	pos -1117.31 -321.074
 	government Derogam
@@ -4303,54 +4352,6 @@ system Urekym
 		distance 2323.65
 		period 1792.16
 		offset 59.1992
-
-system Uster
-	pos -1563.52 -170.125
-	government Derogam
-	habitable 425.92
-	belt 1225
-	link Lastian
-	asteroids "small rock" 3 7.9968
-	asteroids "medium rock" 5 8.3496
-	asteroids "large rock" 3 5.2332
-	asteroids "large metal" 1 7.35
-	minables iron 37 5.18236
-	minables lead 22 5.49203
-	minables uranium 18 5.62385
-	trade Food 284
-	fleet "Small Derogam Civilians" 4000
-	fleet "Medium Derogam Civilians" 6000
-	fleet "Large Derogam Civilians" 12000
-	fleet "Small Derogam Armada" 6000
-	fleet "Medium Derogam Armada" 12000
-	fleet "Large Derogam Armada" 24000
-	object
-		sprite star/k5
-		period 10
-	object
-		sprite planet/desert6
-		distance 222.61
-		period 64.3744
-	object
-		sprite planet/rock3
-		distance 397.17
-		period 153.412
-	object
-		sprite planet/gas0
-		distance 889.73
-		period 514.379
-		object
-			sprite planet/ice0
-			distance 288
-			period 14.3234
-		object
-			sprite planet/oberon
-			distance 366
-			period 20.52
-	object
-		sprite planet/jupiter
-		distance 2262.57
-		period 2085.93
 
 system Ventister
 	pos -912.308 -171.236
@@ -4471,6 +4472,76 @@ system Virino
 			distance 340
 			period 23.5076
 
+system Vlast
+	pos -1476.52 10.875
+	government Derogam
+	habitable 858.28
+	belt 1611
+	link Ganoling
+	link Ukamaruk
+	link Godemari
+	asteroids "small rock" 6 3.6344
+	asteroids "large rock" 2 2.618
+	asteroids "small metal" 1 4.3428
+	asteroids "medium metal" 1 2.0328
+	asteroids "large metal" 45 4.1888
+	trade Food 209
+	fleet "Small Derogam Civilians" 1500
+	fleet "Medium Derogam Civilians" 2250
+	fleet "Large Derogam Civilians" 4500
+	fleet "Small Derogam Armada" 1800
+	fleet "Medium Derogam Armada" 3600
+	fleet "Large Derogam Armada" 7200
+	object
+		sprite star/g5
+		distance 24.4619
+		period 11.6576
+		offset 180
+	object
+		sprite star/m4
+		distance 65.5381
+		period 11.6576
+	object
+		sprite planet/desert9
+		distance 213.228
+		period 42.512
+	object
+		sprite planet/rock4
+		distance 672.788
+		period 238.266
+		object
+			sprite planet/oberon
+			distance 136
+			period 14.439
+	object
+		sprite planet/gas17
+		distance 1416.88
+		period 728.189
+		object
+			sprite planet/rock0
+			distance 226
+			period 14.5156
+		object
+			sprite planet/rock14
+			distance 378
+			period 31.3987
+	object
+		sprite planet/gas5
+		distance 3020.72
+		period 2266.79
+		object
+			sprite planet/callisto
+			distance 252
+			period 13.303
+		object
+			sprite planet/europa
+			distance 386
+			period 25.219
+		object
+			sprite planet/lava0
+			distance 562
+			period 44.3049
+
 system Vocanis
 	pos -1256.16 -212.48
 	government Derogam
@@ -4578,83 +4649,13 @@ system Vranio
 			distance 195
 			period 16.4993
 
-system Vras
-	pos -1476.52 10.875
-	government Derogam
-	habitable 858.28
-	belt 1611
-	link Ganoling
-	link Ukamaruk
-	link Godemari
-	asteroids "small rock" 6 3.6344
-	asteroids "large rock" 2 2.618
-	asteroids "small metal" 1 4.3428
-	asteroids "medium metal" 1 2.0328
-	asteroids "large metal" 45 4.1888
-	trade Food 209
-	fleet "Small Derogam Civilians" 1500
-	fleet "Medium Derogam Civilians" 2250
-	fleet "Large Derogam Civilians" 4500
-	fleet "Small Derogam Armada" 1800
-	fleet "Medium Derogam Armada" 3600
-	fleet "Large Derogam Armada" 7200
-	object
-		sprite star/g5
-		distance 24.4619
-		period 11.6576
-		offset 180
-	object
-		sprite star/m4
-		distance 65.5381
-		period 11.6576
-	object
-		sprite planet/desert9
-		distance 213.228
-		period 42.512
-	object
-		sprite planet/rock4
-		distance 672.788
-		period 238.266
-		object
-			sprite planet/oberon
-			distance 136
-			period 14.439
-	object
-		sprite planet/gas17
-		distance 1416.88
-		period 728.189
-		object
-			sprite planet/rock0
-			distance 226
-			period 14.5156
-		object
-			sprite planet/rock14
-			distance 378
-			period 31.3987
-	object
-		sprite planet/gas5
-		distance 3020.72
-		period 2266.79
-		object
-			sprite planet/callisto
-			distance 252
-			period 13.303
-		object
-			sprite planet/europa
-			distance 386
-			period 25.219
-		object
-			sprite planet/lava0
-			distance 562
-			period 44.3049
-
 system Wekenti
 	pos -1031.08 -29.171
 	government Derogam
 	habitable 425.92
 	belt 1224
-	link Jatronal
-	link Krehs
+	link Jutronal
+	link Krehes
 	link Rintha
 	link Godocal
 	asteroids "small rock" 76 3.0096
@@ -4768,15 +4769,14 @@ system Welrin
 		period 60494.6
 
 system Xirdat
-	pos -1433.52 -280.125
+	pos -1501.52 -144.125
 	government Derogam
 	habitable 1400
 	belt 1500
-	link Cerdin
-	link Tannyr
-	link Maebnoom
-	link Cyrad
-	link Ruovedrag
+	link Lirkarkotrak
+	link Lastian
+	link Moridaos
+	link Berius
 	asteroids "small rock" 32 5.1765
 	asteroids "medium rock" 112 3.1059
 	asteroids "large rock" 6 5.1765
@@ -4784,13 +4784,13 @@ system Xirdat
 	asteroids "medium metal" 14 4.437
 	asteroids "large metal" 1 4.2398
 	minables iron 25 5.21799
-	trade Food 399
-	fleet "Small Derogam Civilians" 900
-	fleet "Medium Derogam Civilians" 1350
-	fleet "Large Derogam Civilians" 2700
-	fleet "Small Derogam Armada" 900
-	fleet "Medium Derogam Armada" 1800
-	fleet "Large Derogam Armada" 3600
+	trade Food 272
+	fleet "Small Derogam Civilians" 1000
+	fleet "Medium Derogam Civilians" 1500
+	fleet "Large Derogam Civilians" 3000
+	fleet "Small Derogam Armada" 1000
+	fleet "Medium Derogam Armada" 2000
+	fleet "Large Derogam Armada" 4000
 	object
 		sprite star/g0
 		distance 23.0857
@@ -4850,7 +4850,7 @@ system Yremila
 	belt 1963
 	link Orita
 	link Urekym
-	link Rinalyot
+	link Raniyot
 	asteroids "medium rock" 12 2.976
 	asteroids "large rock" 2 3.504
 	asteroids "medium metal" 10 3.24
@@ -4903,7 +4903,7 @@ system Zatacom
 	belt 1982
 	link Huriniac
 	link Espordan
-	link Binusa
+	link Banisa
 	link Kitey
 	asteroids "small rock" 10 2.3868
 	asteroids "medium rock" 13 2.9952
@@ -4945,12 +4945,12 @@ system Zatacom
 			distance 217
 			period 13.6572
 
-system Zehan
+system Zelhan
 	pos -1214.31 -395.074
 	government Derogam
 	habitable 1715
 	belt 1086
-	link Rinalyot
+	link Raniyot
 	link Orita
 	asteroids "medium rock" 2 2.523
 	asteroids "large rock" 1 2.61
@@ -5006,14 +5006,6 @@ planet Anryc
 	outfitter "Derogam Base Large"
 	security 0.95
 
-planet Bufuladia
-	landscape land/snow1
-	description TBD
-	spaceport Spaceport
-	shipyard "Derogam Military Large"
-	outfitter "Derogam Base Medium"
-	security 0.7
-
 planet Cabaty
 	landscape land/mountain19-harro
 	description TBD
@@ -5052,6 +5044,14 @@ planet Entansion
 	outfitter "Derogam Base Large"
 	security 0.75
 
+planet Glint
+	landscape land/snow1
+	description TBD
+	spaceport Spaceport
+	shipyard "Derogam Military Large"
+	outfitter "Derogam Base Medium"
+	security 0.7
+
 planet Gondaw
 	landscape land/sky3
 	description TBD
@@ -5063,7 +5063,7 @@ planet Icrago
 	description TBD
 	spaceport Spaceport
 
-planet Jefuryn
+planet Jafuron
 	landscape land/fields6
 	description TBD
 	spaceport Spaceport
@@ -5071,7 +5071,7 @@ planet Jefuryn
 	outfitter "Derogam Base Large"
 	security 0.9
 
-planet Kibeam
+planet Krilnam
 	landscape land/sky7
 	description TBD
 	spaceport Spaceport
@@ -5099,7 +5099,7 @@ planet Meneptor
 	spaceport Spaceport
 	security 0.3
 
-planet Moonko
+planet Moranok
 	landscape land/fields1
 	description TBD
 	spaceport Spaceport
@@ -5128,7 +5128,7 @@ planet Oneiros
 	outfitter "Derogam Base Medium"
 	security 0.6
 
-planet Rommilous
+planet Ragrovos
 	landscape land/sky9
 	description TBD
 	spaceport Spaceport
@@ -5137,18 +5137,18 @@ planet Rommilous
 	outfitter "Derogam Base Medium"
 	security 0.6
 
+planet Sparwom
+	landscape land/canyon03
+	description TBD
+	spaceport Spaceport
+	security 0.3
+
 planet Spilark
 	landscape land/tbd
 	description TBD
 	spaceport Spaceport
 	outfitter "Derogam Base Small"
 	security 0.4
-
-planet Sprawm
-	landscape land/canyon03
-	description TBD
-	spaceport Spaceport
-	security 0.3
 
 planet Stegon
 	landscape land/canyon0
