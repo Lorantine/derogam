@@ -148,6 +148,7 @@ outfit "Healing Core Size 4"
 	"hull repair rate" .59
 	"hull energy" .73
 	"hull heat" .98
+	description `TBD`
 
 
 
