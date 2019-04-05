@@ -94,7 +94,7 @@ outfit "Healing Core Size 1"
 	plural "Healing Cores Size 1"
 	category "Systems"
 	cost 427000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/healing core size 1"
 	"mass" 9
 	"outfit space" -9
 	"shield generation" .51
@@ -109,7 +109,7 @@ outfit "Healing Core Size 2"
 	plural "Healing Cores Size 2"
 	category "Systems"
 	cost 1197000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/healing core size 2"
 	"mass" 22
 	"outfit space" -22
 	"shield generation" 1.37
@@ -124,7 +124,7 @@ outfit "Healing Core Size 3"
 	plural "Healing Cores Size 3"
 	category "Systems"
 	cost 2991000
-	thumbnail "outfit/unknown"
+	thumbnail "outfit/healing core size 3"
 	"mass" 47
 	"outfit space" -47
 	"shield generation" 3.28
