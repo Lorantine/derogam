@@ -240,23 +240,23 @@ ship "Derogam Guardian"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -149 180 .7
-	engine -80 203 .7
-	engine 0 197 1.2
-	engine 80 203 .7
-	engine 149 180 .7
-	gun -15 -212 "Thunderhead Launcher"
-	gun 15 -212 "Thunderhead Launcher"
-	gun -23.5 -201.5
-	gun 23.5 -201.5
-	turret -80 -34.5 "Bombardment Turret"
-	turret 80 -34.5 "Bombardment Turret"
-	turret -148.5 6 "Bombardment Turret"
-	turret 148.5 6 "Bombardment Turret"
-	turret -148.5 114 "Bombardment Turret"
-	turret 148.5 114 "Bombardment Turret"
-	turret -80 154.5 "Bombardment Turret"
-	turret 80 154.5 "Bombardment Turret"
+	engine -137.5 169.375 .625
+	engine -75 219.375 .625
+	engine 0 200 1.25
+	engine 75 219.375 .625
+	engine 137.5 169.375 .625
+	gun -26.25 -207.5 "Thunderhead Launcher"
+	gun 26.25 -207.5 "Thunderhead Launcher"
+	gun -33.75 -200
+	gun 33.75 -200
+	turret -75 -50 "Bombardment Turret"
+	turret 75 -50 "Bombardment Turret"
+	turret -137.5 0 "Bombardment Turret"
+	turret 137.5 0 "Bombardment Turret"
+	turret -137.5 75 "Bombardment Turret"
+	turret 137.5 75 "Bombardment Turret"
+	turret -75 125 "Bombardment Turret"
+	turret 75 125 "Bombardment Turret"
 	explode "tiny explosion" 90
 	explode "small explosion" 100
 	explode "medium explosion" 80
