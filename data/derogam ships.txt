@@ -174,12 +174,12 @@ ship "Derogam Warrior"
 	engine 0 169.375 .925
 	engine 80 169.375 .775
 	engine 150 194.375 .625
-	gun -65 -174.5 "Thunderhead Launcher"
-	gun 65 -174.5 "Thunderhead Launcher"
-	gun -72.5 -174.5
-	gun 72.5 -174.5
-	gun -80 -167.5 "Thunderhead Launcher"
-	gun 80 -167.5 "Thunderhead Launcher"
+	gun -65 -192.5 "Thunderhead Launcher"
+	gun 65 -192.5 "Thunderhead Launcher"
+	gun -72.5 -192.5
+	gun 72.5 -192.5
+	gun -80 -192.5 "Thunderhead Launcher"
+	gun 80 -192.5 "Thunderhead Launcher"
 	gun -25 -53.75
 	gun 25 -53.75
 	turret -80 -62.5 "Bombardment Turret"
