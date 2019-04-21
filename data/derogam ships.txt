@@ -169,25 +169,25 @@ ship "Derogam Warrior"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -135 167 .54
-	engine -67.5 135.5 1.08
-	engine 0 116 .9
-	engine 67.5 135.5 1.08
-	engine 135 167 .54
-	gun -54 -174.5
-	gun 54 -174.5
-	gun -81 -174.5
-	gun 81 -174.5
-	gun -47 -167.5 "Thunderhead Launcher"
-	gun 47 -167.5 "Thunderhead Launcher"
-	gun -88 -167.5 "Thunderhead Launcher"
-	gun 88 -167.5 "Thunderhead Launcher"
-	turret -67.5 -146 "Bombardment Turret"
-	turret 67.5 -146 "Bombardment Turret"
-	turret -67.5 -112.5 "Bombardment Turret"
-	turret 67.5 -112.5 "Bombardment Turret"
-	turret -67.5 -79 "Bombardment Turret"
-	turret 67.5 -79 "Bombardment Turret"
+	engine -150 194.375 .625
+	engine -80 169.375 .775
+	engine 0 169.375 .925
+	engine 80 169.375 .775
+	engine 150 194.375 .625
+	gun -65 -174.5 "Thunderhead Launcher"
+	gun 65 -174.5 "Thunderhead Launcher"
+	gun -72.5 -174.5
+	gun 72.5 -174.5
+	gun -80 -167.5 "Thunderhead Launcher"
+	gun 80 -167.5 "Thunderhead Launcher"
+	gun -25 -53.75
+	gun 25 -53.75
+	turret -80 -62.5 "Bombardment Turret"
+	turret 80 -62.5 "Bombardment Turret"
+	turret -80 -12.5 "Bombardment Turret"
+	turret 80 -12.5 "Bombardment Turret"
+	turret -150 -25 "Bombardment Turret"
+	turret 150 -25 "Bombardment Turret"
 	explode "tiny explosion" 70
 	explode "small explosion" 80
 	explode "medium explosion" 60
