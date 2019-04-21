@@ -242,7 +242,7 @@ ship "Derogam Guardian"
 		"Hyperdrive"
 	engine -137.5 169.375 .625
 	engine -75 219.375 .625
-	engine 0 200.625 1.25
+	engine 0 200.625 1.225
 	engine 75 219.375 .625
 	engine 137.5 169.375 .625
 	gun -26.25 -207.5 "Thunderhead Launcher"
