@@ -205,7 +205,7 @@ ship "Derogam Guardian"
 		"hull" 58200
 		"required crew" 87
 		"bunks" 119
-		"mass" 1120
+		"mass" 1020
 		"drag" 19.5
 		"heat dissipation" 1
 		"fuel capacity" 700
