@@ -107,17 +107,17 @@ ship "Derogam Assassin"
 		"Thruster (Asteroid Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -62 150 .6
-	engine 0 134 1.2
-	engine 62 150 .6
-	gun -12.5 -150 "Thunderhead Launcher"
-	gun 12.5 -150 "Thunderhead Launcher"
-	gun -18.5 -143 "Thunderhead Launcher"
-	gun 18.5 -143 "Thunderhead Launcher"
-	turret -62 -72 "Bombardment Turret"
-	turret 62 -72 "Bombardment Turret"
-	turret -62 10.5 "Bombardment Turret"
-	turret 62 10.5 "Bombardment Turret"
+	engine -62.5 143.125 .525
+	engine 0 124.375 .925
+	engine 62.5 143.125 .525
+	gun -22.5 -138.75 "Thunderhead Launcher"
+	gun 22.5 -138.75 "Thunderhead Launcher"
+	gun -30 -131.25 "Thunderhead Launcher"
+	gun 30 -131.25 "Thunderhead Launcher"
+	turret -62.5 0 "Bombardment Turret"
+	turret 62.5 0 "Bombardment Turret"
+	turret -62.5 50 "Bombardment Turret"
+	turret 62.5 50 "Bombardment Turret"
 	explode "tiny explosion" 40
 	explode "small explosion" 50
 	explode "medium explosion" 35
