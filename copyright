@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: derogam
 Upstream-Contact: Dennis van Anrooij <kiledenneus@gmail.com>
-Source: https://github.com/KiLEdEnNis/derogam
+Source: https://github.com/Lorantine/derogam
 
 Files: *
 Copyright: Dennis van Anrooij <kiledenneus@gmail.com>
