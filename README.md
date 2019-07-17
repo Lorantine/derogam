@@ -4,7 +4,6 @@ Other things keeping me busy:
 - Personal life
 - College + all assignments
 - Games
-- Discord moderator & bug hunter for IGW: https://game.playimperium.com/
 
 https://trello.com/b/aM2pteNE/derogam
 
