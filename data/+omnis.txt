@@ -346,5 +346,5 @@ mission "reveal omnis-derogam"
 	on accept
 		event "reveal omnis-derogam"
 
-event "reveal omnis-altera"
+event "reveal omnis-derogam"
 	visit "Derogam"
