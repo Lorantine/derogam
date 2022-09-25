@@ -198,6 +198,7 @@ ship "Derogam Warrior"
 
 ship "Derogam Guardian"
 	sprite "ship/derogam guardian"
+	thumbnail "thumbnail/derogam guardian"
 	attributes
 		category "Heavy Warship"
 		"cost" 50266000
