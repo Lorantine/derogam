@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2019 by Dennis van Anrooij
+# Copyright (c) 2017-2022 by Dennis van Anrooij (Lorantine)
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -14,12 +14,12 @@ ship "Derogam Sentry"
 	attributes
 		category "Light Warship"
 		"cost" 14376000
-		"shields" 21900
 		"hull" 15100
-		"required crew" 17
-		"bunks" 27
+		"shields" 21900
 		"mass" 250
 		"drag" 5.8
+		"required crew" 17
+		"bunks" 27
 		"heat dissipation" 1
 		"fuel capacity" 600
 		"cargo space" 37
@@ -68,12 +68,12 @@ ship "Derogam Assassin"
 	attributes
 		category "Medium Warship"
 		"cost" 21653000
-		"shields" 34100
 		"hull" 23600
-		"required crew" 29
-		"bunks" 55
+		"shields" 34100
 		"mass" 430
 		"drag" 6.4
+		"required crew" 29
+		"bunks" 55
 		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 54
@@ -82,11 +82,11 @@ ship "Derogam Assassin"
 		"engine capacity" 113
 		"energy generation" 1
 		"energy capacity" 800
-		"shield generation" .4
-		"shield energy" .4
 		"hull repair rate" .3
 		"hull energy" .3
-		"heat generation" 45
+		"shield generation" .4
+		"shield energy" .4
+		"heat generation" 24
 		weapon
 			"blast radius" 320
 			"shield damage" 3400
@@ -131,12 +131,12 @@ ship "Derogam Warrior"
 	attributes
 		category "Heavy Warship"
 		"cost" 35825000
-		"shields" 52300
 		"hull" 36600
-		"required crew" 56
-		"bunks" 88
+		"shields" 52300
 		"mass" 790
 		"drag" 12.9
+		"required crew" 56
+		"bunks" 88
 		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 71
@@ -145,11 +145,11 @@ ship "Derogam Warrior"
 		"engine capacity" 123
 		"energy generation" 2
 		"energy capacity" 1600
-		"shield generation" .8
-		"shield energy" .8
 		"hull repair rate" .6
 		"hull energy" .6
-		"heat generation" 90
+		"shield generation" .8
+		"shield energy" .8
+		"heat generation" 48
 		weapon
 			"blast radius" 380
 			"shield damage" 5000
@@ -201,24 +201,24 @@ ship "Derogam Guardian"
 	attributes
 		category "Heavy Warship"
 		"cost" 50266000
-		"shields" 81700
 		"hull" 58200
-		"required crew" 87
-		"bunks" 119
+		"shields" 81700
 		"mass" 1020
 		"drag" 19.5
+		"required crew" 87
+		"bunks" 119
 		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 83
-		"outfit space" 935
+		"outfit space" 955
 		"weapon capacity" 426
 		"engine capacity" 132
-		"energy generation" 4
+		"energy generation" 5
 		"energy capacity" 4000
-		"shield generation" 2
-		"shield energy" 2
 		"hull repair rate" 1.5
 		"hull energy" 1.5
+		"shield generation" 2
+		"shield energy" 2
 		"heat generation" 120
 		weapon
 			"blast radius" 550
@@ -240,30 +240,101 @@ ship "Derogam Guardian"
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -137.5 169.375 .625
-	engine -75 219.375 .625
-	engine 0 200.625 1.225
-	engine 75 219.375 .625
-	engine 137.5 169.375 .625
-	gun -26.25 -207.5 "Thunderhead Launcher"
-	gun 26.25 -207.5 "Thunderhead Launcher"
-	gun -33.75 -200
-	gun 33.75 -200
-	turret -75 -50 "Bombardment Turret"
-	turret 75 -50 "Bombardment Turret"
-	turret -137.5 0 "Bombardment Turret"
-	turret 137.5 0 "Bombardment Turret"
-	turret -137.5 75 "Bombardment Turret"
-	turret 137.5 75 "Bombardment Turret"
-	turret -75 125 "Bombardment Turret"
-	turret 75 125 "Bombardment Turret"
+	engine -175 172.5
+		zoom 0.625
+		angle 0
+		under
+	engine -88.5 235
+		zoom 0.625
+		angle 0
+		under
+	engine 0 190
+		zoom 1.225
+		angle 0
+		under
+	engine 88.5 235
+		zoom 0.625
+		angle 0
+		under
+	engine 175 172.5
+		zoom 0.625
+		angle 0
+		under
+	"reverse engine" -175 -43
+		zoom 0.25
+		angle 360
+		under
+	"reverse engine" 175 -43
+		zoom 0.25
+		angle 360
+		under
+	"reverse engine" -88.5 -105.5
+		zoom 0.25
+		angle 360
+		under
+	"reverse engine" 88.5 -105.5
+		zoom 0.25
+		angle 360
+		under
+	"steering engine" 37.5 -101.25
+		zoom 0.25
+		angle -90
+		under
+		left
+	"steering engine" 37.5 -88.75
+		zoom 0.25
+		angle -90
+		under
+		left
+	"steering engine" -37.5 98.75
+		zoom 0.25
+		angle 90
+		under
+		left
+	"steering engine" -37.5 111.25
+		zoom 0.25
+		angle 90
+		under
+		left
+	"steering engine" -37.5 -101.25
+		zoom 0.25
+		angle 90
+		under
+		right
+	"steering engine" -37.5 -88.75
+		zoom 0.25
+		angle 90
+		under
+		right
+	"steering engine" 37.5 98.75
+		zoom 0.25
+		angle -90
+		under
+		right
+	"steering engine" 37.5 111.25
+		zoom 0.25
+		angle -90
+		under
+		right
+	gun -52.5 -87 "Thunderhead Launcher"
+	gun 52.5 -87 "Thunderhead Launcher"
+	gun -46 -96
+	gun 46 -96
+	turret -88.5 -25 "Bombardment Turret"
+	turret 88.5 -25 "Bombardment Turret"
+	turret -175 37.5 "Bombardment Turret"
+	turret 175 37.5 "Bombardment Turret"
+	turret -175 112.5 "Bombardment Turret"
+	turret 175 112.5 "Bombardment Turret"
+	turret -88.5 175 "Bombardment Turret"
+	turret 88.5 175 "Bombardment Turret"
 	explode "tiny explosion" 90
 	explode "small explosion" 100
 	explode "medium explosion" 80
 	explode "large explosion" 60
 	explode "huge explosion" 35
 	"final explode" "final explosion large"
-	description `This is the apex of Derogam warships, designed to push their limits to the edge. With the best and latest technology, including the succesful vein technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. Despite being their heaviest warship, sometimes one is outfitted as a freighter if the cargo is valuable enough.`
+	description "This is the apex of Derogam warships, designed to push their limits to the edge. Equipped with their best technology, it utilizes extreme firepower and defensive capabilities at the cost of speed. Despite being their heaviest warship, sometimes one is outfitted as a freighter if the cargo is valuable enough."
 
 
 
