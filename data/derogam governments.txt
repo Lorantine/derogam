@@ -19,8 +19,8 @@ government "Derogam"
 	"friendly hail" "derogam untranslated"
 	"hostile hail" "derogam untranslated"
 
-	"crew attack" 1.5
-	"crew defense" 2.25
+	"crew attack" 3
+	"crew defense" 4
 
 	"penalty for"
 		assist -0.01
@@ -41,8 +41,8 @@ government "Derogam Armada"
 	"friendly hail" "derogam untranslated"
 	"hostile hail" "derogam untranslated"
 
-	"crew attack" 2.1
-	"crew defense" 3.15
+	"crew attack" 6
+	"crew defense" 8
 
 	"penalty for"
 		assist -0.01
