@@ -37,11 +37,11 @@ ship "Derogam Sentry"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 2
 
-		"Inferno Core"
-		"Blaze Core" 2
-		"Healing Core Size 2"
-		"Cooling Coil Size 2"
-		"Cooling Coil Size 1"
+		"DGM Inferno Core"
+		"DGM Blaze Core" 2
+		"DGM Healing Core Deer"
+		"DGM Cooling Coil Deer"
+		"DGM Cooling Coil Araw"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -97,11 +97,11 @@ ship "Derogam Assassin"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 4
 
-		"Magma Core"
-		"Ember Core"
-		"Blaze Core"
-		"Healing Core Size 2"
-		"Cooling Coil Size 2" 2
+		"DGM Magma Core"
+		"DGM Ember Core"
+		"DGM Blaze Core"
+		"DGM Healing Core Deer"
+		"DGM Cooling Coil Deer" 2
 
 		"Thruster (Lunar Class)"
 		"Thruster (Asteroid Class)"
@@ -160,11 +160,11 @@ ship "Derogam Warrior"
 		"Thunderhead Missile" 160
 		"Bombardment Turret" 6
 
-		"Searing Core"
-		"Flame Core"
-		"Healing Core Size 3"
-		"Cooling Coil Size 3"
-		"Cooling Coil Size 1"
+		"DGM Searing Core"
+		"DGM Flame Core"
+		"DGM Healing Core Epicia"
+		"DGM Cooling Coil Epicia"
+		"DGM Cooling Coil Araw"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -231,12 +231,12 @@ ship "Derogam Guardian"
 		"Thunderhead Missile" 80
 		"Bombardment Turret" 8
 
-		"Searing Core"
-		"Inferno Core"
-		"Blaze Core" 2
-		"Healing Core Size 4"
-		"Cooling Coil Size 3"
-		"Cooling Coil Size 2"
+		"DGM Searing Core"
+		"DGM Inferno Core"
+		"DGM Blaze Core" 2
+		"DGM Healing Core Konra"
+		"DGM Cooling Coil Epicia"
+		"DGM Cooling Coil Deer"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -367,10 +367,10 @@ ship "Derogam Gatherer"
 		"Bombardment Turret"
 		"Korath Warder"
 
-		"Flame Core"
-		"Blaze Core"
-		"Healing Core Size 2"
-		"Cooling Coil Size 1"
+		"DGM Flame Core"
+		"DGM Blaze Core"
+		"DGM Healing Core Deer"
+		"DGM Cooling Coil Araw"
 
 		"Thruster (Comet Class)"
 		"Steering (Comet Class)"
@@ -414,10 +414,10 @@ ship "Derogam Collector"
 		"Bombardment Turret"
 		"Korath Warder" 2
 
-		"Inferno Core"
-		"Blaze Core" 2
-		"Healing Core Size 2"
-		"Cooling Coil Size 2"
+		"DGM Inferno Core"
+		"DGM Blaze Core" 2
+		"DGM Healing Core Deer"
+		"DGM Cooling Coil Deer"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -465,10 +465,10 @@ ship "Derogam Hoarder"
 		"Bombardment Turret" 2
 		"Korath Warder" 2
 
-		"Magma Core"
-		"Blaze Core" 2
-		"Healing Core Size 3"
-		"Cooling Coil Size 2"
+		"DGM Magma Core"
+		"DGM Blaze Core" 2
+		"DGM Healing Core Epicia"
+		"DGM Cooling Coil Deer"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"
@@ -524,10 +524,10 @@ ship "Derogam Itinerant"
 		"Bombardment Turret"
 		"Korath Warder"
 
-		"Inferno Core"
-		"Blaze Core"
-		"Healing Core Size 2"
-		"Cooling Coil Size 2"
+		"DGM Inferno Core"
+		"DGM Blaze Core"
+		"DGM Healing Core Deer"
+		"DGM Cooling Coil Deer"
 
 		"Thruster (Lunar Class)"
 		"Steering (Lunar Class)"

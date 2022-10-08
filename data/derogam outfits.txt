@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 # Generators
-outfit "Blaze Core"
+outfit "DGM Blaze Core"
 	category "Power"
 	cost 709000
 	thumbnail "outfit/blaze core"
@@ -22,7 +22,7 @@ outfit "Blaze Core"
 	"shield energy" .045
 	description `While its design may not suggest it, the Blaze Core was developed not too long ago to both satisfy the demand for an even smaller reactor and to enable a size increase for others of its lineage.`
 
-outfit "Ember Core"
+outfit "DGM Ember Core"
 	category "Power"
 	cost 1856000
 	thumbnail "outfit/ember core"
@@ -35,7 +35,7 @@ outfit "Ember Core"
 	"shield energy" .11
 	description `For a long time, this generator served as the backbone of all smaller ships in Derogam space. Due to recent technological advancements, it was made slightly bigger and more powerful after an even smaller version was developed.`
 
-outfit "Flame Core"
+outfit "DGM Flame Core"
 	category "Power"
 	cost 4837000
 	thumbnail "outfit/flame core"
@@ -48,7 +48,7 @@ outfit "Flame Core"
 	"shield energy" .24
 	description `Throughout the centuries, the Derogam generators changed drastically, but every new generation has always been based on modifications on this very generator. This means that some traces of older generations could still be found in its inner design, however small.`
 
-outfit "Inferno Core"
+outfit "DGM Inferno Core"
 	category "Power"
 	cost 8506000
 	thumbnail "outfit/inferno core"
@@ -61,7 +61,7 @@ outfit "Inferno Core"
 	"shield energy" .38
 	description `This generator is a staple for both smaller ships that barely manage to fit it in, and larger ships that pair it with other generators. Even though larger ships are usually better off with a bigger generator, merchant captains often prefer a cheaper version, due to the limited amount of combat they may face.`
 
-outfit "Magma Core"
+outfit "DGM Magma Core"
 	category "Power"
 	cost 12968000
 	thumbnail "outfit/magma core"
@@ -74,7 +74,7 @@ outfit "Magma Core"
 	"shield energy" .53
 	description `Most larger warships simply can't function properly without a generator of this caliber. While recently its demand went down due to an even bigger version based on it, the Magma Core still serves as the backbone of most medium-large ships.`
 
-outfit "Searing Core"
+outfit "DGM Searing Core"
 	category "Power"
 	cost 18861000
 	thumbnail "outfit/searing core"
@@ -90,8 +90,8 @@ outfit "Searing Core"
 
 
 # Regenerators
-outfit "Healing Core Size 1"
-	plural "Healing Cores Size 1"
+outfit "DGM Healing Core Araw"
+	plural "DGM Healing Cores Araw"
 	category "Systems"
 	cost 427000
 	thumbnail "outfit/healing core size 1"
@@ -105,8 +105,8 @@ outfit "Healing Core Size 1"
 	"hull heat" .06
 	description `TBD`
 
-outfit "Healing Core Size 2"
-	plural "Healing Cores Size 2"
+outfit "DGM Healing Core Deer"
+	plural "DGM Healing Cores Deer"
 	category "Systems"
 	cost 1197000
 	thumbnail "outfit/healing core size 2"
@@ -120,8 +120,8 @@ outfit "Healing Core Size 2"
 	"hull heat" .185
 	description `TBD`
 
-outfit "Healing Core Size 3"
-	plural "Healing Cores Size 3"
+outfit "DGM Healing Core Epicia"
+	plural "DGM Healing Cores Epicia"
 	category "Systems"
 	cost 2991000
 	thumbnail "outfit/healing core size 3"
@@ -135,8 +135,8 @@ outfit "Healing Core Size 3"
 	"hull heat" .475
 	description `TBD`
 
-outfit "Healing Core Size 4"
-	plural "Healing Cores Size 4"
+outfit "DGM Healing Core Konra"
+	plural "DGM Healing Cores Konra"
 	category "Systems"
 	cost 5934000
 	thumbnail "outfit/unknown"
@@ -153,8 +153,8 @@ outfit "Healing Core Size 4"
 
 
 # Cooling
-outfit "Cooling Coil Size 1"
-	plural "Cooling Coils Size 1"
+outfit "DGM Cooling Coil Araw"
+	plural "DGM Cooling Coils Araw"
 	category "Systems"
 	cost 168000
 	thumbnail "outfit/cooling coil size 1"
@@ -165,8 +165,8 @@ outfit "Cooling Coil Size 1"
 	"cooling energy" .95
 	description `The concept of the newest line of Derogam cooling is a combination of powerful bulk cooling and the new "smart cooling" system. It uses energy to distribute the heat to all surfaces to raise efficiency drastically when ships get close to overheating.`
 
-outfit "Cooling Coil Size 2"
-	plural "Cooling Coils Size 2"
+outfit "DGM Cooling Coil Deer"
+	plural "DGM Cooling Coils Deer"
 	category "Systems"
 	cost 451000
 	thumbnail "outfit/cooling coil size 2"
@@ -177,8 +177,8 @@ outfit "Cooling Coil Size 2"
 	"cooling energy" 2.2
 	description `When the new smart cooling system proved to be quite effective, the new models quickly became an integral part of Derogam spaceflight. It features a similar orb as the generators, working in reverse to absorb heat using power, instead of generating power and producing heat.`
 
-outfit "Cooling Coil Size 3"
-	plural "Cooling Coils Size 3"
+outfit "DGM Cooling Coil Epicia"
+	plural "DGM Cooling Coils Epicia"
 	category "Systems"
 	cost 1122000
 	thumbnail "outfit/cooling coil size 3"
