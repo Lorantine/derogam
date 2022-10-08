@@ -156,7 +156,7 @@ outfit "DGM Healing Core Konra"
 outfit "DGM Cooling Coil Araw"
 	plural "DGM Cooling Coils Araw"
 	category "Systems"
-	cost 168000
+	cost 263000
 	thumbnail "outfit/cooling coil size 1"
 	"mass" 6
 	"outfit space" -6
@@ -168,7 +168,7 @@ outfit "DGM Cooling Coil Araw"
 outfit "DGM Cooling Coil Deer"
 	plural "DGM Cooling Coils Deer"
 	category "Systems"
-	cost 451000
+	cost 802000
 	thumbnail "outfit/cooling coil size 2"
 	"mass" 14
 	"outfit space" -14
@@ -180,13 +180,25 @@ outfit "DGM Cooling Coil Deer"
 outfit "DGM Cooling Coil Epicia"
 	plural "DGM Cooling Coils Epicia"
 	category "Systems"
-	cost 1122000
+	cost 2317000
 	thumbnail "outfit/cooling coil size 3"
 	"mass" 31
 	"outfit space" -31
 	"cooling" 23.6
 	"active cooling" 69.5
 	"cooling energy" 4.75
+	description `TBD`
+
+outfit "DGM Cooling Coil Konra"
+	plural "DGM Cooling Coils Konra"
+	category "Systems"
+	cost 6749000
+	thumbnail "outfit/unknown"
+	"mass" 69
+	"outfit space" -69
+	"cooling" 61.4
+	"active cooling" 159.9
+	"cooling energy" 10.2
 	description `TBD`
 
 

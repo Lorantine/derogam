@@ -227,16 +227,14 @@ ship "Derogam Guardian"
 			"hull damage" 3600
 			"hit force" 10800
 	outfits
-		"Thunderhead Launcher" 2
-		"Thunderhead Missile" 80
 		"Bombardment Turret" 8
 
 		"DGM Searing Core"
-		"DGM Inferno Core"
-		"DGM Blaze Core" 2
+		"DGM Magma Core"
+		"DGM Ember Core"
+		"DGM Blaze Core"
 		"DGM Healing Core Konra"
-		"DGM Cooling Coil Epicia"
-		"DGM Cooling Coil Deer"
+		"DGM Cooling Coil Konra"
 
 		"Thruster (Planetary Class)"
 		"Steering (Planetary Class)"
@@ -317,8 +315,8 @@ ship "Derogam Guardian"
 		angle -90
 		under
 		right
-	gun -52.5 -87 "Thunderhead Launcher"
-	gun 52.5 -87 "Thunderhead Launcher"
+	gun -52.5 -87
+	gun 52.5 -87
 	gun -46 -96
 	gun 46 -96
 	turret -88.5 -25 "Bombardment Turret"
