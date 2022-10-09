@@ -11,12 +11,13 @@
 # Generators
 outfit "DGM Blaze Core"
 	category "Power"
-	cost 709000
+	cost 1109000
 	thumbnail "outfit/blaze core"
 	"mass" 11
 	"outfit space" -11
-	"energy generation" 1.9
-	"heat generation" 4.9
+	"energy generation" 2.09
+	"ion resistance" 0.007
+	"heat generation" 6.13
 	"energy capacity" 400
 	"shield generation" .045
 	"shield energy" .045
@@ -24,12 +25,13 @@ outfit "DGM Blaze Core"
 
 outfit "DGM Ember Core"
 	category "Power"
-	cost 1856000
+	cost 2456000
 	thumbnail "outfit/ember core"
 	"mass" 25
 	"outfit space" -25
-	"energy generation" 4.4
-	"heat generation" 11.6
+	"energy generation" 4.84
+	"ion resistance" 0.021
+	"heat generation" 14.5
 	"energy capacity" 900
 	"shield generation" .11
 	"shield energy" .11
@@ -37,12 +39,13 @@ outfit "DGM Ember Core"
 
 outfit "DGM Flame Core"
 	category "Power"
-	cost 4837000
+	cost 6337000
 	thumbnail "outfit/flame core"
 	"mass" 57
 	"outfit space" -57
-	"energy generation" 10.5
-	"heat generation" 26.7
+	"energy generation" 11.55
+	"ion resistance" 0.057
+	"heat generation" 33.38
 	"energy capacity" 2100
 	"shield generation" .24
 	"shield energy" .24
@@ -50,12 +53,13 @@ outfit "DGM Flame Core"
 
 outfit "DGM Inferno Core"
 	category "Power"
-	cost 8506000
+	cost 11306000
 	thumbnail "outfit/inferno core"
 	"mass" 90
 	"outfit space" -90
-	"energy generation" 17.45
-	"heat generation" 43.15
+	"energy generation" 19.20
+	"ion resistance" 0.103
+	"heat generation" 53.94
 	"energy capacity" 3300
 	"shield generation" .38
 	"shield energy" .38
@@ -63,12 +67,13 @@ outfit "DGM Inferno Core"
 
 outfit "DGM Magma Core"
 	category "Power"
-	cost 12968000
+	cost 16968000
 	thumbnail "outfit/magma core"
 	"mass" 123
 	"outfit space" -123
-	"energy generation" 25.1
-	"heat generation" 60.65
+	"energy generation" 27.61
+	"ion resistance" 0.155
+	"heat generation" 75.81
 	"energy capacity" 4550
 	"shield generation" .53
 	"shield energy" .53
@@ -76,12 +81,13 @@ outfit "DGM Magma Core"
 
 outfit "DGM Searing Core"
 	category "Power"
-	cost 18861000
+	cost 24861000
 	thumbnail "outfit/searing core"
 	"mass" 162
 	"outfit space" -162
-	"energy generation" 34.7
-	"heat generation" 82.2
+	"energy generation" 38.17
+	"ion resistance" 0.22
+	"heat generation" 102.75
 	"energy capacity" 6250
 	"shield generation" .67
 	"shield energy" .67

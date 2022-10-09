@@ -13,7 +13,7 @@ ship "Derogam Sentry"
 	sprite "ship/derogam sentry"
 	attributes
 		category "Light Warship"
-		"cost" 14376000
+		"cost" 16376000
 		"hull" 15100
 		"shields" 21900
 		"mass" 250
@@ -67,7 +67,7 @@ ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
 	attributes
 		category "Medium Warship"
-		"cost" 21653000
+		"cost" 24653000
 		"hull" 23600
 		"shields" 34100
 		"mass" 430
@@ -130,7 +130,7 @@ ship "Derogam Warrior"
 	sprite "ship/derogam warrior"
 	attributes
 		category "Heavy Warship"
-		"cost" 35825000
+		"cost" 43825000
 		"hull" 36600
 		"shields" 52300
 		"mass" 790
@@ -201,7 +201,7 @@ ship "Derogam Guardian"
 	thumbnail "thumbnail/derogam guardian"
 	attributes
 		category "Heavy Warship"
-		"cost" 50266000
+		"cost" 72266000
 		"hull" 58200
 		"shields" 81700
 		"mass" 1020
