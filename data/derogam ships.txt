@@ -206,9 +206,9 @@ ship "Derogam Guardian"
 		"shields" 81700
 		"mass" 1020
 		"drag" 19.5
-		"required crew" 87
-		"bunks" 119
-		"heat dissipation" 1
+		"required crew" 107
+		"bunks" 139
+		"heat dissipation" 1.6
 		"fuel capacity" 700
 		"cargo space" 83
 		"outfit space" 955
