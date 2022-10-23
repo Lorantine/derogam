@@ -201,19 +201,19 @@ ship "Derogam Guardian"
 	thumbnail "thumbnail/derogam guardian"
 	attributes
 		category "Heavy Warship"
-		"cost" 72266000
-		"hull" 58200
-		"shields" 81700
-		"mass" 1020
+		"cost" 79266000
+		"hull" 68200
+		"shields" 91700
+		"mass" 1120
 		"drag" 19.5
-		"required crew" 107
-		"bunks" 139
+		"required crew" 127
+		"bunks" 159
 		"heat dissipation" 1.6
 		"fuel capacity" 700
 		"cargo space" 83
-		"outfit space" 955
+		"outfit space" 997
 		"weapon capacity" 426
-		"engine capacity" 132
+		"engine capacity" 163
 		"energy generation" 5
 		"energy capacity" 4000
 		"hull repair rate" 1.5
@@ -236,8 +236,8 @@ ship "Derogam Guardian"
 		"DGM Healing Core Konra"
 		"DGM Cooling Coil Konra"
 
-		"Thruster (Planetary Class)"
-		"Steering (Planetary Class)"
+		"DGM Inarad Propulser Konra"
+		"DGM Otuxis Propulser Konra"
 		"Hyperdrive"
 	engine -175 172.5
 		zoom 0.625
