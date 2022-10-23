@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2019 by Dennis van Anrooij
+# Copyright (c) 2017-2022 by Dennis van Anrooij
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -11,11 +11,11 @@
 # Generators
 outfit "DGM Blaze Core"
 	category "Power"
-	cost 1109000
+	cost 1009000
 	thumbnail "outfit/blaze core"
 	"mass" 11
 	"outfit space" -11
-	"energy generation" 2.09
+	"energy generation" 1.99
 	"ion resistance" 0.007
 	"heat generation" 6.13
 	"energy capacity" 400
