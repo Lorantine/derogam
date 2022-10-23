@@ -210,3 +210,227 @@ outfit "DGM Cooling Coil Konra"
 
 
 # Engines
+outfit "DGM Inarad Propulser Araw"
+	plural "DGM Inarad Propulsers Araw"
+	cost 154000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 24
+	"outfit space" -16
+	"engine capacity" -16
+	"thrust" 12.4
+	"thrusting energy" .57
+	"thrusting heat" 7.94
+	"reverse thrust" 6.2
+	"reverse thrusting energy" .285
+	"reverse thrusting heat" 3.97
+	"turn" 33.15
+	"turning energy" .033
+	"turning heat" .532
+	"flare sprite" "effect/efreti flare/small"
+		"frame rate" 8
+	"reverse flare sprite" "effect/efreti flare/small"
+		"frame rate" 8
+	"steering flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"flare sound" "plasma small"
+	"reverse flare sound" "plasma small"
+	"steering flare sound" "plasma tiny"
+	description `TBD`
+
+outfit "DGM Inarad Propulser Deer"
+	plural "DGM Inarad Propulsers Deer"
+	cost 379000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 43.5
+	"outfit space" -29
+	"engine capacity" -29
+	"thrust" 25.1
+	"thrusting energy" 1.13
+	"thrusting heat" 15.43
+	"reverse thrust" 12.55
+	"reverse thrusting energy" .565
+	"reverse thrusting heat" 7.715
+	"turn" 68.68
+	"turning energy" .072
+	"turning heat" 1.129
+	"flare sprite" "effect/efreti flare/medium"
+		"frame rate" 7.5
+	"reverse flare sprite" "effect/efreti flare/medium"
+		"frame rate" 7.5
+	"steering flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"flare sound" "plasma medium"
+	"reverse flare sound" "plasma medium"
+	"steering flare sound" "plasma tiny"
+	description `TBD`
+
+outfit "DGM Inarad Propulser Epicia"
+	plural "DGM Inarad Propulsers Epicia"
+	cost 944000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 81
+	"outfit space" -54
+	"engine capacity" -54
+	"thrust" 50.9
+	"thrusting energy" 2.23
+	"thrusting heat" 29.56
+	"reverse thrust" 25.45
+	"reverse thrusting energy" 1.115
+	"reverse thrusting heat" 14.78
+	"turn" 145.15
+	"turning energy" .156
+	"turning heat" 2.382
+	"flare sprite" "effect/efreti flare/large"
+		"frame rate" 7
+	"reverse flare sprite" "effect/efreti flare/large"
+		"frame rate" 7
+	"steering flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"flare sound" "plasma large"
+	"reverse flare sound" "plasma large"
+	"steering flare sound" "plasma tiny"
+	description `TBD`
+
+outfit "DGM Inarad Propulser Konra"
+	plural "DGM Inarad Propulsers Konra"
+	cost 2039000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 130.5
+	"outfit space" -87
+	"engine capacity" -87
+	"thrust" 90.4
+	"thrusting energy" 3.81
+	"thrusting heat" 49.17
+	"reverse thrust" 45.2
+	"reverse thrusting energy" 1.905
+	"reverse thrusting heat" 24.585
+	"turn" 270.6
+	"turning energy" .301
+	"turning heat" 4.481
+	"flare sprite" "effect/efreti flare/huge"
+		"frame rate" 6.5
+	"reverse flare sprite" "effect/efreti flare/huge"
+		"frame rate" 6.5
+	"steering flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"flare sound" "plasma huge"
+	"reverse flare sound" "plasma huge"
+	"steering flare sound" "plasma tiny"
+	description `TBD`
+
+outfit "DGM Otuxis Propulser Araw"
+	plural "DGM Otuxis Propulsers Araw"
+	cost 1000000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 19.5
+	"outfit space" -13
+	"engine capacity" -13
+	"thrust" 1.24
+	"thrusting energy" .057
+	"thrusting heat" .794
+	"reverse thrust" .62
+	"reverse thrusting energy" .0285
+	"reverse thrusting heat" .397
+	"turn" 331.5
+	"turning energy" .33
+	"turning heat" 5.32
+	"flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"reverse flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"steering flare sprite" "effect/efreti flare/small"
+		"frame rate" 8
+	"flare sound" "plasma tiny"
+	"reverse flare sound" "plasma tiny"
+	"steering flare sound" "plasma small"
+	description `TBD`
+
+outfit "DGM Otuxis Propulser Deer"
+	plural "DGM Otuxis Propulsers Deer"
+	cost 1000000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 36
+	"outfit space" -24
+	"engine capacity" -24
+	"thrust" 2.51
+	"thrusting energy" .113
+	"thrusting heat" 1.543
+	"reverse thrust" 1.255
+	"reverse thrusting energy" .0565
+	"reverse thrusting heat" .7715
+	"turn" 686.8
+	"turning energy" .72
+	"turning heat" 11.29
+	"flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"reverse flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"steering flare sprite" "effect/efreti flare/medium"
+		"frame rate" 7.5
+	"flare sound" "plasma tiny"
+	"reverse flare sound" "plasma tiny"
+	"steering flare sound" "plasma medium"
+	description `TBD`
+
+outfit "DGM Otuxis Propulser Epicia"
+	plural "DGM Otuxis Propulsers Epicia"
+	cost 1000000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 67.5
+	"outfit space" -45
+	"engine capacity" -45
+	"thrust" 5.09
+	"thrusting energy" .223
+	"thrusting heat" 2.956
+	"reverse thrust" 2.545
+	"reverse thrusting energy" .1115
+	"reverse thrusting heat" 1.478
+	"turn" 1451.5
+	"turning energy" 1.56
+	"turning heat" 23.82
+	"flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"reverse flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"steering flare sprite" "effect/efreti flare/large"
+		"frame rate" 7
+	"flare sound" "plasma tiny"
+	"reverse flare sound" "plasma tiny"
+	"steering flare sound" "plasma large"
+	description `TBD`
+
+outfit "DGM Otuxis Propulser Konra"
+	plural "DGM Otuxis Propulsers Konra"
+	cost 1000000
+	category "Engines"
+	thumbnail "outfit/unknown"
+	"mass" 114
+	"outfit space" -76
+	"engine capacity" -76
+	"thrust" 9.04
+	"thrusting energy" .381
+	"thrusting heat" 4.917
+	"reverse thrust" 4.52
+	"reverse thrusting energy" .1905
+	"reverse thrusting heat" 2.4585
+	"turn" 2706
+	"turning energy" 3.01
+	"turning heat" 44.81
+	"flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"reverse flare sprite" "effect/efreti flare/tiny"
+		"frame rate" 8.5
+	"steering flare sprite" "effect/efreti flare/huge"
+		"frame rate" 6.5
+	"flare sound" "plasma tiny"
+	"reverse flare sound" "plasma tiny"
+	"steering flare sound" "plasma huge"
+	description `TBD`
+
