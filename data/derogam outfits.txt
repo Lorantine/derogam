@@ -324,7 +324,7 @@ outfit "DGM Inarad Propulser Konra"
 
 outfit "DGM Otuxis Propulser Araw"
 	plural "DGM Otuxis Propulsers Araw"
-	cost 1000000
+	cost 129000
 	category "Engines"
 	thumbnail "outfit/unknown"
 	"mass" 19.5
@@ -352,7 +352,7 @@ outfit "DGM Otuxis Propulser Araw"
 
 outfit "DGM Otuxis Propulser Deer"
 	plural "DGM Otuxis Propulsers Deer"
-	cost 1000000
+	cost 323000
 	category "Engines"
 	thumbnail "outfit/unknown"
 	"mass" 36
@@ -380,7 +380,7 @@ outfit "DGM Otuxis Propulser Deer"
 
 outfit "DGM Otuxis Propulser Epicia"
 	plural "DGM Otuxis Propulsers Epicia"
-	cost 1000000
+	cost 813000
 	category "Engines"
 	thumbnail "outfit/unknown"
 	"mass" 67.5
@@ -408,7 +408,7 @@ outfit "DGM Otuxis Propulser Epicia"
 
 outfit "DGM Otuxis Propulser Konra"
 	plural "DGM Otuxis Propulsers Konra"
-	cost 1000000
+	cost 1847000
 	category "Engines"
 	thumbnail "outfit/unknown"
 	"mass" 114
