@@ -231,9 +231,9 @@ ship "Derogam Guardian"
 
 		"DGM Searing Core"
 		"DGM Magma Core"
-		"DGM Ember Core"
-		"DGM Blaze Core"
 		"DGM Healing Core Konra"
+		"DGM Healing Core Deer"
+		"DGM Healing Core Araw"
 		"DGM Cooling Coil Konra"
 
 		"DGM Inarad Propulser Konra"

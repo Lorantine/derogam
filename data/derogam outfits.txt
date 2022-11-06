@@ -166,7 +166,7 @@ outfit "DGM Cooling Coil Araw"
 	thumbnail "outfit/cooling coil size 1"
 	"mass" 6
 	"outfit space" -6
-	"cooling" 3.2
+	"heat capacity" 48
 	"active cooling" 12.4
 	"cooling energy" .95
 	description `TBD`
@@ -178,7 +178,7 @@ outfit "DGM Cooling Coil Deer"
 	thumbnail "outfit/cooling coil size 2"
 	"mass" 14
 	"outfit space" -14
-	"cooling" 8.9
+	"heat capacity" 133.5
 	"active cooling" 30.4
 	"cooling energy" 2.2
 	description `TBD`
@@ -190,7 +190,7 @@ outfit "DGM Cooling Coil Epicia"
 	thumbnail "outfit/cooling coil size 3"
 	"mass" 31
 	"outfit space" -31
-	"cooling" 23.6
+	"heat capacity" 354
 	"active cooling" 69.5
 	"cooling energy" 4.75
 	description `TBD`
@@ -202,7 +202,7 @@ outfit "DGM Cooling Coil Konra"
 	thumbnail "outfit/unknown"
 	"mass" 69
 	"outfit space" -69
-	"cooling" 61.4
+	"heat capacity" 921
 	"active cooling" 159.9
 	"cooling energy" 10.2
 	description `TBD`
