@@ -1,4 +1,4 @@
-# Copyright (c) 2017-2022 by Dennis van Anrooij (Lorantine)
+# Copyright (c) 2017-2023 by Dennis van Anrooij (Lorantine)
 #
 # Endless Sky is free software: you can redistribute it and/or modify it under the
 # terms of the GNU General Public License as published by the Free Software
@@ -140,9 +140,9 @@ ship "Derogam Warrior"
 		"heat dissipation" 1
 		"fuel capacity" 700
 		"cargo space" 71
-		"outfit space" 812
-		"weapon capacity" 365
-		"engine capacity" 123
+		"outfit space" 836
+		"weapon capacity" 372
+		"engine capacity" 141
 		"energy generation" 2
 		"energy capacity" 1600
 		"hull repair rate" .6
@@ -156,8 +156,7 @@ ship "Derogam Warrior"
 			"hull damage" 2500
 			"hit force" 6200
 	outfits
-		"Thunderhead Launcher" 4
-		"Thunderhead Missile" 160
+		Moonbeam 4
 		"Bombardment Turret" 6
 
 		"DGM Searing Core"
@@ -166,28 +165,30 @@ ship "Derogam Warrior"
 		"DGM Cooling Coil Epicia"
 		"DGM Cooling Coil Araw"
 
-		"Thruster (Planetary Class)"
-		"Steering (Planetary Class)"
+		"DGM Inarad Propulser Deer"
+		"DGM Inarad Propulser Epicia"
+		"DGM Otuxis Propulser Araw"
+		"DGM Otuxis Propulser Epicia"
 		"Hyperdrive"
-	engine -150 163.125 .625
-	engine -80 169.375 .775
-	engine 0 169.375 .925
-	engine 80 169.375 .775
-	engine 150 163.125 .625
-	gun -65 -192.5 "Thunderhead Launcher"
-	gun 65 -192.5 "Thunderhead Launcher"
-	gun -72.5 -192.5
-	gun 72.5 -192.5
-	gun -80 -192.5 "Thunderhead Launcher"
-	gun 80 -192.5 "Thunderhead Launcher"
-	gun -25 -53.75
-	gun 25 -53.75
-	turret -80 -62.5 "Bombardment Turret"
-	turret 80 -62.5 "Bombardment Turret"
-	turret -80 -12.5 "Bombardment Turret"
-	turret 80 -12.5 "Bombardment Turret"
-	turret -150 -6.25 "Bombardment Turret"
-	turret 150 -6.25 "Bombardment Turret"
+	engine -137.5 113.125 .4675
+	engine -59.375 168.75 .95
+	engine 0 143.75 1.45
+	engine 59.375 168.75 .95
+	engine 137.5 113.125 .4675
+	gun -56.25 -185 Moonbeam
+	gun 56.25 -185 Moonbeam
+	gun -63.75 -180
+	gun 63.75 -180
+	gun -71.25 -175
+	gun 71.25 -175
+	gun -78.75 -170 Moonbeam
+	gun 78.75 -170 Moonbeam
+	turret -69.44 -75 "Bombardment Turret"
+	turret 69.44 -75 "Bombardment Turret"
+	turret -69.44 -46.875 "Bombardment Turret"
+	turret 69.44 -46.875 "Bombardment Turret"
+	turret -69.44 -18.75 "Bombardment Turret"
+	turret 69.44 -18.75 "Bombardment Turret"
 	explode "tiny explosion" 70
 	explode "small explosion" 80
 	explode "medium explosion" 60
