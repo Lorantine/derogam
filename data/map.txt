@@ -5711,8 +5711,12 @@ planet Sicreb
 	security 0.7
 
 planet Derogate
-	bribe 0
-	security 1
+	wormhole Derogate
+
+wormhole Derogate
+	link Anrotine Glivast
+	link Glivast Anrotine
+	mappable
 
 planet Faridon
 	landscape land/canyon3
@@ -5919,4 +5923,3 @@ planet Alimaw
 	spaceport Spaceport
 	bribe 0
 	security 0.45
-
