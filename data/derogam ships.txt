@@ -171,11 +171,84 @@ ship "Derogam Warrior"
 		"DGM Otuxis Propulser Araw"
 		"DGM Otuxis Propulser Epicia"
 		"Hyperdrive"
-	engine -137.5 113.125 .4675
-	engine -59.375 168.75 .95
-	engine 0 143.75 1.45
-	engine 59.375 168.75 .95
-	engine 137.5 113.125 .4675
+	engine -137.5 113.125
+		zoom .4675
+		angle 0
+		under
+	engine -59.375 168.75
+		zoom .95
+		angle 0
+		under
+	engine 0 143.75
+		zoom 1.45
+		angle 0
+		under
+	engine 59.375 168.75
+		zoom .95
+		angle 0
+		under
+	engine 137.5 113.125
+		zoom .4675
+		angle 0
+		under
+	"reverse engine" -137.5 -45.5
+		zoom 0.2
+		angle 360
+		under
+	"reverse engine" 137.5 -45.5
+		zoom 0.2
+		angle 360
+		under
+	"steering engine" 102.5 -70
+		zoom 0.1875
+		angle -90
+		under
+		left
+	"steering engine" 102.5 -60
+		zoom 0.1875
+		angle -90
+		under
+		left
+	"steering engine" 102.5 -50
+		zoom 0.1875
+		angle -90
+		under
+		left
+	"steering engine" -102.5 142.5
+		zoom 0.1875
+		angle 90
+		under
+		left
+	"steering engine" -102.5 152.5
+		zoom 0.1875
+		angle 90
+		under
+		left
+	"steering engine" -102.5 -70
+		zoom 0.1875
+		angle 90
+		under
+		right
+	"steering engine" -102.5 -60
+		zoom 0.1875
+		angle 90
+		under
+		right
+	"steering engine" -102.5 -50
+		zoom 0.1875
+		angle 90
+		under
+		right
+	"steering engine" 102.5 142.5
+		zoom 0.1875
+		angle -90
+		under
+		right
+	"steering engine" 102.5 152.5
+		zoom 0.1875
+		angle -90
+		under
+		right
 	gun -56.25 -185 Moonbeam
 	gun 56.25 -185 Moonbeam
 	gun -63.75 -180
