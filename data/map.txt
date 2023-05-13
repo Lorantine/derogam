@@ -825,8 +825,8 @@ system Sevalas
 	asteroids "medium metal" 39 4.925
 	asteroids "large metal" 13 3.317
 	minables gold 19 8.077
-	minables lead 8 5.98177
-	minables silver 1 8.33027
+	minables lead 8 5.982
+	minables silver 1 8.33
 	trade Food 347
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
