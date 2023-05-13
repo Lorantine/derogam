@@ -9,10 +9,11 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 system Achenor
-	pos -1297.31 -329.074
+	pos -1458.088 -644.963
 	government Derogam
 	habitable 425.92
 	belt 1468
+	"jump range" 60
 	link Aurene
 	link Inumi
 	link Konra
@@ -71,10 +72,11 @@ system Achenor
 			period 38.378
 
 system Penohserep
-	pos -1517.434 -628.466
+	pos -1708.99 -1290.188
 	government Uninhabited
 	habitable 1080
 	belt 1455
+	"jump range" 90
 	link Arw
 	link Sarante
 	link Themension
@@ -114,10 +116,11 @@ system Penohserep
 		period 1168.81
 
 system Ailpak
-	pos -1139.2 -287.6
+	pos -1301.83 -710.304
 	government Derogam
 	habitable 858.28
 	belt 1150
+	"jump range" 60
 	link Aurene
 	link Fafnarin
 	link Intariag
@@ -171,10 +174,11 @@ system Ailpak
 			period 13.941
 
 system Algiad
-	pos -1090.596 -236.887
+	pos -1251.818 -739.776
 	government Derogam
 	habitable 625
 	belt 1525
+	"jump range" 60
 	link Horrogos
 	link Reiyo
 	asteroids "small rock" 7 3.267
@@ -230,10 +234,11 @@ system Algiad
 			period 21.968
 
 system Abenar
-	pos -1255.879 -591.133
+	pos -1541.546 -1326.8
 	government Uninhabited
 	habitable 625
 	belt 1552
+	"jump range" 80
 	link Risen
 	link Sarante
 	link Strahd
@@ -278,10 +283,11 @@ system Abenar
 		period 1620.26
 
 system Canely
-	pos -1372.48 -261.762
+	pos -1199.813 -468.429
 	government Derogam
 	habitable 945
 	belt 1783
+	"jump range" 60
 	link Cilur
 	link Nymioden
 	asteroids "large metal" 1 2.226
@@ -339,10 +345,11 @@ system Canely
 			period 65.32
 
 system Tamita
-	pos -953.646 -326.621
+	pos -1270.646 -1175.621
 	government Derogam
 	habitable 1313.28
 	belt 1819
+	"jump range" 60
 	link Suniba
 	asteroids "small rock" 4 4.525
 	asteroids "medium rock" 36 5.152
@@ -392,10 +399,11 @@ system Tamita
 			period 33.584
 
 system Ogravros
-	pos -1004 -250
+	pos -1271.333 -900
 	government Derogam
 	habitable 486.68
 	belt 1039
+	"jump range" 60
 	link Canterup
 	link Epicia
 	link Horrogos
@@ -445,10 +453,11 @@ system Ogravros
 			period 47.657
 
 system Amolrar
-	pos -1566.52 -115.125
+	pos -1264.187 -193.125
 	government Derogam
 	habitable 2140.92
 	belt 1982
+	"jump range" 60
 	link Ceriac
 	asteroids "small rock" 31 3.256
 	asteroids "medium rock" 2 5.324
@@ -504,10 +513,11 @@ system Amolrar
 			period 78.973
 
 system Konra
-	pos -1283.16 -280.48
+	pos -1368.938 -604.369
 	government Derogam
 	habitable 625
 	belt 1190
+	"jump range" 60
 	link Achenor
 	link Deer
 	link Nymioden
@@ -562,10 +572,11 @@ system Konra
 			period 50.415
 
 system Withepatin
-	pos -898.275 -48.036
+	pos -1048.719 -718.703
 	government Derogam
 	habitable 320
 	belt 1558
+	"jump range" 60
 	link Taraja
 	asteroids "small rock" 3 6.542
 	asteroids "medium rock" 15 4.872
@@ -625,10 +636,11 @@ system Withepatin
 			period 42.11
 
 system Plecistens
-	pos -1120.783 -517.866
+	pos -1570.894 -1054.699
 	government Uninhabited
 	habitable 100
 	belt 1224
+	"jump range" 75
 	link Tarasrha
 	asteroids "small rock" 2 3.542
 	asteroids "medium rock" 1 4.669
@@ -680,10 +692,11 @@ system Plecistens
 			offset 10.681
 
 system Vyso
-	pos -1533.409 -321.236
+	pos -1342.446 -354.866
 	government Derogam
 	habitable 625
 	belt 1420
+	"jump range" 60
 	link Antahmas
 	link Damek
 	link Sigen
@@ -747,9 +760,10 @@ system Vyso
 			period 24.178
 
 system Seliprin
-	pos -997.154 189.113
+	pos -1004.043 -220.591
 	government Derogam
 	habitable 912.6
+	"jump range" 60
 	link Hydoroc
 	link Natrasah
 	asteroids "small rock" 1 2.912
@@ -811,10 +825,11 @@ system Seliprin
 			period 29.852
 
 system Sevalas
-	pos -1467.076 -223.792
+	pos -1185.076 -353.125
 	government Derogam
 	habitable 659.2
 	belt 1583
+	"jump range" 60
 	link Damek
 	link Kecal
 	link Remol
@@ -882,10 +897,11 @@ system Sevalas
 			period 21.962
 
 system Ryumek
-	pos -1193.249 -107.029
+	pos -1207.916 -539.362
 	government Derogam
 	habitable 625
 	belt 1260
+	"jump range" 60
 	link Merzok
 	asteroids "medium rock" 3 5.4
 	asteroids "large rock" 1 3.42
@@ -931,10 +947,11 @@ system Ryumek
 		period 1944.27
 
 system Emtania
-	pos -1350.101 -531.466
+	pos -1671.434 -960.799
 	government "Derogam Armada"
 	habitable 806.68
 	belt 1600
+	"jump range" 60
 	link Anrotine
 	link Fodrian
 	link Woltezem
@@ -996,10 +1013,11 @@ system Emtania
 			period 21.921
 
 system Inumi
-	pos -1351.866 -355.963
+	pos -1438.199 -513.296
 	government Derogam
 	habitable 425.92
 	belt 1778
+	"jump range" 60
 	link Achenor
 	link Sigen
 	link Velaquze
@@ -1051,10 +1069,11 @@ system Inumi
 			period 30.234
 
 system Anrotine
-	pos -1350.48 -493.856
+	pos -1582.48 -898.856
 	government "Derogam Armada"
 	habitable 320
 	belt 1285
+	"jump range" 120
 	link Emtania
 	link Fodrian
 	link Woltezem
@@ -1101,10 +1120,11 @@ system Anrotine
 			period 26.485
 
 system Taraja
-	pos -938.75 -80.9
+	pos -1030.528 -647.344
 	government Derogam
 	habitable 1948.28
 	belt 1476
+	"jump range" 60
 	link Quil
 	link Visiolant
 	link Withepatin
@@ -1166,10 +1186,11 @@ system Taraja
 			period 57.269
 
 system Enocturan
-	pos -1139.762 -2.719
+	pos -1114.206 -440.497
 	government Derogam
 	habitable 486.68
 	belt 1192
+	"jump range" 60
 	link Werazel
 	link Xidleno
 	asteroids "small rock" 79 3.289
@@ -1227,10 +1248,11 @@ system Enocturan
 			period 30.823
 
 system Ecrusber
-	pos -1017.3 -457.04
+	pos -1369.244 -1036.633
 	government Uninhabited
 	habitable 1715
 	belt 1996
+	"jump range" 65
 	link Tarasrha
 	link Zatozmac
 	asteroids "large metal" 1 3.861
@@ -1267,10 +1289,11 @@ system Ecrusber
 			period 19.437
 
 system Efimna
-	pos -1295.228 -747.866
+	pos -1538.135 -1502.977
 	government Uninhabited
 	habitable 100
 	belt 1003
+	"jump range" 90
 	link Strahd
 	asteroids "small rock" 6 3.119
 	asteroids "medium rock" 37 2.926
@@ -1324,76 +1347,13 @@ system Efimna
 			distance 662
 			period 60.592
 
-system Bestinbak
-	pos -1037.04 -200.443
-	government Derogam
-	habitable 486.68
-	belt 1487
-	link Batelest
-	asteroids "medium rock" 1 7.39
-	asteroids "large rock" 2 5.837
-	asteroids "small metal" 36 6.831
-	asteroids "medium metal" 6 4.099
-	asteroids "large metal" 16 8.88
-	minables copper 9 11.803
-	minables titanium 6 8.435
-	minables tungsten 7 14.047
-	trade Food 351
-	fleet "Small Derogam Civilians" 1000
-	fleet "Medium Derogam Civilians" 1500
-	fleet "Large Derogam Civilians" 3000
-	fleet "Small Derogam Armada" 1000
-	fleet "Medium Derogam Armada" 2000
-	fleet "Large Derogam Armada" 4000
-	object
-		sprite star/k0
-		period 10
-	object
-		sprite planet/ice6
-		distance 220.25
-		period 59.267
-	object
-		sprite planet/gas15
-		distance 703.94
-		period 338.643
-		object
-			sprite planet/oberon
-			distance 203
-			period 15.224
-	object
-		sprite planet/desert7
-		distance 1053.35
-		period 619.865
-	object
-		sprite planet/gas16
-		distance 1328.39
-		period 877.863
-	object
-		sprite planet/gas13
-		distance 2311.28
-		period 2014.73
-		object
-			sprite planet/ice0
-			distance 286
-			period 13.654
-		object
-			sprite planet/luna
-			distance 435
-			period 25.612
-		object
-			sprite planet/dust0
-			distance 519
-			period 33.378
-		object
-			sprite planet/rhea
-			distance 687
-			period 50.833
 
 system Zatozmac
-	pos -974.757 -416.732
+	pos -1344.424 -1152.399
 	government Derogam
 	habitable 135
 	belt 1443
+	"jump range" 60
 	link Ecrusber
 	link Suniba
 	asteroids "small rock" 107 1.568
@@ -1450,10 +1410,11 @@ system Zatozmac
 			period 14.39
 
 system Exircudom
-	pos -1541.99 -850.022
+	pos -1663.879 -1518.059
 	government Uninhabited
 	habitable 2725
 	belt 1263
+	"jump range" 150
 	asteroids "small metal" 6 9.135
 	asteroids "medium metal" 5 4.698
 	asteroids "large metal" 7 6.003
@@ -1496,10 +1457,11 @@ system Exircudom
 		offset 10.908
 
 system Xidleno
-	pos -1176.01 -60.219
+	pos -1109.343 -489.552
 	government Derogam
 	habitable 1948.28
 	belt 1226
+	"jump range" 60
 	link Araw
 	link Enocturan
 	asteroids "small rock" 10 1.666
@@ -1560,10 +1522,11 @@ system Xidleno
 			period 84.627
 
 system Canterup
-	pos -928.069 -280.539
+	pos -1175.736 -938.206
 	government Derogam
 	habitable 806.68
 	belt 1127
+	"jump range" 60
 	link Epicia
 	link Moretima
 	link Ogravros
@@ -1618,10 +1581,11 @@ system Canterup
 			period 25.835
 
 system Ecraus
-	pos -1226.187 -294.125
+	pos -1369.224 -672.458
 	government Derogam
 	habitable 625
 	belt 1713
+	"jump range" 60
 	link Intariag
 	asteroids "small rock" 10 2.153
 	asteroids "medium rock" 18 2.392
@@ -1673,10 +1637,11 @@ system Ecraus
 		period 1384.11
 
 system Achmor
-	pos -1485.52 -53.125
+	pos -1158.039 -137.495
 	government Derogam
 	habitable 625
 	belt 1497
+	"jump range" 60
 	link Abnoba
 	link Ceriac
 	link Epona
@@ -1750,10 +1715,11 @@ system Achmor
 			period 23.694
 
 system Epona
-	pos -1446.853 -10.792
+	pos -1207.52 -85.459
 	government Derogam
 	habitable 486.68
 	belt 1428
+	"jump range" 100
 	link Achmor
 	link Nehalennia
 	asteroids "small rock" 6 2.318
@@ -1794,10 +1760,11 @@ system Epona
 		period 2520.41
 
 system Vampy
-	pos -971.05 -15.606
+	pos -1007.717 -526.606
 	government Derogam
 	habitable 425.92
 	belt 1868
+	"jump range" 60
 	link Jeguna
 	asteroids "medium rock" 2 1.476
 	asteroids "large rock" 1 1.975
@@ -1846,10 +1813,11 @@ system Vampy
 		period 2047.5
 
 system Kelicev
-	pos -1122.5 44.7
+	pos -1098.722 -330.263
 	government Derogam
 	habitable 486.68
 	belt 1070
+	"jump range" 60
 	link Ferinol
 	link Weravid
 	asteroids "small rock" 2 7.56
@@ -1908,10 +1876,11 @@ system Kelicev
 			period 53.294
 
 system Nowoos
-	pos -1058.535 -350.732
+	pos -1256.535 -1045.399
 	government Derogam
 	habitable 425.92
 	belt 1629
+	"jump range" 60
 	link Morgranju
 	link Sudroprim
 	link Suniba
@@ -1968,11 +1937,11 @@ system Nowoos
 			period 24.954
 
 system Epicia
-	pos -972.573 -208.617
+	pos -1220.24 -859.284
 	government Derogam
 	habitable 425.92
 	belt 1392
-	link Batelest
+	"jump range" 60
 	link Canterup
 	link Ogravros
 	link Xinadra
@@ -2021,11 +1990,12 @@ system Epicia
 			distance 478
 			period 37.177
 
-system Levayes
-	pos -863.515 -109.486
+system Darsara
+	pos -1134.848 -700.708
 	government Derogam
 	habitable 425.92
 	belt 1868
+	"jump range" 60
 	link Seranir
 	link Visiolant
 	asteroids "medium rock" 2 1.476
@@ -2074,11 +2044,12 @@ system Levayes
 		distance 2234.7
 		period 2047.5
 
-system Nimese
-	pos -848.308 -205.236
+system Wintrish
+	pos -1166.975 -765.903
 	government Derogam
 	habitable 2795
 	belt 1038
+	"jump range" 60
 	link Seranir
 	link Xinadra
 	asteroids "medium rock" 2 3.432
@@ -2126,10 +2097,11 @@ system Nimese
 		period 682.222
 
 system Intariag
-	pos -1200.532 -243.741
+	pos -1291.236 -659.185
 	government Derogam
 	habitable 786.68
 	belt 1983
+	"jump range" 60
 	link Ailpak
 	link Deer
 	link Ecraus
@@ -2194,12 +2166,13 @@ system Intariag
 			period 64.883
 
 system Visiolant
-	pos -916.923 -131.07
+	pos -1089.923 -684.959
 	government Derogam
 	habitable 625
 	belt 1483
+	"jump range" 60
 	link Batelest
-	link Levayes
+	link Darsara
 	link Taraja
 	asteroids "small metal" 9 4.147
 	asteroids "medium metal" 2 4.524
@@ -2249,10 +2222,11 @@ system Visiolant
 			period 59.53
 
 system Strahd
-	pos -1307.339 -677.977
+	pos -1426.839 -1452.31
 	government Uninhabited
 	habitable 135
 	belt 1493
+	"jump range" 85
 	link Abenar
 	link Efimna
 	asteroids "medium rock" 7 3.84
@@ -2316,10 +2290,11 @@ system Strahd
 			period 57.887
 
 system Damek
-	pos -1433.853 -282.125
+	pos -1257.52 -419.792
 	government Derogam
 	habitable 719.96
 	belt 1180
+	"jump range" 60
 	link Cilur
 	link Sevalas
 	link Sigen
@@ -2370,10 +2345,11 @@ system Damek
 		period 1853.64
 
 system Dirego
-	pos -1009.161 126.283
+	pos -982.494 -350.384
 	government Derogam
 	habitable 486.68
 	belt 1881
+	"jump range" 60
 	link Bishynt
 	link Weravid
 	asteroids "small rock" 44 4.118
@@ -2413,10 +2389,12 @@ system Dirego
 		period 1682.34
 
 system Quil
-	pos -1011.16 -79.48
+	pos -1064.493 -614.591
 	government Derogam
 	habitable 625
 	belt 1512
+	"jump range" 60
+	link Batelest
 	link Jeguna
 	link Taraja
 	link Vensic
@@ -2465,10 +2443,11 @@ system Quil
 			period 22.579
 
 system Chanion
-	pos -1080.747 247.094
+	pos -1076.377 -135.647
 	government Derogam
 	habitable 3645
 	belt 1704
+	"jump range" 60
 	link Hydoroc
 	link Sheprex
 	asteroids "small rock" 64 2.109
@@ -2518,10 +2497,11 @@ system Chanion
 			period 42.69
 
 system Morgranju
-	pos -1021.652 -312.402
+	pos -1211.652 -1014.735
 	government Derogam
 	habitable 1715
 	belt 1868
+	"jump range" 60
 	link Nowoos
 	link Ogravros
 	link Suniba
@@ -2572,10 +2552,11 @@ system Morgranju
 			period 13.38
 
 system Akuro
-	pos -1084.9 -26.5
+	pos -1059.567 -502.944
 	government Derogam
 	habitable 2140.92
 	belt 1160
+	"jump range" 60
 	link Araw
 	link Jeguna
 	link Vensic
@@ -2624,10 +2605,11 @@ system Akuro
 		offset 100.304
 
 system Darajine
-	pos -1125.524 156.162
+	pos -1077.968 -275.912
 	government Derogam
 	habitable 760
 	belt 1438
+	"jump range" 60
 	link Weravid
 	asteroids "small rock" 13 7.992
 	asteroids "medium rock" 44 4.449
@@ -2683,10 +2665,11 @@ system Darajine
 		period 3181.65
 
 system Arcemy
-	pos -912.906 -223.284
+	pos -1170.239 -867.284
 	government Derogam
 	habitable 1313.28
 	belt 1989
+	"jump range" 60
 	link Xinadra
 	asteroids "small rock" 5 1.739
 	asteroids "medium rock" 2 2.125
@@ -2747,10 +2730,11 @@ system Arcemy
 			period 18.215
 
 system Remol
-	pos -1599.683 -223.507
+	pos -1243.016 -298.507
 	government Derogam
 	habitable 320
 	belt 1790
+	"jump range" 60
 	link Nastebsia
 	link Ryceb
 	link Sevalas
@@ -2796,10 +2780,11 @@ system Remol
 			period 25.307
 
 system Kecal
-	pos -1447.852 -157.482
+	pos -1149.185 -273.482
 	government Derogam
 	habitable 806.68
 	belt 1391
+	"jump range" 60
 	link Isaron
 	link Nastebsia
 	link Sevalas
@@ -2847,10 +2832,11 @@ system Kecal
 			period 13.44
 
 system Hydoroc
-	pos -1047.7 177.2
+	pos -1053.7 -189.467
 	government Derogam
 	habitable 486.68
 	belt 1072
+	"jump range" 60
 	link Chanion
 	link Seliprin
 	link Sheprex
@@ -2908,10 +2894,11 @@ system Hydoroc
 			period 43.859
 
 system Merishar
-	pos -1110.55 -185.4
+	pos -1167.328 -639.289
 	government Derogam
 	habitable 925.92
 	belt 1868
+	"jump range" 60
 	link Reiyo
 	link Vensic
 	asteroids "medium rock" 2 1.476
@@ -2967,10 +2954,11 @@ system Merishar
 		offset 264.502
 
 system Cilur
-	pos -1393.604 -209.036
+	pos -1176.271 -415.703
 	government Derogam
 	habitable 1080
 	belt 1830
+	"jump range" 60
 	link Canely
 	link Damek
 	asteroids "large metal" 1 6.413
@@ -3006,10 +2994,11 @@ system Cilur
 			period 25.348
 
 system Merzok
-	pos -1163.2 -177.4
+	pos -1223.533 -601.067
 	government Derogam
 	habitable 719.96
 	belt 1392
+	"jump range" 60
 	link Araw
 	link Reiyo
 	link Ryumek
@@ -3058,10 +3047,11 @@ system Merzok
 		period 1873.75
 
 system Ceriac
-	pos -1511.52 -94.125
+	pos -1202.927 -180.199
 	government Derogam
 	habitable 945
 	belt 1304
+	"jump range" 60
 	link Achmor
 	link Amolrar
 	link Isaron
@@ -3124,10 +3114,11 @@ system Ceriac
 			period 24.191
 
 system Eidolon
-	pos -1226.049 -154.48
+	pos -1252.049 -533.147
 	government Derogam
 	habitable 760
 	belt 1628
+	"jump range" 60
 	link Deer
 	asteroids "small rock" 55 7.655
 	asteroids "medium rock" 4 7.655
@@ -3183,10 +3174,11 @@ system Eidolon
 		period 1384.56
 
 system Nymioden
-	pos -1327.52 -231.125
+	pos -1286.631 -501.347
 	government Derogam
 	habitable 625
 	belt 1927
+	"jump range" 60
 	link Canely
 	link Konra
 	asteroids "medium rock" 215 1.204
@@ -3240,10 +3232,11 @@ system Nymioden
 		period 1452.1
 
 system Ferinol
-	pos -1169.08 95.855
+	pos -1074.117 -368.515
 	government Derogam
 	habitable 851.84
 	belt 1788
+	"jump range" 60
 	link Kelicev
 	link Weravid
 	asteroids "small rock" 37 4.047
@@ -3305,7 +3298,7 @@ system Ferinol
 			period 38.188
 
 system Gesines
-	pos -1650.99 -606.022
+	pos -1812.36 -1400.355
 	government Uninhabited
 	habitable 1885
 	belt 1983
@@ -3368,10 +3361,11 @@ system Gesines
 			period 79.303
 
 system Horrogos
-	pos -1071.444 -272.444
+	pos -1259.888 -824.333
 	government Derogam
 	habitable 1250
 	belt 1765
+	"jump range" 60
 	link Algiad
 	link Fafnarin
 	link Ogravros
@@ -3425,10 +3419,11 @@ system Horrogos
 			period 15.822
 
 system Risen
-	pos -1171.212 -611.244
+	pos -1448.879 -1245.411
 	government Uninhabited
 	habitable 486.68
 	belt 1125
+	"jump range" 75
 	link Abenar
 	link Tarasrha
 	asteroids "small rock" 22 1.214
@@ -3465,10 +3460,11 @@ system Risen
 			period 14.249
 
 system Isaron
-	pos -1455.52 -111.014
+	pos -1128.483 -199.088
 	government Derogam
 	habitable 320
 	belt 1731
+	"jump range" 60
 	link Achmor
 	link Ceriac
 	link Kecal
@@ -3512,10 +3508,11 @@ system Isaron
 			period 14.419
 
 system Gamjor
-	pos -1121.866 -413.63
+	pos -1362.866 -950.963
 	government Derogam
 	habitable 851.84
 	belt 1219
+	"jump range" 60
 	link Natiahz
 	link Sudroprim
 	link Taklarkirrok
@@ -3565,10 +3562,11 @@ system Gamjor
 		period 1374.67
 
 system Araw
-	pos -1116.858 -100.282
+	pos -1148.636 -559.393
 	government Derogam
 	habitable 553.28
 	belt 1356
+	"jump range" 60
 	link Akuro
 	link Merzok
 	link Vensic
@@ -3638,10 +3636,11 @@ system Araw
 			period 78.036
 
 system Stanyr
-	pos -1030.078 274.875
+	pos -932.041 -29.681
 	government Derogam
 	habitable 320
 	belt 1900
+	"jump range" 100
 	link Sheprex
 	asteroids "large rock" 1 3.489
 	asteroids "small metal" 2 3.528
@@ -3691,10 +3690,11 @@ system Stanyr
 			period 11.675
 
 system Vanec
-	pos -1513.556 -258.889
+	pos -1278.593 -352.185
 	government Derogam
 	habitable 1566.68
 	belt 1841
+	"jump range" 60
 	link Remol
 	link Sevalas
 	link Vyso
@@ -3753,10 +3753,11 @@ system Vanec
 			period 33
 
 system Werazel
-	pos -1082.79 25.1
+	pos -1040.123 -404.011
 	government Derogam
 	habitable 1566.68
 	belt 1324
+	"jump range" 60
 	link Akuro
 	link Bishynt
 	link Enocturan
@@ -3815,10 +3816,11 @@ system Werazel
 			period 24.686
 
 system Aurene
-	pos -1216.31 -340.074
+	pos -1404.977 -780.407
 	government Derogam
 	habitable 851.84
 	belt 1459
+	"jump range" 60
 	link Achenor
 	link Ailpak
 	link Glivast
@@ -3873,10 +3875,11 @@ system Aurene
 			period 25.719
 
 system Krotlyc
-	pos -1558.737 -46.732
+	pos -1225.7 -143.102
 	government Derogam
 	habitable 425.92
 	belt 1547
+	"jump range" 60
 	link Achmor
 	link Ceriac
 	asteroids "small rock" 2 7.056
@@ -3921,10 +3924,11 @@ system Krotlyc
 		period 1578.17
 
 system Habusyn
-	pos -998.3 39.4
+	pos -997.3 -455.267
 	government Derogam
 	habitable 3645
 	belt 1350
+	"jump range" 60
 	link Bishynt
 	asteroids "small rock" 2 1.854
 	asteroids "medium rock" 7 0.918
@@ -3973,10 +3977,11 @@ system Habusyn
 		period 957.488
 
 system Woltezem
-	pos -1385.101 -454.578
+	pos -1594.101 -795.245
 	government "Derogam Armada"
 	habitable 486.68
 	belt 1058
+	"jump range" 60
 	link Anrotine
 	link Emtania
 	link Fodrian
@@ -4022,10 +4027,11 @@ system Woltezem
 			period 13.031
 
 system Ryceb
-	pos -1658.52 -138.984
+	pos -1307.853 -267.317
 	government Derogam
 	habitable 425.92
 	belt 1860
+	"jump range" 60
 	link Remol
 	asteroids "small rock" 13 2.957
 	asteroids "medium rock" 12 3.046
@@ -4080,10 +4086,11 @@ system Ryceb
 			period 36.544
 
 system Sudroprim
-	pos -1104.97 -380.133
+	pos -1276.303 -963.466
 	government Derogam
 	habitable 1080
 	belt 1282
+	"jump range" 60
 	link Gamjor
 	link Nowoos
 	asteroids "small rock" 1 4.437
@@ -4133,10 +4140,11 @@ system Sudroprim
 			period 33.146
 
 system Arw
-	pos -1541.54 -531.9
+	pos -1813.225 -1167.029
 	government Uninhabited
 	habitable 100
 	belt 1816
+	"jump range" 95
 	link Penohserep
 	asteroids "large metal" 1 4.471
 	object
@@ -4179,10 +4187,11 @@ system Arw
 			period 11.458
 
 system Sarante
-	pos -1406.879 -643.355
+	pos -1630.212 -1161.688
 	government Uninhabited
 	habitable 1715
 	belt 1651
+	"jump range" 85
 	link Abenar
 	link Penohserep
 	asteroids "small rock" 1 3.395
@@ -4229,10 +4238,11 @@ system Sarante
 			period 21.596
 
 system Reiyo
-	pos -1127.7 -200.125
+	pos -1226.626 -650.384
 	government Derogam
 	habitable 1224.2
 	belt 1868
+	"jump range" 60
 	link Ailpak
 	link Algiad
 	link Intariag
@@ -4301,10 +4311,11 @@ system Reiyo
 		period 2317
 
 system Bishynt
-	pos -1045.717 75.95
+	pos -986.828 -394.494
 	government Derogam
 	habitable 1400
 	belt 1712
+	"jump range" 60
 	link Dirego
 	link Habusyn
 	link Werazel
@@ -4367,10 +4378,11 @@ system Bishynt
 			period 57.456
 
 system Vensic
-	pos -1039.191 -136.06
+	pos -1118.228 -594.616
 	government Derogam
 	habitable 719.96
 	belt 1878
+	"jump range" 60
 	link Akuro
 	link Araw
 	link Merishar
@@ -4429,10 +4441,11 @@ system Vensic
 			period 24.149
 
 system Velaquze
-	pos -1360 -308
+	pos -1350.333 -511.889
 	government Derogam
 	habitable 806.68
 	belt 1589
+	"jump range" 60
 	link Damek
 	link Inumi
 	link Konra
@@ -4493,10 +4506,11 @@ system Velaquze
 			period 21.742
 
 system Natrasah
-	pos -948.563 277.826
+	pos -995.822 -164.47
 	government Derogam
 	habitable 135
 	belt 1538
+	"jump range" 60
 	link Seliprin
 	link Sheprex
 	asteroids "small rock" 2 2.708
@@ -4552,10 +4566,11 @@ system Natrasah
 			period 12.811
 
 system Glivast
-	pos -1279.421 -381.963
+	pos -1449.088 -912.296
 	government Derogam
 	habitable 1885
 	belt 1831
+	"jump range" 60
 	link Aurene
 	asteroids "small rock" 3 2.029
 	asteroids "medium rock" 3 2.28
@@ -4604,10 +4619,11 @@ system Glivast
 		period 2353.94
 
 system Weravid
-	pos -1100.191 98.94
+	pos -1015.08 -300.171
 	government Derogam
 	habitable 486.68
 	belt 1438
+	"jump range" 60
 	link Darajine
 	link Dirego
 	link Ferinol
@@ -4664,12 +4680,13 @@ system Weravid
 			period 28.913
 
 system Seranir
-	pos -814.864 -157.125
+	pos -1189.531 -717.125
 	government Derogam
 	habitable 2201.68
 	belt 1058
-	link Levayes
-	link Nimese
+	"jump range" 60
+	link Darsara
+	link Wintrish
 	link Xinadra
 	asteroids "small rock" 11 3.698
 	asteroids "medium rock" 32 2.244
@@ -4736,10 +4753,11 @@ system Seranir
 			period 32.947
 
 system Abnoba
-	pos -1526.187 16.208
+	pos -1127.854 -51.792
 	government Derogam
 	habitable 486.68
 	belt 1671
+	"jump range" 60
 	link Achmor
 	link Nehalennia
 	asteroids "medium metal" 1 3.51
@@ -4794,10 +4812,11 @@ system Abnoba
 			period 58.952
 
 system Sigen
-	pos -1454.187 -372.458
+	pos -1348.854 -445.125
 	government Derogam
 	habitable 425.92
 	belt 1225
+	"jump range" 60
 	link Damek
 	link Inumi
 	link Vyso
@@ -4843,10 +4862,11 @@ system Sigen
 		period 2085.93
 
 system Fafnarin
-	pos -1108.9 -339.5
+	pos -1324.122 -797.722
 	government Derogam
 	habitable 625
 	belt 1391
+	"jump range" 60
 	link Ailpak
 	link Horrogos
 	link Natiahz
@@ -4890,15 +4910,15 @@ system Fafnarin
 		offset 59.199
 
 system Xinadra
-	pos -912.308 -171.236
+	pos -1207.308 -806.569
 	government Derogam
 	habitable 858.28
 	belt 1695
+	"jump range" 60
 	link Arcemy
-	link Batelest
 	link Epicia
-	link Nimese
 	link Seranir
+	link Wintrish
 	asteroids "small rock" 14 2.1
 	asteroids "medium rock" 16 1.876
 	asteroids "large rock" 15 1.47
@@ -4952,10 +4972,11 @@ system Xinadra
 			period 26.747
 
 system Sheprex
-	pos -1024.08 229.162
+	pos -1003.191 -87.357
 	government Derogam
 	habitable 625
 	belt 1712
+	"jump range" 60
 	link Chanion
 	link Hydoroc
 	link Natrasah
@@ -5009,10 +5030,11 @@ system Sheprex
 			period 23.508
 
 system Nehalennia
-	pos -1465.853 46.875
+	pos -1168.52 -69.125
 	government Derogam
 	habitable 858.28
 	belt 1611
+	"jump range" 60
 	link Abnoba
 	link Epona
 	asteroids "small rock" 6 3.634
@@ -5077,10 +5099,11 @@ system Nehalennia
 			period 44.305
 
 system Tarasrha
-	pos -1052.323 -541.244
+	pos -1479.156 -1122.744
 	government Uninhabited
 	habitable 8640
 	belt 1673
+	"jump range" 70
 	link Ecrusber
 	link Plecistens
 	link Risen
@@ -5124,7 +5147,7 @@ system Tarasrha
 			period 27.435
 
 system Tahed
-	pos -1578.228 -768.533
+	pos -1626.709 -1399.533
 	government Uninhabited
 	habitable 100
 	belt 1430
@@ -5169,10 +5192,11 @@ system Tahed
 		offset 141.615
 
 system Themension
-	pos -1592.99 -696.022
+	pos -1722.768 -1447.355
 	government Uninhabited
 	habitable 8640
 	belt 1315
+	"jump range" 95
 	link Gesines
 	link Penohserep
 	link Tahed
@@ -5227,10 +5251,11 @@ system Themension
 			period 41.581
 
 system Deer
-	pos -1283.3 -207.147
+	pos -1284.633 -585.814
 	government Derogam
 	habitable 4270
 	belt 1368
+	"jump range" 60
 	link Eidolon
 	link Intariag
 	link Konra
@@ -5279,10 +5304,11 @@ system Deer
 		period 758.79
 
 system Fodrian
-	pos -1278.879 -486.689
+	pos -1508.879 -952.689
 	government "Derogam Armada"
 	habitable 1080
 	belt 1035
+	"jump range" 60
 	link Anrotine
 	link Emtania
 	link Woltezem
@@ -5336,10 +5362,11 @@ system Fodrian
 			period 16.499
 
 system Jeguna
-	pos -1027.747 -38.504
+	pos -1020.636 -581.393
 	government Derogam
 	habitable 425.92
 	belt 1224
+	"jump range" 60
 	link Akuro
 	link Quil
 	link Vampy
@@ -5395,14 +5422,13 @@ system Jeguna
 			period 30.902
 
 system Batelest
-	pos -995.31 -152.236
+	pos -1114.532 -630.347
 	government Derogam
 	habitable 135
 	belt 1716
-	link Bestinbak
-	link Epicia
+	"jump range" 60
+	link Quil
 	link Visiolant
-	link Xinadra
 	asteroids "medium rock" 2 9.933
 	asteroids "large rock" 1 5.873
 	asteroids "small metal" 3 8.193
@@ -5454,9 +5480,10 @@ system Batelest
 		period 60494.6
 
 system Nastebsia
-	pos -1537.52 -160.792
+	pos -1219.52 -248.125
 	government Derogam
 	habitable 1400
+	"jump range" 60
 	link Kecal
 	link Remol
 	asteroids "small rock" 32 5.177
@@ -5526,10 +5553,11 @@ system Nastebsia
 			period 41.138
 
 system Natiahz
-	pos -1152.088 -360.407
+	pos -1330.866 -849.963
 	government Derogam
 	habitable 625
 	belt 1963
+	"jump range" 60
 	link Aurene
 	link Fafnarin
 	link Gamjor
@@ -5579,10 +5607,11 @@ system Natiahz
 			period 13.489
 
 system Suniba
-	pos -985.201 -362.621
+	pos -1218.201 -1116.621
 	government Derogam
 	habitable 425.92
 	belt 1982
+	"jump range" 60
 	link Morgranju
 	link Nowoos
 	link Tamita
@@ -5628,10 +5657,11 @@ system Suniba
 			period 13.657
 
 system Taklarkirrok
-	pos -1214.31 -395.074
+	pos -1379.643 -883.074
 	government Derogam
 	habitable 1715
 	belt 1086
+	"jump range" 60
 	link Aurene
 	link Gamjor
 	asteroids "medium rock" 2 2.523
@@ -5680,8 +5710,9 @@ system Taklarkirrok
 		period 976.377
 
 system Antahmas
-	pos -1520.811 -405.569
+	pos -1415.478 -402.643
 	government Derogam
+	"jump range" 60
 	link Vyso
 	trade Food 451
 	fleet "Small Derogam Civilians" 4000
@@ -5692,8 +5723,9 @@ system Antahmas
 	fleet "Large Derogam Armada" 18000
 
 system Moretima
-	pos -889.7 -244.56
+	pos -1167.033 -976.227
 	government Derogam
+	"jump range" 60
 	link Canterup
 	trade Food 254
 
@@ -5935,3 +5967,4 @@ planet Alimaw
 	spaceport Spaceport
 	bribe 0
 	security 0.45
+
