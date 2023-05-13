@@ -4,7 +4,7 @@ system "Derogam "
 	"jump range" 3000
 	government "Plugin"
 	link "Coalition "
-	pos -564 -10100
+	pos -613 -10325
 	object "  Derogam"
 		sprite "asteroid/yottrite/spin"
 planet "  Derogam"
