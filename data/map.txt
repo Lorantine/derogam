@@ -5678,6 +5678,12 @@ system Antahmas
 	government Derogam
 	link Vyso
 	trade Food 451
+	fleet "Small Derogam Civilians" 4000
+	fleet "Medium Derogam Civilians" 6000
+	fleet "Large Derogam Civilians" 12000
+	fleet "Small Derogam Armada" 6000
+	fleet "Medium Derogam Armada" 9000
+	fleet "Large Derogam Armada" 18000
 
 system Moretima
 	pos -889.7 -244.56
