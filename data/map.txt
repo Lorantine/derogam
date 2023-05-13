@@ -5695,6 +5695,7 @@ system Moretima
 	pos -889.7 -244.56
 	government Derogam
 	link Canterup
+	trade Food 254
 
 planet Achonra
 	landscape land/desert8-sfiera
