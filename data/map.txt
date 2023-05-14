@@ -1166,11 +1166,12 @@ system Vampy
 		period 2047.5
 
 system Kelicev
-	pos -1026.352 -65.337
+	pos -1017.352 -79.337
 	government Derogam
 	habitable 486.68
 	belt 1070
 	"jump range" 60
+	link Chanion
 	link Ferinol
 	link Hydoroc
 	link Weravid
@@ -1764,12 +1765,13 @@ system Damek
 		period 58.061
 
 system Chanion
-	pos -1170.784 -5.684
+	pos -1116.34 -24.351
 	government Derogam
 	habitable 3645
 	belt 1704
 	"jump range" 60
 	link Hydoroc
+	link Kelicev
 	link Sheprex
 	link Stanyr
 	asteroids "small rock" 64 2.109
@@ -1922,14 +1924,13 @@ system Kecal
 			period 13.44
 
 system Hydoroc
-	pos -1100.774 -107.133
+	pos -1088.108 -88.133
 	government Derogam
 	habitable 786.68
 	belt 1072
 	"jump range" 60
 	link Chanion
 	link Kelicev
-	link Sheprex
 	link Weravid
 	asteroids "large rock" 1 5.661
 	asteroids "small metal" 10 4.131
@@ -2224,7 +2225,7 @@ system Nymioden
 		period 1452.1
 
 system Ferinol
-	pos -1009.524 -130.664
+	pos -986.524 -147.664
 	government Derogam
 	habitable 851.84
 	belt 1788
@@ -2584,7 +2585,7 @@ system Araw
 			period 78.036
 
 system Stanyr
-	pos -1113.152 -28.347
+	pos -1049.374 -19.014
 	government Derogam
 	habitable 320
 	belt 1900
@@ -2638,7 +2639,7 @@ system Stanyr
 			period 11.675
 
 system Werazel
-	pos -1035.309 -189.159
+	pos -1021.309 -191.159
 	government Derogam
 	habitable 1566.68
 	belt 1324
@@ -3047,7 +3048,7 @@ system Reiyo
 		period 2317
 
 system Bishynt
-	pos -1121.791 -219.679
+	pos -1099.125 -211.679
 	government Derogam
 	habitable 1400
 	belt 1712
@@ -3286,7 +3287,7 @@ system Glivast
 		period 2353.94
 
 system Weravid
-	pos -1090.228 -135.727
+	pos -1069.228 -141.394
 	government Derogam
 	habitable 786.68
 	belt 1438
@@ -3576,13 +3577,12 @@ system Xinadra
 			period 26.747
 
 system Sheprex
-	pos -1060.376 23.347
+	pos -1043.043 35.347
 	government Derogam
 	habitable 625
 	belt 1712
 	"jump range" 60
 	link Chanion
-	link Hydoroc
 	link Natrasah
 	asteroids "small rock" 3 4.104
 	asteroids "medium rock" 4 5.301
