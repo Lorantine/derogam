@@ -822,7 +822,6 @@ system Anrotine
 			distance 401
 			period 26.485
 
-
 system Ecrusber
 	pos -1221.244 -803.299
 	government Uninhabited
@@ -1531,7 +1530,7 @@ system Intariag
 
 system Visiolant
 	pos -992.96 -505.329
-	government Derogam
+	government Quarg
 	habitable 625
 	belt 1483
 	"jump range" 60
@@ -1550,12 +1549,12 @@ system Visiolant
 	object
 		sprite star/g5
 		period 10
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
@@ -1573,31 +1572,31 @@ system Visiolant
 		distance 812
 		period 349.82
 		offset 100
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 120
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 140
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 160
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 180
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
@@ -1615,19 +1614,19 @@ system Visiolant
 		distance 812
 		period 349.82
 		offset 280
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 300
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.82
 		offset 320
-	object
+	object "Kwark Ustelkeria"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
@@ -1819,9 +1818,6 @@ system Chanion
 			sprite planet/oberon
 			distance 485
 			period 42.69
-
-
-
 
 system Remol
 	pos -1350.349 -218.73
@@ -2046,7 +2042,6 @@ system Merishar
 		distance 2495.02
 		period 1638.27
 		offset 264.502
-
 
 system Merzok
 	pos -1151.681 -347.659
@@ -2509,7 +2504,6 @@ system Isaron
 			distance 225
 			period 14.419
 
-
 system Araw
 	pos -1105.155 -288.8
 	government Derogam
@@ -2758,7 +2752,6 @@ system Aurene
 			distance 361
 			period 25.719
 
-
 system Woltezem
 	pos -1428.064 -466.171
 	government "Derogam Armada"
@@ -2865,7 +2858,6 @@ system Ryceb
 			sprite planet/dust0
 			distance 497
 			period 36.544
-
 
 system Arw
 	pos -1642.781 -922.733
@@ -3173,7 +3165,6 @@ system Vensic
 			sprite planet/luna
 			distance 375
 			period 24.149
-
 
 system Natrasah
 	pos -980.934 2.196
@@ -4419,7 +4410,6 @@ planet Achonra
 	bribe 0
 	security 0.9
 
-
 planet Sicreb
 	landscape land/tbd
 	description TBD
@@ -4574,7 +4564,6 @@ planet Gafemox
 	bribe 0
 	security 0.6
 
-
 planet Sunyh
 	landscape land/tbd
 	description TBD
@@ -4711,7 +4700,6 @@ planet Dirego
 	bribe 0
 	security 0.6
 
-
 planet Velaquze
 	landscape land/tbd
 	description TBD
@@ -4743,7 +4731,6 @@ planet Tamita
 	government Derogam
 	bribe 0
 	security 0.55
-
 
 planet Derogate
 	bribe 0
@@ -4800,4 +4787,12 @@ planet Arcemy
 	government Derogam
 	bribe 0
 	security 0.7
+
+planet "Kwark Ustelkeria"
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government Quarg
+	bribe 0
+	security 0.9
 
