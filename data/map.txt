@@ -81,7 +81,7 @@ system Achenor
 			period 38.378
 
 system Penohserep
-	pos -1696.99 -1019.892
+	pos -1581.99 -697.475
 	government Uninhabited
 	habitable 1080
 	belt 1455
@@ -243,7 +243,7 @@ system Algiad
 			period 21.968
 
 system Abenar
-	pos -1481.768 -1092.8
+	pos -1629.101 -818.133
 	government Uninhabited
 	habitable 625
 	belt 1552
@@ -473,7 +473,7 @@ system Konra
 			period 50.415
 
 system Plecistens
-	pos -1541.116 -847.514
+	pos -1581.449 -1011.514
 	government Uninhabited
 	habitable 100
 	belt 1224
@@ -864,7 +864,7 @@ system Ecrusber
 			period 19.437
 
 system Efimna
-	pos -1456.654 -1207.273
+	pos -1769.821 -928.106
 	government Uninhabited
 	habitable 100
 	belt 1003
@@ -923,7 +923,7 @@ system Efimna
 			period 60.592
 
 system Exircudom
-	pos -1598.027 -1246.429
+	pos -1567.546 -218.096
 	government Uninhabited
 	habitable 2725
 	belt 1263
@@ -1634,7 +1634,7 @@ system Visiolant
 		offset 340
 
 system Strahd
-	pos -1396.617 -1123.644
+	pos -1670.284 -924.394
 	government Uninhabited
 	habitable 135
 	belt 1493
@@ -1820,7 +1820,7 @@ system Chanion
 			period 42.69
 
 system Remol
-	pos -1350.349 -218.73
+	pos -1350.053 -221.397
 	government Derogam
 	habitable 320
 	belt 1790
@@ -2286,7 +2286,7 @@ system Ferinol
 			period 38.188
 
 system Gesines
-	pos -1804.138 -1019.689
+	pos -1623.388 -367.106
 	government Uninhabited
 	habitable 1885
 	belt 1983
@@ -2407,7 +2407,7 @@ system Horrogos
 			period 15.822
 
 system Risen
-	pos -1419.101 -1001.633
+	pos -1466.434 -801.466
 	government Uninhabited
 	habitable 486.68
 	belt 1125
@@ -2860,7 +2860,7 @@ system Ryceb
 			period 36.544
 
 system Arw
-	pos -1642.781 -922.733
+	pos -1704.781 -583.15
 	government Uninhabited
 	habitable 100
 	belt 1816
@@ -2907,7 +2907,7 @@ system Arw
 			period 11.458
 
 system Sarante
-	pos -1581.842 -1011.762
+	pos -1789.509 -795.679
 	government Uninhabited
 	habitable 1715
 	belt 1651
@@ -3707,7 +3707,7 @@ system Nehalina
 			period 44.305
 
 system Tarasrha
-	pos -1363.156 -884.077
+	pos -1360.489 -951.077
 	government Uninhabited
 	habitable 8640
 	belt 1673
@@ -3755,7 +3755,7 @@ system Tarasrha
 			period 27.435
 
 system Tahed
-	pos -1589.302 -1155.236
+	pos -1771.885 -384.653
 	government Uninhabited
 	habitable 100
 	belt 1430
@@ -3800,7 +3800,7 @@ system Tahed
 		offset 141.615
 
 system Themension
-	pos -1686.398 -1130.466
+	pos -1592.898 -464.049
 	government Uninhabited
 	habitable 8640
 	belt 1315
