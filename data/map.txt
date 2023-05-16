@@ -4735,6 +4735,7 @@ planet Tamita
 planet Derogate
 	bribe 0
 	security 1
+	wormhole Derogate
 
 wormhole Derogate
 	link Anrotine Glivast
