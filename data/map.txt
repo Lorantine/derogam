@@ -47,9 +47,9 @@ system Achenor
 		sprite planet/cloud6
 		distance 181.04
 		period 47.213
-	object
+	object Endy
 		sprite planet/venus
-		distance 571.28
+		distance 502.973
 		period 264.649
 	object
 		sprite planet/gas15
@@ -237,7 +237,6 @@ system Algiad
 			sprite planet/dust1
 			distance 354
 			period 21.968
-
 
 system Ogravros
 	pos -1083.778 -714.593
@@ -636,12 +635,12 @@ system Inumi
 		sprite star/k5
 		period 10
 	object
-		sprite planet/rock13
-		distance 153.76
-		period 36.954
-	object
 		sprite planet/lava2
-		distance 332.76
+		distance 179.832
+		period 36.954
+	object Garian
+		sprite planet/rock14
+		distance 374.543
 		period 117.65
 	object
 		sprite planet/gas10
@@ -759,7 +758,6 @@ system Ecrusber
 		sprite planet/water1
 		distance 3098.461
 		period 1617.92
-
 
 system Exircudom
 	pos -1439.991 -826.43
@@ -1988,19 +1986,19 @@ system Nymioden
 		period 10
 	object
 		sprite planet/ice3
-		distance 561.806
-		period 81.481
+		distance 2361.097
+		period 1281.481
 		object
 			sprite planet/dust1
 			distance 199.198
 			period 16.182
-	object Endy
+	object
 		sprite planet/lava0
-		distance 952.795
+		distance 471.919
 		period 222.337
 	object
 		sprite planet/gas15
-		distance 1485.511
+		distance 1734.893
 		period 663.686
 		object
 			sprite planet/ice8
@@ -2016,7 +2014,7 @@ system Nymioden
 			period 45.47
 	object
 		sprite planet/gas16
-		distance 2019.53
+		distance 1065.694
 		period 1452.1
 
 system Ferinol
@@ -2615,7 +2613,6 @@ system Ryceb
 			distance 497
 			period 36.544
 
-
 system Reiyo
 	pos -1117.737 -454.681
 	government Derogam
@@ -3094,15 +3091,15 @@ system Sigen
 		period 10
 	object
 		sprite planet/desert6
-		distance 222.61
-		period 64.374
-	object Garian
+		distance 350.026
+		period 114.374
+	object
 		sprite planet/rock3
-		distance 397.17
-		period 153.412
+		distance 576.625
+		period 253.412
 	object
 		sprite planet/gas0
-		distance 889.73
+		distance 1154.658
 		period 514.379
 		object
 			sprite planet/ice0
@@ -3364,7 +3361,6 @@ system Nehalina
 			sprite planet/lava0
 			distance 562
 			period 44.305
-
 
 system Themension
 	pos -1338.972 -801.531
