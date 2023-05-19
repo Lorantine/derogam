@@ -127,7 +127,6 @@ system Ailpak
 	belt 1150
 	"jump range" 60
 	link Fafnarin
-	link Intariag
 	link Reiyo
 	asteroids "small rock" 1 6.413
 	asteroids "medium rock" 1 4.655
@@ -540,7 +539,7 @@ system Emtania
 	habitable 806.68
 	belt 1600
 	"jump range" 60
-	link Anrotine
+	link Arotine
 	link Woltezem
 	asteroids "small rock" 23 2.1
 	asteroids "medium rock" 25 4.2
@@ -656,10 +655,10 @@ system Inumi
 			distance 292
 			period 30.234
 
-system Anrotine
+system Arotine
 	pos -1401.702 -593.56
 	government "Derogam Armada"
-	habitable 320
+	habitable 10562.197
 	belt 1285
 	"jump range" 60
 	link Emtania
@@ -671,40 +670,74 @@ system Anrotine
 	minables iron 20 3.611
 	minables silver 6 3.565
 	trade Food 468
-	fleet "Small Derogam Armada" 600
-	fleet "Medium Derogam Armada" 1200
-	fleet "Large Derogam Armada" 2400
+	fleet "Small Derogam Armada" 500
+	fleet "Medium Derogam Armada" 1000
+	fleet "Large Derogam Armada" 2000
 	object
-		sprite star/m0
-		period 10
+		sprite star/a3
+		distance 162.13
+		period 75.125
 	object
-		sprite planet/rock15
-		distance 129.24
-		period 32.853
+		sprite star/o5
+		distance 73.87
+		period 75.125
+		offset 180
 	object
-		sprite planet/cloud6
-		distance 413.4
-		period 187.949
+		sprite planet/dust6
+		distance 371
+		period 27.813
 	object
-		sprite planet/rock5
-		distance 609.89
-		period 336.792
-	object Derogate
-		sprite planet/derogamgate
-		distance 1074.14
-		period 787.184
+		sprite planet/water0
+		distance 702
+		period 72.392
+	object
+		sprite planet/rock6-b
+		distance 1296
+		period 181.589
 	object
 		sprite planet/gas11
-		distance 2137.37
-		period 2209.56
+		distance 2277
+		period 422.89
 		object
-			sprite planet/dust3
-			distance 255
-			period 13.43
+			sprite planet/dust5-b
+			distance 320
+			period 149.811
 		object
-			sprite planet/callisto
-			distance 401
-			period 26.485
+			sprite planet/ice0-b
+			distance 481
+			period 398.766
+	object
+		sprite planet/gas11-b
+		distance 4935
+		period 1349.316
+		object
+			sprite planet/lava0
+			distance 273
+			period 118.049
+	object Astelia
+		sprite planet/forest6
+		distance 6443
+		period 2012.867
+		object
+			sprite planet/dust1-b
+			distance 229
+			period 107.778
+		object
+			sprite planet/ice0
+			distance 364
+			period 262.514
+	object Derogate
+		sprite planet/derogamgate
+		distance 8369.965
+		period 3877.76
+	object
+		sprite planet/gas7-b
+		distance 10959.734
+		period 3794.26
+		object
+			sprite planet/dust7-b
+			distance 442.043
+			period 131.16
 
 system Ecrusber
 	pos -1221.244 -803.299
@@ -1117,7 +1150,7 @@ system Nowoos
 system Epicia
 	pos -1008.758 -706.839
 	government Derogam
-	habitable 425.92
+	habitable 11500
 	belt 1392
 	"jump range" 60
 	link Ogravros
@@ -1136,36 +1169,32 @@ system Epicia
 	fleet "Medium Derogam Armada" 1800
 	fleet "Large Derogam Armada" 3600
 	object
-		sprite star/k5
+		sprite star/o3
 		period 10
 	object
-		sprite planet/gas2
-		distance 398.96
-		period 154.451
-		object
-			sprite planet/ice7
-			distance 206
-			period 17.915
+		sprite planet/cloud0
+		distance 445
+		period 35.015
 	object
-		sprite planet/rock5
-		distance 827.57
-		period 461.427
+		sprite planet/forest4
+		distance 808
+		period 85.67
 	object
-		sprite planet/gas7
-		distance 1521.57
-		period 1150.36
+		sprite planet/gas0-hot
+		distance 1633
+		period 246.145
 		object
-			sprite planet/ice8
-			distance 257
-			period 14.657
-		object
-			sprite planet/rock0
-			distance 350
-			period 23.293
-		object
-			sprite planet/dust4
-			distance 478
-			period 37.177
+			sprite planet/luna-b
+			distance 243
+			period 143.189
+	object
+		sprite planet/dust1
+		distance 3783
+		period 867.892
+	object Alcigmol
+		sprite planet/ice7
+		distance 6644
+		period 2020.019
 
 system Darsara
 	pos -1035.737 -541.523
@@ -1311,7 +1340,6 @@ system Intariag
 	habitable 786.68
 	belt 1983
 	"jump range" 60
-	link Ailpak
 	link Ecraus
 	link Konra
 	link Reiyo
@@ -3459,7 +3487,7 @@ system Fodrian
 	habitable 1080
 	belt 1035
 	"jump range" 60
-	link Anrotine
+	link Arotine
 	asteroids "small rock" 2 1.782
 	asteroids "medium rock" 1 2.97
 	asteroids "large rock" 3 1.815
@@ -3536,7 +3564,7 @@ system Jeguna
 	object
 		sprite star/k5
 		period 10
-	object
+	object Akuro
 		sprite planet/cloud3
 		distance 211.76
 		period 59.726
@@ -3731,7 +3759,7 @@ system Natiahz
 		sprite planet/rock8
 		distance 202.41
 		period 46.075
-	object
+	object Tequatl
 		sprite planet/io
 		distance 353.41
 		period 106.301
@@ -4263,16 +4291,6 @@ planet Tamita
 	bribe 0
 	security 0.55
 
-planet Derogate
-	bribe 0
-	security 1
-	wormhole Derogate
-
-wormhole Derogate
-	link Anrotine Glivast
-	link Glivast Anrotine
-	mappable
-
 planet Krotlyc
 	landscape land/tbd
 	description TBD
@@ -4359,4 +4377,46 @@ planet Anapsum
 	government Derogam
 	bribe 0
 	security 0.4
+
+planet Akuro
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government Derogam
+	bribe 0
+	security 0.6
+
+planet Tequatl
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government Derogam
+	bribe 0
+	security 0.7
+
+planet Alcigmol
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government Derogam
+	bribe 0
+	security 0.8
+
+planet Astelia
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government "Derogam Armada"
+	bribe 0
+	security 1
+
+planet Derogate
+	bribe 0
+	security 1
+	wormhole Derogate
+
+wormhole Derogate
+	link Arotine Glivast
+	link Glivast Arotine
+	mappable
 
