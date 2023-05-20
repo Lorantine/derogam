@@ -4422,7 +4422,7 @@ planet Derogate
 	wormhole Derogate
 
 wormhole Derogate
-	link Arotine Glivast
-	link Glivast Arotine
+	link Arotina Glivast
+	link Glivast Arotina
 	mappable
 
