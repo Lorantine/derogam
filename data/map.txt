@@ -533,14 +533,14 @@ system Ryumek
 		distance 2453.34
 		period 1944.27
 
-system Emtania
+system Protatch
 	pos -1376.027 -518.91
 	government "Derogam Armada"
-	habitable 806.68
+	habitable 4500
 	belt 1600
 	"jump range" 60
-	link Arotine
-	link Woltezem
+	link Arotina
+	link Wolzem
 	asteroids "small rock" 23 2.1
 	asteroids "medium rock" 25 4.2
 	asteroids "large rock" 6 4.44
@@ -553,50 +553,36 @@ system Emtania
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
 	object
-		sprite star/k0
-		distance 45.222
-		period 17.142
+		sprite star/k-supergiant
+		period 10
 	object
-		sprite star/m0
-		distance 68.778
-		period 17.142
-		offset 180
+		sprite planet/dust6-b
+		distance 722
+		period 115.68
 	object
-		sprite planet/rock5
-		distance 199.138
-		period 39.577
+		sprite planet/rock17-b
+		distance 1188
+		period 244.162
 	object
-		sprite planet/desert10
-		distance 445.548
-		period 132.45
-	object
-		sprite planet/lava0
-		distance 750.548
-		period 289.585
-	object
-		sprite planet/jupiter
-		distance 1446.8
-		period 775.034
+		sprite planet/gas0-hot
+		distance 2775
+		period 871.662
 		object
-			sprite planet/ice8
-			distance 273
-			period 14.174
+			sprite planet/lava0
+			distance 230
+			period 91.287
 		object
-			sprite planet/dust4
-			distance 374
-			period 22.728
+			sprite planet/rock0-b
+			distance 348
+			period 245.397
+		object
+			sprite planet/tethys
+			distance 506
+			period 701.003
 	object
-		sprite planet/gas1
-		distance 3521.05
-		period 2942.5
-		object
-			sprite planet/dust3
-			distance 218
-			period 12.865
-		object
-			sprite planet/rock3
-			distance 311
-			period 21.921
+		sprite planet/uranus-b
+		distance 3822
+		period 1408.931
 
 system Inumi
 	pos -1327.607 -354.704
@@ -655,14 +641,14 @@ system Inumi
 			distance 292
 			period 30.234
 
-system Arotine
+system Arotina
 	pos -1401.702 -593.56
 	government "Derogam Armada"
 	habitable 10562.197
 	belt 1285
 	"jump range" 60
-	link Emtania
-	link Fodrian
+	link Forian
+	link Protatch
 	asteroids "large rock" 1 3.718
 	asteroids "small metal" 70 2.678
 	asteroids "medium metal" 108 3.406
@@ -2513,53 +2499,57 @@ system Aurene
 			distance 361
 			period 25.719
 
-system Woltezem
+system Wolzem
 	pos -1428.064 -466.171
 	government "Derogam Armada"
-	habitable 486.68
+	habitable 11850
 	belt 1058
 	"jump range" 60
-	link Emtania
+	link Protatch
 	asteroids "small rock" 1 9.532
 	asteroids "large rock" 4 9.734
 	asteroids "medium metal" 4 9.329
 	asteroids "large metal" 4 7.233
 	minables lead 1 13.007
 	trade Food 440
-	fleet "Small Derogam Armada" 700
-	fleet "Medium Derogam Armada" 1400
-	fleet "Large Derogam Armada" 2800
+	fleet "Small Derogam Armada" 600
+	fleet "Medium Derogam Armada" 1200
+	fleet "Large Derogam Armada" 2400
 	object
-		sprite star/k0
+		sprite star/a-supergiant
 		period 10
 	object
-		sprite planet/callisto
-		distance 206.49
-		period 53.801
-	object
-		sprite planet/rock4
-		distance 436.18
-		period 165.172
-	object
-		sprite planet/cloud4
-		distance 1029.43
-		period 598.871
+		sprite planet/cloud6
+		distance 731
+		period 72.623
 		object
 			sprite planet/dust7
-			distance 141
-			period 15.748
+			distance 186
+			period 95.889
 	object
-		sprite planet/rock6
-		distance 1434.44
-		period 985.058
+		sprite planet/gas13-b
+		distance 1593
+		period 233.628
 	object
-		sprite planet/gas15
-		distance 2535.69
-		period 2315.17
+		sprite planet/gas5
+		distance 2738
+		period 526.443
 		object
-			sprite planet/ice0
-			distance 183
-			period 13.031
+			sprite planet/rock14-b
+			distance 272
+			period 117.401
+		object
+			sprite planet/io-b
+			distance 433
+			period 340.59
+	object
+		sprite planet/rock14
+		distance 4967
+		period 1286.299
+	object Emtania
+		sprite planet/forest1-b
+		distance 7006.148
+		period 1785.76
 
 system Ryceb
 	pos -1348.965 -220.947
@@ -3481,13 +3471,13 @@ system Deer
 		distance 2486.09
 		period 758.79
 
-system Fodrian
+system Forian
 	pos -1344.842 -613.504
 	government "Derogam Armada"
-	habitable 1080
+	habitable 8400
 	belt 1035
 	"jump range" 60
-	link Arotine
+	link Arotina
 	asteroids "small rock" 2 1.782
 	asteroids "medium rock" 1 2.97
 	asteroids "large rock" 3 1.815
@@ -3502,40 +3492,40 @@ system Fodrian
 	fleet "Medium Derogam Armada" 1400
 	fleet "Large Derogam Armada" 2800
 	object
-		sprite star/g0
+		sprite star/f-supergiant
 		period 10
 	object
-		sprite planet/mercury
-		distance 158
-		period 24.173
+		sprite planet/desert0
+		distance 608
+		period 65.43
 	object
-		sprite planet/gas8
-		distance 912.21
-		period 335.344
-		object
-			sprite planet/ice8
-			distance 198
-			period 14.831
-		object
-			sprite planet/dust0
-			distance 291
-			period 26.425
-		object
-			sprite planet/oberon
-			distance 367
-			period 37.426
-		object
-			sprite planet/dust3
-			distance 491
-			period 57.916
+		sprite planet/rock4-b
+		distance 1004
+		period 138.842
 	object
-		sprite planet/gas2
-		distance 1804.46
-		period 932.973
+		sprite planet/gas11
+		distance 2212
+		period 454.044
+	object
+		sprite planet/gas1-b
+		distance 5510
+		period 1785.039
 		object
-			sprite planet/dust5
-			distance 195
-			period 16.499
+			sprite planet/oberon-b
+			distance 496
+			period 680.326
+	object
+		sprite planet/gas12
+		distance 8121
+		period 3193.998
+	object
+		sprite planet/gas13-b
+		distance 16362
+		period 9134.293
+	object Hartiome
+		sprite planet/forest5-b
+		distance 6835.805
+		period 4417.27
 
 system Jeguna
 	pos -994.043 -278.43
@@ -4409,6 +4399,22 @@ planet Astelia
 	government "Derogam Armada"
 	bribe 0
 	security 1
+
+planet Hartiome
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government "Derogam Armada"
+	bribe 0
+	security 1
+
+planet Emtania
+	landscape land/tbd
+	description TBD
+	spaceport Spaceport
+	government "Derogam Armada"
+	bribe 0
+	security 0.95
 
 planet Derogate
 	bribe 0
