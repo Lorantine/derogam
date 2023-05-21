@@ -93,8 +93,7 @@ ship "Derogam Assassin"
 			"hull damage" 1700
 			"hit force" 4800
 	outfits
-		"Thunderhead Launcher" 4
-		"Thunderhead Missile" 160
+		"Moonbeam" 4
 		"Bombardment Turret" 4
 
 		"DGM Magma Core"
@@ -107,17 +106,26 @@ ship "Derogam Assassin"
 		"Thruster (Asteroid Class)"
 		"Steering (Planetary Class)"
 		"Hyperdrive"
-	engine -62.5 143.125 .525
-	engine 0 124.375 .925
-	engine 62.5 143.125 .525
-	gun -22.5 -138.75 "Thunderhead Launcher"
-	gun 22.5 -138.75 "Thunderhead Launcher"
-	gun -30 -131.25 "Thunderhead Launcher"
-	gun 30 -131.25 "Thunderhead Launcher"
-	turret -62.5 0 "Bombardment Turret"
-	turret 62.5 0 "Bombardment Turret"
-	turret -62.5 50 "Bombardment Turret"
-	turret 62.5 50 "Bombardment Turret"
+	engine -70 148.75
+		zoom .525
+		angle 0
+		under
+	engine 0 112.5
+		zoom .85
+		angle 0
+		under
+	engine 70 148.75
+		zoom .525
+		angle 0
+		under
+	gun -29.75 -56.25 "Moonbeam"
+	gun 29.75 -56.25 "Moonbeam"
+	gun -49 -36.875 "Moonbeam"
+	gun 49 -36.875 "Moonbeam"
+	turret -70 7.5 "Bombardment Turret"
+	turret 70 7.5 "Bombardment Turret"
+	turret -70 82.5 "Bombardment Turret"
+	turret 70 82.5 "Bombardment Turret"
 	explode "tiny explosion" 40
 	explode "small explosion" 50
 	explode "medium explosion" 35
