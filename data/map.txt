@@ -2912,6 +2912,7 @@ system Glivast
 		period 257.373
 	object Derogate
 		sprite planet/derogamgate
+			"frame rate" 0.25
 		distance 1443.147
 		period 340.297
 	object
@@ -4417,6 +4418,7 @@ planet Emtania
 	security 0.95
 
 planet Derogate
+	government "Derogam Armada"
 	bribe 0
 	security 1
 	wormhole Derogate
