@@ -152,8 +152,8 @@ ship "Derogam Warrior"
 		"outfit space" 836
 		"weapon capacity" 372
 		"engine capacity" 141
-		"energy generation" 2
-		"energy capacity" 1600
+		"energy generation" 3
+		"energy capacity" 2400
 		"hull repair rate" .9
 		"hull energy" .9
 		"shield generation" 1.2
