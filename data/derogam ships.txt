@@ -140,13 +140,13 @@ ship "Derogam Warrior"
 	attributes
 		category "Heavy Warship"
 		"cost" 43825000
-		"hull" 36600
-		"shields" 52300
-		"mass" 790
-		"drag" 12.9
+		"hull" 46600
+		"shields" 62300
+		"mass" 1090
+		"drag" 16.9
 		"required crew" 56
 		"bunks" 88
-		"heat dissipation" 1
+		"heat dissipation" 1.5
 		"fuel capacity" 700
 		"cargo space" 71
 		"outfit space" 836
@@ -154,11 +154,11 @@ ship "Derogam Warrior"
 		"engine capacity" 141
 		"energy generation" 2
 		"energy capacity" 1600
-		"hull repair rate" .6
-		"hull energy" .6
-		"shield generation" .8
-		"shield energy" .8
-		"heat generation" 48
+		"hull repair rate" .9
+		"hull energy" .9
+		"shield generation" 1.2
+		"shield energy" 1.2
+		"heat generation" 96
 		weapon
 			"blast radius" 380
 			"shield damage" 5000
@@ -169,7 +169,7 @@ ship "Derogam Warrior"
 		"Bombardment Turret" 6
 
 		"DGM Searing Core"
-		"DGM Flame Core"
+		"DGM Inferno Core"
 		"DGM Healing Core Epicia"
 		"DGM Cooling Coil Epicia"
 		"DGM Cooling Coil Araw"
@@ -287,8 +287,8 @@ ship "Derogam Guardian"
 		"cost" 79266000
 		"hull" 68200
 		"shields" 91700
-		"mass" 1120
-		"drag" 19.5
+		"mass" 1620
+		"drag" 24.5
 		"required crew" 127
 		"bunks" 159
 		"heat dissipation" 1.6
@@ -303,7 +303,7 @@ ship "Derogam Guardian"
 		"hull energy" 1.5
 		"shield generation" 2
 		"shield energy" 2
-		"heat generation" 120
+		"heat generation" 160
 		weapon
 			"blast radius" 550
 			"shield damage" 7200
