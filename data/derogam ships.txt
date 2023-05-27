@@ -65,28 +65,29 @@ ship "Derogam Sentry"
 
 ship "Derogam Assassin"
 	sprite "ship/derogam assassin"
+	thumbnail "thumbnail/derogam assassin"
 	attributes
 		category "Medium Warship"
 		"cost" 24653000
 		"hull" 23600
 		"shields" 34100
-		"mass" 430
-		"drag" 6.4
+		"mass" 580
+		"drag" 7.1
 		"required crew" 29
 		"bunks" 55
-		"heat dissipation" 1
+		"heat dissipation" 1.4
 		"fuel capacity" 700
 		"cargo space" 54
-		"outfit space" 615
+		"outfit space" 617
 		"weapon capacity" 284
 		"engine capacity" 113
-		"energy generation" 1
-		"energy capacity" 800
-		"hull repair rate" .3
-		"hull energy" .3
-		"shield generation" .4
-		"shield energy" .4
-		"heat generation" 24
+		"energy generation" 1.5
+		"energy capacity" 1200
+		"hull repair rate" .45
+		"hull energy" .45
+		"shield generation" .6
+		"shield energy" .6
+		"heat generation" 48
 		weapon
 			"blast radius" 320
 			"shield damage" 3400
@@ -96,15 +97,14 @@ ship "Derogam Assassin"
 		"Moonbeam" 4
 		"Bombardment Turret" 4
 
-		"DGM Magma Core"
+		"DGM Searing Core"
 		"DGM Ember Core"
-		"DGM Blaze Core"
 		"DGM Healing Core Deer"
-		"DGM Cooling Coil Deer" 2
+		"DGM Healing Core Araw"
+		"DGM Cooling Coil Epicia"
 
-		"Thruster (Lunar Class)"
-		"Thruster (Asteroid Class)"
-		"Steering (Planetary Class)"
+		"DGM Inarad Propulser Epicia"
+		"DGM Otuxis Propulser Epicia"
 		"Hyperdrive"
 	engine -70 148.75
 		zoom .525
@@ -118,6 +118,64 @@ ship "Derogam Assassin"
 		zoom .525
 		angle 0
 		under
+	"reverse engine" -70 -78.5
+		zoom 0.125
+		angle 360
+		under
+	"reverse engine" 70 -78.5
+		zoom 0.125
+		angle 360
+		under
+	"steering engine" 51.25 106.25
+		zoom 0.125
+		angle 90
+		under
+		left
+	"steering engine" 51.25 99.375
+		zoom 0.125
+		angle 90
+		under
+		left
+	"steering engine" 27.5 -57.5
+		zoom 0.125
+		angle -90
+		under
+		left
+	"steering engine" 27.5 -63.75
+		zoom 0.125
+		angle -90
+		under
+		left
+	"steering engine" 27.5 -63.75
+		zoom 0.125
+		angle -90
+		under
+		left
+	"steering engine" -51.25 106.25
+		zoom 0.125
+		angle -90
+		under
+		right
+	"steering engine" -51.25 99.375
+		zoom 0.125
+		angle -90
+		under
+		right
+	"steering engine" -27.5 -57.5
+		zoom 0.125
+		angle 90
+		under
+		right
+	"steering engine" -27.5 -63.75
+		zoom 0.125
+		angle 90
+		under
+		right
+	"steering engine" -27.5 -63.75
+		zoom 0.125
+		angle 90
+		under
+		right
 	gun -29.75 -56.25 "Moonbeam"
 	gun 29.75 -56.25 "Moonbeam"
 	gun -49 -36.875 "Moonbeam"
