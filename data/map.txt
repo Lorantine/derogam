@@ -11,6 +11,7 @@
 system Achenor
 	pos -1382.088 -405.63
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 425.92
 	belt 1468
 	"jump range" 60
@@ -123,6 +124,7 @@ system Penoshrep
 system Ailpak
 	pos -1153.311 -508.896
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 858.28
 	belt 1150
 	"jump range" 60
@@ -180,6 +182,7 @@ system Ailpak
 system Algiad
 	pos -1103.374 -554.22
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 625
 	belt 1525
 	"jump range" 60
@@ -235,6 +238,7 @@ system Algiad
 system Ogravros
 	pos -1083.778 -714.593
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 486.68
 	belt 1039
 	"jump range" 60
@@ -288,6 +292,7 @@ system Ogravros
 system Amolrar
 	pos -1276.484 -199.792
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 2140.92
 	belt 1982
 	"jump range" 60
@@ -348,6 +353,7 @@ system Amolrar
 system Konra
 	pos -1279.826 -416.073
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 625
 	belt 1190
 	"jump range" 60
@@ -416,6 +422,7 @@ system Konra
 system Sevalas
 	pos -1271.965 -293.569
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 659.2
 	belt 1583
 	"jump range" 60
@@ -486,6 +493,7 @@ system Sevalas
 system Ryumek
 	pos -1180.509 -422.621
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 625
 	belt 1260
 	"jump range" 60
@@ -536,6 +544,7 @@ system Ryumek
 system Protatch
 	pos -1376.027 -518.91
 	government "Derogam Armada"
+	attributes derogam "derogam armada"
 	habitable 4500
 	belt 1600
 	"jump range" 60
@@ -587,6 +596,7 @@ system Protatch
 system Inumi
 	pos -1327.607 -354.704
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 425.92
 	belt 1778
 	"jump range" 60
@@ -644,6 +654,7 @@ system Inumi
 system Arotina
 	pos -1401.702 -593.56
 	government "Derogam Armada"
+	attributes derogam "derogam armada" "derogam capital"
 	habitable 10562.197
 	belt 1285
 	"jump range" 60
@@ -816,6 +827,7 @@ system Exircudom
 system Ecraus
 	pos -1241.668 -517.94
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 625
 	belt 1713
 	"jump range" 60
@@ -882,6 +894,7 @@ system Ecraus
 system Achmor
 	pos -1159.743 -155.199
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 625
 	belt 1497
 	"jump range" 60
@@ -958,6 +971,7 @@ system Achmor
 system Vampy
 	pos -1035.939 -253.014
 	government Derogam
+	attributes derogam "derogam se"
 	habitable 425.92
 	belt 1868
 	"jump range" 60
@@ -1011,6 +1025,7 @@ system Vampy
 system Kelicev
 	pos -1017.352 -79.337
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 486.68
 	belt 1070
 	"jump range" 60
@@ -1076,6 +1091,7 @@ system Kelicev
 system Nowoos
 	pos -1234.757 -734.954
 	government Derogam
+	attributes derogam "derogam capital" "derogam n"
 	habitable 1125.92
 	belt 1629
 	"jump range" 60
@@ -1136,6 +1152,7 @@ system Nowoos
 system Epicia
 	pos -1008.758 -706.839
 	government Derogam
+	attributes derogam "derogam ne"
 	habitable 11500
 	belt 1392
 	"jump range" 60
@@ -1185,6 +1202,7 @@ system Epicia
 system Darsara
 	pos -1035.737 -541.523
 	government Derogam
+	attributes derogam "derogam ne"
 	habitable 2239.8
 	belt 1868
 	"jump range" 60
@@ -1270,6 +1288,7 @@ system Darsara
 system Wintrish
 	pos -1072.16 -648.717
 	government Derogam
+	attributes derogam "derogam ne"
 	habitable 2795
 	belt 1038
 	"jump range" 60
@@ -1323,6 +1342,7 @@ system Wintrish
 system Intariag
 	pos -1219.829 -468.889
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 786.68
 	belt 1983
 	"jump range" 60
@@ -1397,6 +1417,7 @@ system Intariag
 system Visiolant
 	pos -992.96 -505.329
 	government Quarg
+	attributes derogam "derogam ne" ringworld
 	habitable 625
 	belt 1483
 	"jump range" 60
@@ -1502,6 +1523,7 @@ system Visiolant
 system Damek
 	pos -1185.594 -266.68
 	government Derogam
+	attributes derogam "derogam capital" "derogam sw" "derogam sw far"
 	habitable 1219.96
 	belt 1180
 	"jump range" 60
@@ -1563,6 +1585,7 @@ system Damek
 system Chanion
 	pos -1116.34 -24.351
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 3645
 	belt 1704
 	"jump range" 60
@@ -1623,6 +1646,7 @@ system Chanion
 system Remol
 	pos -1424.275 -189.841
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 320
 	belt 1790
 	"jump range" 60
@@ -1670,6 +1694,7 @@ system Remol
 system Kecal
 	pos -1214.518 -201.481
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 806.68
 	belt 1391
 	"jump range" 60
@@ -1722,6 +1747,7 @@ system Kecal
 system Hydoroc
 	pos -1088.108 -88.133
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 786.68
 	belt 1072
 	"jump range" 60
@@ -1783,6 +1809,7 @@ system Hydoroc
 system Merishar
 	pos -1081.18 -401.215
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 925.92
 	belt 1868
 	"jump range" 60
@@ -1838,6 +1865,7 @@ system Merishar
 system Merzok
 	pos -1151.681 -347.659
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 719.96
 	belt 1392
 	"jump range" 60
@@ -1893,6 +1921,7 @@ system Merzok
 system Ceriac
 	pos -1237.224 -131.162
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 945
 	belt 1304
 	"jump range" 60
@@ -1959,6 +1988,7 @@ system Ceriac
 system Nymioden
 	pos -1218.112 -382.31
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 1125
 	belt 1927
 	"jump range" 60
@@ -2016,6 +2046,7 @@ system Nymioden
 system Ferinol
 	pos -986.524 -147.664
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 851.84
 	belt 1788
 	"jump range" 60
@@ -2142,6 +2173,7 @@ system Gesines
 system Horrogos
 	pos -1140.925 -629.222
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 1250
 	belt 1765
 	"jump range" 60
@@ -2200,6 +2232,7 @@ system Horrogos
 system Voruna
 	pos -1168.927 -108.2
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 320
 	belt 1731
 	"jump range" 60
@@ -2257,6 +2290,7 @@ system Voruna
 system Araw
 	pos -1105.155 -288.8
 	government Derogam
+	attributes derogam "derogam se"
 	habitable 553.28
 	belt 1356
 	"jump range" 60
@@ -2328,6 +2362,7 @@ system Araw
 system Stanyr
 	pos -1049.374 -19.014
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 320
 	belt 1900
 	"jump range" 60
@@ -2382,6 +2417,7 @@ system Stanyr
 system Werazel
 	pos -1021.309 -191.159
 	government Derogam
+	attributes derogam "derogam capital" "derogam se"
 	habitable 1566.68
 	belt 1324
 	"jump range" 60
@@ -2444,6 +2480,7 @@ system Werazel
 system Aurene
 	pos -1235.977 -599.408
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 851.84
 	belt 1459
 	"jump range" 60
@@ -2502,6 +2539,7 @@ system Aurene
 system Wolzem
 	pos -1428.064 -466.171
 	government "Derogam Armada"
+	attributes derogam "derogam armada"
 	habitable 11850
 	belt 1058
 	"jump range" 60
@@ -2554,6 +2592,7 @@ system Wolzem
 system Ryceb
 	pos -1348.965 -220.947
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 425.92
 	belt 1860
 	"jump range" 60
@@ -2614,6 +2653,7 @@ system Ryceb
 system Reiyo
 	pos -1117.737 -454.681
 	government Derogam
+	attributes derogam "derogam capital" "derogam core"
 	habitable 1224.2
 	belt 1868
 	"jump range" 60
@@ -2696,6 +2736,7 @@ system Reiyo
 system Bishynt
 	pos -1099.125 -211.679
 	government Derogam
+	attributes derogam "derogam se"
 	habitable 1400
 	belt 1712
 	"jump range" 60
@@ -2761,6 +2802,7 @@ system Bishynt
 system Vensic
 	pos -1043.413 -342.838
 	government Derogam
+	attributes derogam "derogam se"
 	habitable 719.96
 	belt 1878
 	"jump range" 60
@@ -2823,6 +2865,7 @@ system Vensic
 system Natrasah
 	pos -980.934 2.196
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 135
 	belt 1538
 	link Sheprex
@@ -2881,6 +2924,7 @@ system Natrasah
 system Glivast
 	pos -1292.014 -571.926
 	government Derogam
+	attributes derogam "derogam core"
 	habitable 1885
 	belt 1831
 	"jump range" 60
@@ -2935,6 +2979,7 @@ system Glivast
 system Weravid
 	pos -1069.228 -141.394
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 786.68
 	belt 1438
 	"jump range" 60
@@ -2994,6 +3039,7 @@ system Weravid
 system Seranir
 	pos -1061.975 -599.866
 	government Derogam
+	attributes derogam "derogam ne"
 	habitable 2201.68
 	belt 1058
 	"jump range" 60
@@ -3066,6 +3112,7 @@ system Seranir
 system Sigen
 	pos -1243.743 -347.865
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 425.92
 	belt 1225
 	"jump range" 60
@@ -3116,6 +3163,7 @@ system Sigen
 system Fafnarin
 	pos -1155.493 -586.352
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 625
 	belt 1391
 	"jump range" 60
@@ -3161,6 +3209,7 @@ system Fafnarin
 system Xinadra
 	pos -997.234 -631.384
 	government Derogam
+	attributes derogam "derogam capital" "derogam ne"
 	habitable 858.28
 	belt 1695
 	"jump range" 60
@@ -3222,6 +3271,7 @@ system Xinadra
 system Sheprex
 	pos -1043.043 35.347
 	government Derogam
+	attributes derogam "derogam se" "derogam se far"
 	habitable 625
 	belt 1712
 	"jump range" 60
@@ -3278,8 +3328,10 @@ system Sheprex
 system Nehalina
 	pos -1217.853 -56.458
 	government Derogam
+	attributes derogam "derogam sw" "derogam sw far"
 	habitable 858.28
 	belt 1611
+	"jump range" 75
 	link Voruna
 	asteroids "small rock" 6 3.634
 	asteroids "large rock" 2 2.618
@@ -3415,6 +3467,7 @@ system Themension
 system Deer
 	pos -1320.93 -480.184
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 4270
 	belt 1368
 	"jump range" 60
@@ -3475,6 +3528,7 @@ system Deer
 system Forian
 	pos -1344.842 -613.504
 	government "Derogam Armada"
+	attributes derogam "derogam armada"
 	habitable 8400
 	belt 1035
 	"jump range" 60
@@ -3531,6 +3585,7 @@ system Forian
 system Jeguna
 	pos -994.043 -278.43
 	government Derogam
+	attributes derogam "derogam se"
 	habitable 425.92
 	belt 1224
 	"jump range" 60
@@ -3591,6 +3646,7 @@ system Jeguna
 system Batelest
 	pos -1015.421 -467.755
 	government Derogam
+	attributes derogam "derogam ne"
 	habitable 1766.876
 	belt 1716
 	"jump range" 60
@@ -3655,6 +3711,7 @@ system Batelest
 system Nastebsia
 	pos -1339.52 -271.015
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 1400
 	"jump range" 60
 	link Antahmas
@@ -3724,6 +3781,7 @@ system Nastebsia
 system Natiahz
 	pos -1197.865 -662.925
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 625
 	belt 1963
 	"jump range" 60
@@ -3778,6 +3836,7 @@ system Natiahz
 system Suniba
 	pos -1164.349 -738.769
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 1025.92
 	belt 1982
 	"jump range" 60
@@ -3827,6 +3886,7 @@ system Suniba
 system Taklarkirrok
 	pos -1276.384 -687.222
 	government Derogam
+	attributes derogam "derogam n"
 	habitable 1715
 	belt 1086
 	"jump range" 60
@@ -3881,6 +3941,7 @@ system Taklarkirrok
 system Antahmas
 	pos -1409.403 -283.236
 	government Derogam
+	attributes derogam "derogam sw"
 	habitable 4500
 	belt 1024 9
 	"jump range" 60
