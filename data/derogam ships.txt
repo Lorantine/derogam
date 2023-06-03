@@ -107,15 +107,15 @@ ship "Derogam Assassin"
 		"DGM Otuxis Propulser Epicia"
 		"Hyperdrive"
 	engine -70 148.75
-		zoom .525
+		zoom .45
 		angle 0
 		under
 	engine 0 112.5
-		zoom .85
+		zoom .9
 		angle 0
 		under
 	engine 70 148.75
-		zoom .525
+		zoom .45
 		angle 0
 		under
 	"reverse engine" -70 -78.5
