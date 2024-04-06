@@ -68,11 +68,11 @@ ship "Derogam Sentry"
 		under
 	"reverse engine" -48.75 -113.3125
 		zoom 0.1
-		angle 360
+		angle 0
 		under
 	"reverse engine" 48.75 -113.3125
 		zoom 0.1
-		angle 360
+		angle 0
 		under
 	"steering engine" 62.5 -55
 		zoom 0.1
@@ -204,11 +204,11 @@ ship "Derogam Assassin"
 		under
 	"reverse engine" -70 -78.5
 		zoom 0.125
-		angle 360
+		angle 0
 		under
 	"reverse engine" 70 -78.5
 		zoom 0.125
-		angle 360
+		angle 0
 		under
 	"steering engine" 51.25 106.25
 		zoom 0.125
@@ -343,11 +343,11 @@ ship "Derogam Warrior"
 		under
 	"reverse engine" -137.5 -45.5
 		zoom 0.2
-		angle 360
+		angle 0
 		under
 	"reverse engine" 137.5 -45.5
 		zoom 0.2
-		angle 360
+		angle 0
 		under
 	"steering engine" 102.5 -70
 		zoom 0.1875
@@ -486,19 +486,19 @@ ship "Derogam Guardian"
 		under
 	"reverse engine" -175 -43
 		zoom 0.25
-		angle 360
+		angle 0
 		under
 	"reverse engine" 175 -43
 		zoom 0.25
-		angle 360
+		angle 0
 		under
 	"reverse engine" -88.5 -105.5
 		zoom 0.25
-		angle 360
+		angle 0
 		under
 	"reverse engine" 88.5 -105.5
 		zoom 0.25
-		angle 360
+		angle 0
 		under
 	"steering engine" 37.5 -101.25
 		zoom 0.25
