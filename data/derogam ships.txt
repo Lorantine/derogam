@@ -577,6 +577,8 @@ ship "Derogam Gatherer"
 		category "Light Freighter"
 		"cost" 2829000
 		"shields" 9700
+		"shield delay" 120
+		"depleted shield delay" 480
 		"hull" 7400
 		"required crew" 2
 		"bunks" 8
@@ -624,6 +626,8 @@ ship "Derogam Collector"
 		category "Heavy Freighter"
 		"cost" 6498000
 		"shields" 14300
+		"shield delay" 120
+		"depleted shield delay" 480
 		"hull" 11700
 		"required crew" 6
 		"bunks" 15
@@ -769,6 +773,8 @@ ship "Derogam Hoarder"
 		category "Heavy Freighter"
 		"cost" 12647000
 		"shields" 24400
+		"shield delay" 120
+		"depleted shield delay" 480
 		"hull" 19300
 		"required crew" 14
 		"bunks" 23
@@ -955,6 +961,8 @@ ship "Derogam Itinerant"
 		category "Transport"
 		"cost" 6526000
 		"shields" 15200
+		"shield delay" 120
+		"depleted shield delay" 480
 		"hull" 7300
 		"required crew" 7
 		"bunks" 49
