@@ -17,6 +17,7 @@ ship "Derogam Sentry"
 		"cost" 16376000
 		"hull" 15100
 		"shields" 21900
+		"depleted shield delay" 90
 		"mass" 390
 		"drag" 6.5
 		"required crew" 17
@@ -156,6 +157,7 @@ ship "Derogam Assassin"
 		"cost" 24653000
 		"hull" 23600
 		"shields" 34100
+		"depleted shield delay" 90
 		"mass" 580
 		"drag" 7.1
 		"required crew" 29
@@ -286,6 +288,7 @@ ship "Derogam Warrior"
 		"cost" 43825000
 		"hull" 46600
 		"shields" 62300
+		"depleted shield delay" 90
 		"mass" 1090
 		"drag" 16.9
 		"required crew" 56
@@ -432,6 +435,7 @@ ship "Derogam Guardian"
 		"cost" 79266000
 		"hull" 68200
 		"shields" 91700
+		"depleted shield delay" 90
 		"mass" 1620
 		"drag" 24.5
 		"required crew" 127
