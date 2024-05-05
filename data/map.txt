@@ -139,6 +139,7 @@ system Ailpak
 	minables iron 5 4.777
 	trade Clothing 221
 	trade Food 507
+	trade Metal 498
 	fleet "Small Derogam Civilians" 600
 	fleet "Medium Derogam Civilians" 900
 	fleet "Large Derogam Civilians" 1800
@@ -198,6 +199,7 @@ system Algiad
 	minables lead 19 4.659
 	trade Clothing 225
 	trade Food 464
+	trade Metal 505
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -249,6 +251,7 @@ system Ogravros
 	asteroids "large metal" 1 6.653
 	trade Clothing 143
 	trade Food 347
+	trade Metal 587
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -518,7 +521,15 @@ system Ryumek
 	minables silver 21 7.28
 	minables uranium 19 7.311
 	trade Clothing 302
+	trade Electronics 812
+	trade Equipment 450
 	trade Food 330
+	trade "Heavy Metals" 987
+	trade Industrial 778
+	trade "Luxury Goods" 1234
+	trade Medical 578
+	trade Metal 364
+	trade Plastic 423
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -767,6 +778,7 @@ system Ecrusber
 	asteroids "large metal" 1 3.861
 	trade Clothing 172
 	trade Food 296
+	trade Metal 532
 	fleet "Small Derogam Armada" 15000
 	fleet "Medium Derogam Armada" 30000
 	fleet "Large Derogam Armada" 60000
@@ -875,7 +887,7 @@ system Ecraus
 	minables uranium 1 5.163
 	trade Clothing 207
 	trade Electronics 704
-	trade Equipment 438
+	trade Equipment 512
 	trade Food 537
 	trade "Heavy Metals" 864
 	trade Industrial 709
@@ -1006,7 +1018,15 @@ system Vampy
 	minables lead 5 3.691
 	minables silver 6 3.729
 	trade Clothing 356
+	trade Electronics 681
+	trade Equipment 553
 	trade Food 356
+	trade "Heavy Metals" 1199
+	trade Industrial 851
+	trade "Luxury Goods" 1374
+	trade Medical 706
+	trade Metal 251
+	trade Plastic 331
 	fleet "Small Derogam Civilians" 2000
 	fleet "Medium Derogam Civilians" 3000
 	fleet "Large Derogam Civilians" 6000
@@ -1065,7 +1085,15 @@ system Kelicev
 	minables aluminum 28 7.512
 	minables silicon 14 7.355
 	trade Clothing 421
+	trade Electronics 604
+	trade Equipment 722
 	trade Food 335
+	trade "Heavy Metals" 1301
+	trade Industrial 864
+	trade "Luxury Goods" 1494
+	trade Medical 859
+	trade Metal 208
+	trade Plastic 284
 	fleet "Small Derogam Civilians" 1800
 	fleet "Medium Derogam Civilians" 2700
 	fleet "Large Derogam Civilians" 5400
@@ -1132,6 +1160,7 @@ system Nowoos
 	minables silver 29 6.878
 	trade Clothing 176
 	trade Food 409
+	trade Metal 531
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -1191,6 +1220,7 @@ system Epicia
 	asteroids "large metal" 4 3.967
 	trade Clothing 152
 	trade Food 276
+	trade Metal 574
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -1244,6 +1274,7 @@ system Darsara
 	minables silver 6 3.729
 	trade Clothing 210
 	trade Food 253
+	trade Metal 493
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -1331,6 +1362,7 @@ system Wintrish
 	minables silver 1 3.582
 	trade Clothing 174
 	trade Food 176
+	trade Metal 553
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -1456,6 +1488,7 @@ system Visiolant
 	minables lead 1 7.862
 	trade Clothing 189
 	trade Food 230
+	trade Metal 512
 	fleet "Small Derogam Civilians" 3000
 	fleet "Medium Derogam Civilians" 4500
 	fleet "Large Derogam Civilians" 9000
@@ -1639,7 +1672,15 @@ system Chanion
 	asteroids "large metal" 20 1.511
 	minables silver 10 2.492
 	trade Clothing 392
+	trade Electronics 669
+	trade Equipment 693
 	trade Food 435
+	trade "Heavy Metals" 1243
+	trade Industrial 832
+	trade "Luxury Goods" 1502
+	trade Medical 887
+	trade Metal 202
+	trade Plastic 316
 	fleet "Small Derogam Civilians" 1700
 	fleet "Medium Derogam Civilians" 2550
 	fleet "Large Derogam Civilians" 5100
@@ -1817,7 +1858,15 @@ system Hydoroc
 	asteroids "large metal" 95 4.896
 	minables uranium 13 8.51
 	trade Clothing 410
+	trade Electronics 652
+	trade Equipment 704
 	trade Food 397
+	trade "Heavy Metals" 1278
+	trade Industrial 858
+	trade "Luxury Goods" 1467
+	trade Medical 838
+	trade Metal 219
+	trade Plastic 279
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -1882,7 +1931,15 @@ system Merishar
 	minables lead 5 3.691
 	minables silver 6 3.729
 	trade Clothing 263
+	trade Electronics 727
+	trade Equipment 464
 	trade Food 411
+	trade "Heavy Metals" 1036
+	trade Industrial 724
+	trade "Luxury Goods" 1168
+	trade Medical 548
+	trade Metal 402
+	trade Plastic 410
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -1941,7 +1998,15 @@ system Merzok
 	asteroids "large metal" 2 3.6
 	minables titanium 3 3.917
 	trade Clothing 289
+	trade Electronics 769
+	trade Equipment 471
 	trade Food 389
+	trade "Heavy Metals" 1043
+	trade Industrial 753
+	trade "Luxury Goods" 1189
+	trade Medical 553
+	trade Metal 396
+	trade Plastic 398
 	fleet "Small Derogam Civilians" 700
 	fleet "Medium Derogam Civilians" 1050
 	fleet "Large Derogam Civilians" 2100
@@ -2140,7 +2205,15 @@ system Ferinol
 	minables copper 17 5.4
 	minables lead 7 5.042
 	trade Clothing 403
+	trade Electronics 622
+	trade Equipment 689
 	trade Food 260
+	trade "Heavy Metals" 1289
+	trade Industrial 874
+	trade "Luxury Goods" 1485
+	trade Medical 843
+	trade Metal 215
+	trade Plastic 265
 	fleet "Small Derogam Civilians" 1800
 	fleet "Medium Derogam Civilians" 2700
 	fleet "Large Derogam Civilians" 5400
@@ -2269,6 +2342,7 @@ system Horrogos
 	minables neodymium 1 2.998
 	trade Clothing 160
 	trade Food 402
+	trade Metal 560
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -2387,7 +2461,15 @@ system Araw
 	minables iron 29 5.314
 	minables neodymium 9 7.813
 	trade Clothing 322
+	trade Electronics 721
+	trade Equipment 525
 	trade Food 332
+	trade "Heavy Metals" 1112
+	trade Industrial 817
+	trade "Luxury Goods" 1267
+	trade Medical 629
+	trade Metal 327
+	trade Plastic 344
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -2457,7 +2539,15 @@ system Stanyr
 	minables titanium 38 5.217
 	minables tungsten 21 5.041
 	trade Clothing 380
+	trade Electronics 702
+	trade Equipment 667
 	trade Food 411
+	trade "Heavy Metals" 1268
+	trade Industrial 867
+	trade "Luxury Goods" 1450
+	trade Medical 903
+	trade Metal 226
+	trade Plastic 333
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -2515,7 +2605,15 @@ system Werazel
 	minables aluminum 22 6.537
 	minables copper 16 5.874
 	trade Clothing 356
+	trade Electronics 678
+	trade Equipment 592
 	trade Food 285
+	trade "Heavy Metals" 1178
+	trade Industrial 863
+	trade "Luxury Goods" 1342
+	trade Medical 702
+	trade Metal 252
+	trade Plastic 292
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -2576,6 +2674,7 @@ system Aurene
 	asteroids "large metal" 5 2.512
 	trade Clothing 196
 	trade Food 556
+	trade Metal 487
 	fleet "Small Derogam Civilians" 600
 	fleet "Medium Derogam Civilians" 900
 	fleet "Large Derogam Civilians" 1800
@@ -2840,7 +2939,15 @@ system Bishynt
 	asteroids "small metal" 4 5.586
 	asteroids "large metal" 2 4.275
 	trade Clothing 379
+	trade Electronics 714
+	trade Equipment 618
 	trade Food 336
+	trade "Heavy Metals" 1234
+	trade Industrial 889
+	trade "Luxury Goods" 1395
+	trade Medical 777
+	trade Metal 253
+	trade Plastic 284
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -2912,7 +3019,15 @@ system Vensic
 	minables aluminum 5 4.065
 	minables silver 3 4.283
 	trade Clothing 321
+	trade Electronics 719
+	trade Equipment 502
 	trade Food 364
+	trade "Heavy Metals" 1087
+	trade Industrial 787
+	trade "Luxury Goods" 1251
+	trade Medical 617
+	trade Metal 345
+	trade Plastic 377
 	fleet "Small Derogam Civilians" 800
 	fleet "Medium Derogam Civilians" 1200
 	fleet "Large Derogam Civilians" 2400
@@ -2974,7 +3089,15 @@ system Natrasah
 	minables silicon 54 6.638
 	minables titanium 17 6.661
 	trade Clothing 361
+	trade Electronics 729
+	trade Equipment 688
 	trade Food 466
+	trade "Heavy Metals" 1298
+	trade Industrial 861
+	trade "Luxury Goods" 1409
+	trade Medical 873
+	trade Metal 198
+	trade Plastic 351
 	fleet "Small Derogam Civilians" 4000
 	fleet "Medium Derogam Civilians" 6000
 	fleet "Large Derogam Civilians" 12000
@@ -3034,6 +3157,7 @@ system Glivast
 	minables lead 9 2.988
 	trade Clothing 212
 	trade Food 510
+	trade Metal 532
 	fleet "Small Derogam Civilians" 1200
 	fleet "Medium Derogam Civilians" 1800
 	fleet "Large Derogam Civilians" 3600
@@ -3091,7 +3215,15 @@ system Weravid
 	asteroids "large metal" 1 3.203
 	minables iron 7 3.083
 	trade Clothing 388
+	trade Electronics 639
+	trade Equipment 653
 	trade Food 326
+	trade "Heavy Metals" 1245
+	trade Industrial 911
+	trade "Luxury Goods" 1418
+	trade Medical 786
+	trade Metal 197
+	trade Plastic 247
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -3152,6 +3284,7 @@ system Seranir
 	minables aluminum 4 4.082
 	trade Clothing 195
 	trade Food 143
+	trade Metal 532
 	fleet "Small Derogam Civilians" 1100
 	fleet "Medium Derogam Civilians" 1650
 	fleet "Large Derogam Civilians" 3300
@@ -3289,6 +3422,7 @@ system Fafnarin
 	minables uranium 2 7.369
 	trade Clothing 199
 	trade Food 462
+	trade Metal 537
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -3334,6 +3468,7 @@ system Xinadra
 	minables tungsten 1 2.19
 	trade Clothing 183
 	trade Food 232
+	trade Metal 518
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -3393,7 +3528,15 @@ system Sheprex
 	asteroids "small metal" 4 5.586
 	asteroids "large metal" 2 4.275
 	trade Clothing 378
+	trade Electronics 703
+	trade Equipment 676
 	trade Food 447
+	trade "Heavy Metals" 1270
+	trade Industrial 874
+	trade "Luxury Goods" 1466
+	trade Medical 912
+	trade Metal 230
+	trade Plastic 329
 	fleet "Small Derogam Civilians" 1600
 	fleet "Medium Derogam Civilians" 2400
 	fleet "Large Derogam Civilians" 4800
@@ -3712,7 +3855,15 @@ system Jeguna
 	minables copper 15 4.551
 	minables iron 21 3.211
 	trade Clothing 339
+	trade Electronics 664
+	trade Equipment 537
 	trade Food 337
+	trade "Heavy Metals" 1156
+	trade Industrial 829
+	trade "Luxury Goods" 1312
+	trade Medical 663
+	trade Metal 289
+	trade Plastic 355
 	fleet "Small Derogam Civilians" 1400
 	fleet "Medium Derogam Civilians" 2100
 	fleet "Large Derogam Civilians" 4200
@@ -3773,6 +3924,7 @@ system Batelest
 	minables silicon 2 10.18
 	trade Clothing 238
 	trade Food 300
+	trade Metal 448
 	fleet "Small Derogam Civilians" 900
 	fleet "Medium Derogam Civilians" 1350
 	fleet "Large Derogam Civilians" 2700
@@ -3918,6 +4070,7 @@ system Natiahz
 	minables titanium 3 4.119
 	trade Clothing 184
 	trade Food 510
+	trade Metal 534
 	fleet "Small Derogam Civilians" 1000
 	fleet "Medium Derogam Civilians" 1500
 	fleet "Large Derogam Civilians" 3000
@@ -3977,6 +4130,7 @@ system Suniba
 	minables titanium 1 5.814
 	trade Clothing 158
 	trade Food 367
+	trade Metal 558
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
@@ -4025,6 +4179,7 @@ system Taklarkirrok
 	minables silver 3 4.448
 	trade Clothing 187
 	trade Food 512
+	trade Metal 500
 	fleet "Small Derogam Civilians" 1300
 	fleet "Medium Derogam Civilians" 1950
 	fleet "Large Derogam Civilians" 3900
